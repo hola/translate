@@ -1,0 +1,92 @@
+'use strict'; /*jshint browser:true, es5:true*/
+define(function(){
+var E = {
+    access_any_site: {message: 'Accede a cualquier sitio desde '+
+        'cualquier paÃ­s!'},
+    unblocker_site_list: {message: 'Lista de sitios'},
+    settings: {message: 'ajustes'},
+    site_blocked: {message: '$1 Â¿bloqueado?'},
+    site_unblocked: {message: '$1 desbloqueado'},
+    more: {message: 'mÃ¡s...'},
+    not_working_more_options: {message: 'Â¿no funciona? mÃ¡s opciones...'},
+    even_more: {message: 'aÃºn mÃ¡s...'},
+    back_to: {message: 'volver a $1 $2'},
+    unblocker: {message: 'Desbloqueador'},
+    accelerator: {message: 'Acelerador'},
+    on: {message: 'ENCENDIDO'},
+    off: {message: 'APAGADO'},
+    turn_on: {message: 'Enciende para comenzar'},
+    unblocker_disabled: {message: 'Unblocker estÃ¡ desactivado'},
+    enable: {message: 'Activar'},
+    app_name: {message: 'Hola Un Internet Mejor'},
+    app_desc: {message: 'Acceder a toda la Internet! '+
+        'Ve al sitio bloqueado > selecciona icono Hola > cambia de paÃ­s > '+
+        'Â¡DISFRÃšTALO!'},
+    changing: {message: 'cambiando...'},
+    update: {message: 'Actualizar'},
+    initializing: {message: 'Iniciando, espera por favor...'},
+    loading: {message: 'Cargando'},
+    reload: {message: 'Actualizar'},
+    old_error: {message: 'VersiÃ³n muy antigua de Chrome. Chrome para '+
+        'usar hola <a>Actualizar</a>'},
+    ext_conflict_error: {message:'La configuraciÃ³n de proxy de red estÃ¡ '+
+        'siendo administrada por otra extensiÃ³n. Desactivar la extensiÃ³n '+
+        'para continuar con Hola <a>extensions</a>'},
+    start: {message: 'inicio'},
+    starting: {message: 'Iniciando...'},
+    try_to_reload: {message: 'Trate de <span>reload</span>'},
+    there_is_error: {message: 'Parece que hay un error'},
+    reload_hola: {message: 'Reload Hola'},
+    verify_internet: {message: 'Compruebe que tiene Internet'},
+    get_help_skype: {message: 'Obtener ayuda de ingeniero sobre skype: $1'},
+    auto_rule_btn: {message: '$1 $2 $3'},
+    script_btn: {message: '$1 $2 $3 fast'},
+    country_and_prefix: {message: '$1 ($2)'},
+    old_ff: {message: 'Antigua versiÃ³n de Firefox. '+
+        'Prensa <a> aquÃ­ </ a> para actualizar.'},
+    old_ff_missing: {message: '(algunas de las caracterÃ­sticas de '+
+        'Hola no se dispone de la versiÃ³n)'},
+    not_free: {message: 'La versiÃ³n gratuita de Hola necesita ser '+
+        're-habilitados cada 4 horas, y estÃ¡ patrocinado por anuncios.'},
+    not_free_get: {message: 'Obtenga hola Plus ininterrumpida de '+
+        'servicios, sin publicidad.'},
+    hola_on_other_devices: {message: 'Â¿Quieres hola en otros dispositivos? '+
+        '(Xbox, PS, Apple TV, iPhone ...). Clic aquÃ­'},
+    flag_country: {message: '$1 $2'},
+    locale_en: {message: 'InglÃ©s'},
+    locale_es: {message: 'EspaÃ±ol'},
+    locale_es_419: {message: 'EspaÃ±ol, AmÃ©rica Latina'},
+    locale_ar: {message: 'Ãrabe'},
+    locale_de: {message: 'AlemÃ¡n'},
+    locale_fr: {message: 'Idioma'},
+    locale_he: {message: 'Hebreo'},
+    locale_id: {message: 'Indonesio'},
+    locale_it: {message: 'Italiana'},
+    locale_nl: {message: 'HolandÃ©s'},
+    locale_pt_BR: {message: 'PortuguÃ©s'},
+    locale_ru: {message: 'Ruso'},
+    Australia: {message: 'Australia'},
+    Brazil: {message: 'Brasil'},
+    Canada: {message: 'CanadÃ¡'},
+    Chile: {message: 'Chile'},
+    Denmark: {message: 'Dinamarca'},
+    Egypt: {message: 'Egipto'},
+    France: {message: 'Francia'},
+    Germany: {message: 'Alemania'},
+    'Hong Kong': {message: 'Hong Kong'},
+    India: {message: 'India'},
+    Ireland: {message: 'Irlanda'},
+    Italy: {message: 'Italia'},
+    Netherlands: {message: 'PaÃ­ses Bajos'},
+    Poland: {message: 'Polonia'},
+    Russia: {message: 'Rusia'},
+    Singapore: {message: 'Singapur'},
+    Spain: {message: 'EspaÃ±a'},
+    Sweden: {message: 'Suecia'},
+    Switzerland: {message: 'Suiza'},
+    Turkey: {message: 'TurquÃ­a'},
+    'Great Britain': {message: 'Reino Unido'},
+    'United States': {message: 'Estados Unidos'},
+};
+
+return E; });
