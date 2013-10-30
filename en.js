@@ -1,6 +1,7 @@
 'use strict'; /*jshint browser:true, es5:true*/
 define(function(){
 var E = {
+    /* Strings that MUST be translated for Hola to run in a new language */
     access_any_site: {message: 'Access any site from any country, free'},
     unblocker_site_list: {message: 'Unblocker site list'},
     settings: {message: 'Settings'},
@@ -32,6 +33,7 @@ var E = {
     initializing: {message: 'Initializing...'},
     loading: {message: 'Loading'},
     reload: {message: 'Reload'},
+    /* Optional strings that will make your Hola translation better */
     old_error: {message: 'Very old version of Chrome, <a>update</a> '+
         'Chrome to use Hola'},
     ext_conflict_error: {message:'Hola cannot work properly because another '
