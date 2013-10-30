@@ -1,4 +1,5 @@
 'use strict'; /*jshint browser:true, es5:true*/
+define(function(){
 
 var E = {
     /* Strings that must be transalted before adding a new Hola language */
