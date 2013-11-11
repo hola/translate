@@ -1,0 +1,129 @@
+{
+    // Strings that MUST be translated for Hola to run in a new language
+    "access_any_site": "Akses bebas ke mana-mana laman web dari mana-mana negara, percuma",
+    "unblocker_site_list": "Senarai laman Unblocker",
+    "settings": "Tetapan",
+    "site_blocked": "$1 telah disekat?",
+    "site_unblocked": "$1 telah dinyahsekat",
+    "more": "lanjut...",
+    "not_working_more_options": "tidak berkesan? terdapat pilihan-pilihan lain...",
+    "even_more": "dan lebih pilihan lagi...",
+    "back_to": "kembali kepada $1 $2",
+    "unblocker": "Unblocker",
+    "accelerator": "Accelerator",
+    "on": "ON",
+    "off": "OFF",
+    "turn_on": "Aktifkan untuk memulakan Hola",
+    "unblocker_disabled": "Unblocker telah dinyahaktif",
+    "enable": "Aktifkan",
+    "app_name": "Hola - Internet Yang Lebih Baik",
+    "app_desc": "Akses ke SEMUA Internet! Buka laman yang disekat -> klik pada ikon Hola -> tukar bendera negara -> Berseronok!",
+    "hola": "Hola",
+    "author_title": "Penulis: $1", // new
+    "site_title": "Penulis laman: $1", // new
+    "users_title": "Bilangan pengguna yang menggunakan pilihan ini", // new
+    "not_working_title": "Bilangan pengguna yang menekan tidak berfungsi",  // new
+    "country_vpn": "$1 VPN",  // new
+    "changing": "sedang menukar...", // new
+    "update": "Kemaskini",
+    "initializing": "Sedang memulakan...",
+    "loading": "Sedang memuat",
+    "reload": "Memuat semula",
+    // Optional strings that will make your Hola translation better
+    "version": "Versi", // new
+    "uuid": "UUID", // new
+    "cid": "CID", // new
+    "old_error": "Anda sedang menggunakan versi chrome yang lama, <a>sila kemaskini</a> Chrome untuk menggunakan Hola",
+    "ext_conflict_error": "Hola tidak dapat berfungsi dengan baik kerana terdapat ekstensi lain yang mengawal tetapan proksi. Sila nyahaktifkan ekstensi yang anda rasakan sedang mengawal tetapan proksi anda dalam <a>extensions</a> (Sebagai contoh ad-blocker, servis-servis VPN, dan lain-lain.).",
+    "start": "mula",
+    "starting": "Sedang bermula...",
+    "try_to_reload": "Cuba untuk <span>muat semula</span>",
+    "there_is_error": "Terdapat ralat",
+    "reload_hola": "Muat semula Hola",
+    "verify_internet": "Sila pastikan anda telah bersambung dengan Internet",
+    "get_help_skype": "Dapatkan bantuan daripada jurutera melalui skype: $1",
+    "auto_rule_btn": "$1 $2 $3",
+    "script_btn": "$1 $2 $3 laju",
+    "country_and_prefix": "$1 ($2)",
+    "metro": "Hola tidak dapat berfungsi dengan baik dalam mode Windows 8. Sila tukar kepada mode desktop. Klik <a>di sini</a> untuk arahan selanjutnya",  // new
+    "old_ff": "Versi Firefox lama. Tekan <a>di sini</a> untuk menaiktaraf versi.",
+    "old_ff_missing": "(sesetengah fungsi Hola tidak terdapat pada versi yang sedang anda gunakan)",
+    "not_free": "Hola versi percuma perlu dihidupkan semula setiap 4 jam dan ditaja oleh iklan.",
+    "not_free_get": "Dapatkan Hola Plus untuk servis tanpa gangguan dan bebas iklan.",
+    "hola_on_other_devices": "Mahu Hola pada peranti yang lain? (Xbox, PS, Apple TV, iPhone...). Klik di sini",
+    "flag_country": "$1 $2",
+    "improve_translation": "Tambah baik terjemahan", // new
+    "support_hola": "Sokong Hola", // new
+    "translate_to_your_lang": "Terjemah kepada bahasa anda", // new
+    "locale_en": "Inggeris",
+    "locale_es": "Bahasa Sepanyol",
+    "locale_es_419": "Bahasa Sepanyol, Amerika Latin",
+    "locale_ar": "Bahasa Arab",
+    "locale_de": "Bahasa Jerman",
+    "locale_fr": "Bahasa Perancis",
+    "locale_he": "Bahasa Ibrani",
+    "locale_id": "Bahasa Indonesia",
+    "locale_it": "Bahasa Itali",
+    "locale_nl": "Bahasa Belanda",
+    "locale_pt_BR": "Bahasa Portugis",
+    "locale_ru": "Bahasa Rusia",
+    "locale_pl": "Bahasa Poland", // new
+    "locale_cz": "Bahasa Czech", // new
+    "Australia": "Australia",
+    "Brazil": "Brazil",
+    "Canada": "Kanada",
+    "Chile": "Chile",
+    "China": "China", // new
+    "Denmark": "Denmark",
+    "Egypt": "Mesir",
+    "France": "Perancis",
+    "Germany": "Jerman",
+    "Great Britain": "United Kingdom",
+    "Greece": "Greece", // new
+    "Hong Kong": "Hong Kong",
+    "India": "India",
+    "Ireland": "Ireland",
+    "Italy": "Itali",
+    "Mexico": "Mexico", // new
+    "Netherlands": "Netherlands",
+    "Poland": "Poland",
+    "Russia": "Rusia",
+    "Singapore": "Singapura",
+    "Spain": "Sepanyol",
+    "South Korea": "South Korea", // new
+    "Sweden": "Sweden",
+    "Switzerland": "Switzerland",
+    "Turkey": "Turki",
+    "Uruguay": "Uruguay", // new
+    "Venezuela": "Venezuela", // new
+    "United States": "Amerika Syarikat",
+    // no need to translate the below
+    "AU": "AU",
+    "BR": "BR",
+    "CA": "CA",
+    "CL": "CL",
+    "CN": "CN",
+    "DK": "DK",
+    "EG": "EG",
+    "FR": "FR",
+    "DE": "DE",
+    "GR": "GR",
+    "HK": "HK",
+    "IN": "IN",
+    "IE": "IE",
+    "IT": "IT",
+    "MX": "MX",
+    "NL": "NL",
+    "PL": "PL",
+    "RU": "RU",
+    "SG": "SG",
+    "KR": "KR",
+    "ES": "ES",
+    "SE": "SE",
+    "CH": "CH",
+    "TR": "TR",
+    "GB": "GB",
+    "US": "US",
+    "UY": "UY",
+    "VE": "VE"
+}
