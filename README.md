@@ -13,8 +13,8 @@ Option 2:
 * Send it to us at translate@hola.org
 
 Translate to a language not in the list:
-* For new language translation download English_template.json
-* To updated one of the translations, choose the language file (e.g. es.js) using 
+* For new language translation download <a href=https://github.com/hola/translate/blob/master/English_template.json>English_template.json</a>
+* To updated one of the translations, choose the language file (e.g. es.js be_ro.json) using 
   one of the two options mentioned above
 * Translate and save the file
 * Send it to us at translate@hola.org
