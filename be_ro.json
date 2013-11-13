@@ -1,7 +1,7 @@
 {
     // String-uri ce TREBUIE traduse pentru ca Hola sa funcționeze intr-o limbă noua
     "access_any_site": "Accesează orice site web, din orice țară, gratis",
-    "unblocker_site_list": "Listă site-uri pentru deblocare",
+    "unblocker_site_list": "Listă site-uri deblocate",
     "settings": "Setări",
     "site_blocked": "$1 blocat?",
     "site_unblocked": "$1 deblocat",
@@ -13,46 +13,46 @@
     "accelerator": "Accelerator",
     "on": "Pornit",
     "off": "Oprit",
-    "turn_on": "Pornește",
-    "unblocker_disabled": "Deblocant oprit",
+    "turn_on": "Pornește pentru a începe",
+    "unblocker_disabled": "Deblocant este oprit",
     "enable": "Activează",
-    "app_name": "Hola Interned mai Bun",
+    "app_name": "Hola Internet mai bun",
     "app_desc": "Accesează tot Internetul! Mergi pe site-ul blocat -> click pe iconița Hola -> schimba steagul țării -> Bucură-te!",
     "hola": "Hola",
     "author_title": "Autor: $1", // new
-    "site_title": "Autor site: $1", // new
+    "site_title": "Site autor: $1", // new
     "users_title": "Numărul de utilizatori care folosesc acestă opțiune", // new
     "not_working_title": "Numărul de utilizatori care au apasăt nu funcționează",  // new
     "country_vpn": "$1 VPN",  // new
     "changing": "se schimbă...", // new
-    "update": "Actulizare",
-    "initializing": "Initializare...",
-    "loading": "Încărcare",
-    "reload": "Reîncărcare",
+    "update": "Actulizează",
+    "initializing": "Se inițializează...",
+    "loading": "Se încărcă",
+    "reload": "Reîncarcă",
     // Optional strings that will make your Hola translation better
     "version": "Versiune", // new
     "uuid": "UUID", // new
     "cid": "CID", // new
     "old_error": "Versiune foarte veche Chrome, <a>actualizați</a> Chrome pentru a folosi Hola",
-    "ext_conflict_error": "Hola nu poate funcționa corespunzator deoarece altă extensie utilizează proxy-ul. Dezactiveaza extensia care folosește proxy-ul în <a>extensii</a> (cum ar fi servicii de blocare reclame, alte servicii VPN, etc.).",
+    "ext_conflict_error": "Hola nu poate funcționa corespunzator deoarece altă extensie controlează setările proxy. Dezactivați celelalte extensii care ar putea controla setările dumneavostră proxy în <a>extensii</a> (cum ar fi servicii de blocare reclame, alte servicii VPN, etc.).",
     "start": "start",
-    "starting": "Pornește...",
+    "starting": "Se pornește...",
     "try_to_reload": "Încearcă să <span>reîncarci</span>",
-    "there_is_error": "Avem o eroare",
+    "there_is_error": "Există o eroare",
     "reload_hola": "Reîncarcă Hola",
-    "verify_internet": "Verifică dacă ai Internet",
+    "verify_internet": "Verifică conexiunea la Internet",
     "get_help_skype": "Primește suport de la un inginer pe skype: $1",
     "auto_rule_btn": "$1 $2 $3",
     "script_btn": "$1 $2 $3 rapid",
     "country_and_prefix": "$1 ($2)",
-    "metro": "Hola nu funcționează corespunzător in mod Windows 8. Te rog schimbă in mod desktop. Clic <a>aici</a> pentru instrucțiuni",  // new
-    "old_ff": "Versiune veche Firefox. Clic <a>aici</a> pentru actualizare.",
-    "old_ff_missing": "(unele opțiuni Hola nu sunt disponibile in aceasta versiune)",
-    "not_free": "Versiunea Hola gratis trebuie re-activata la interval de 4 ore și este sponsorizată de reclame",
+    "metro": "Hola nu funcționează corespunzător în mod Windows 8. Te rog schimbă în modul desktop. Click <a>aici</a> pentru instrucțiuni",  // new
+    "old_ff": "Versiune veche Firefox. Click <a>aici</a> pentru actualizare.",
+    "old_ff_missing": "(unele opțiuni Hola nu sunt disponibile în aceasta versiune)",
+    "not_free": "Versiunea Hola gratis necesită repornirea la interval de 4 ore și este sponsorizată de reclame",
     "not_free_get": "Folosește Hola Plus pentru servicii neîntrerupe si fără reclame.",
-    "hola_on_other_devices": "Vrei Hola și pe alte dispozitive? (Xbox, PS, Apple TV, iPhone...). Clic aici",
+    "hola_on_other_devices": "Vrei Hola și pe alte dispozitive? (Xbox, PS, Apple TV, iPhone...). Click aici",
     "flag_country": "$1 $2",
-    "improve_translation": "Îmbunătațește traducerea", // new
+    "improve_translation": "Îmbunătățește traducerea", // new
     "support_hola": "Ajută Hola", // new
     "translate_to_your_lang": "Tradu în limba ta", // new
     "locale_en": "Engleză",
@@ -68,7 +68,7 @@
     "locale_pt_BR": "Portugheză",
     "locale_ru": "Rusă",
     "locale_pl": "Poloneză", // new
-  	"locale_ro": "Română", // new
+    "locale_ro": "Română", // new
     "locale_cz": "Cehă", // new
     "Australia": "Australia",
     "Brazil": "Brazila",
@@ -88,7 +88,7 @@
     "Mexico": "Mexic", // new
     "Netherlands": "Olanda",
     "Poland": "Polonia",
-	  "Romania": "România",
+    "Romania": "România",
     "Russia": "Rusia",
     "Singapore": "Singapore",
     "Spain": "Spania",
