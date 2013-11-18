@@ -14,7 +14,7 @@ Option 2:
 
 Translate to a language not in the list:
 * For new language translation download <a href=https://github.com/hola/translate/blob/master/English_template.json>English_template.json</a>
-* To updated one of the translations, choose the language file (e.g. es.js be_ro.json) using 
+* To updated one of the translations, choose the language file (e.g. be_es.json, be_ro.json etc.) using 
   one of the two options mentioned above
 * Translate and save the file
 * Send it to us at translate@hola.org
