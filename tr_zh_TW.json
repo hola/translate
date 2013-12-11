@@ -190,8 +190,8 @@
       "Old version of Firefox. Press <a>here</a> to upgrade." : "Firefox 版本過舊。 按 <a>此</a>升級。",
       "Reload" : "重新載入",
       "Reload Hola" : "重新載入 Hola",
-      "Remove ads" : "Remove ads",
-      "Report a problem" : "Report a problem",
+      "Remove ads" : "去除廣告",
+      "Report a problem" : "回報一個故障",
       "Settings" : "設定",
       "Starting..." : "啟動中...",
       "The free version of Hola needs to be re-enabled every 4 hours and is sponsored by ads." : "Hola 的免費版本每四小時需要重新啟用，而且會有廣告。",
@@ -209,9 +209,9 @@
       "back to" : "回到",
       "changing..." : "更改中...",
       "even more..." : "更多...",
-      "more options..." : "more options...",
+      "more options..." : "更多選項...",
       "more..." : "更多···",
-      "not working?" : "not working?",
+      "not working?" : "無法正常工作?",
       "start" : "開始"
    }
 }
