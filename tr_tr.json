@@ -179,7 +179,7 @@
       "tap to unblock": "Açmakaiçin tıklayınız",
       "with you! Just click here to add it to your Hola Unblocker:": "sizinle! Hola açıcınıza eklemek için sadece tıklayınız:"
    },
-   "extension": Uzatma
+   "extension": {
       " via ": " Vasıtasıyla ",
       "$1 VPN": "$1 VPN",
       "$1 VPN Premium": "$1 VPN Premium",
@@ -188,7 +188,7 @@
       "Accelerator": "Hızlandırıcı",
       "Access <strong>$1</strong>?": "Erişim <güçlü>$1</güçlü>?",
       "Access any site from any country, free": "Ücretsiz herhangi bir ülkeden herhangi bir siteye erişim",
-      "Access more sites": "Daha fazla siteye ulaşın
+      "Access more sites": "Daha fazla siteye ulaşın",
       "Access websites blocked in your country, company or school with Hola! Hola is free and easy to use!": "Ülkenizdeki, şirketinizdei ya da okulunuzdaki engellenmiş sitelere Hola ile ulaşın!, HOla kolay ve ücretsizdir!",
       "Account": "Account",
       "Apply settings...": "Ayarları uygula...",
@@ -200,8 +200,7 @@
       "Choose<br>Country": "Ülke<br>Seçiniz",
       "Configuring...": "Yapılandırıyor...",
       "Connecting...": "Bağlanıyor...",
-      "Don't show again for $1 for one week": " Bir hafta boyunca $1 için  tekrar gösterme
-
+      "Don't show again for $1 for one week": " Bir hafta boyunca $1 için  tekrar gösterme",
       "Don't show again for any site for one week": " Bir hafta boyunca herhangi bir site için tekrar gösterme ",
       "Enable": "Etkinleştirme",
       "Finding new peers...": "Yeni eşdüzeyler buluyor...",
@@ -227,13 +226,13 @@
       "Invite friends. Get Premium.": "Arkadaşlarını davet et.Premium’u al.",
       "Language:": "Dil:",
       "Loading": "Yükleniyor",
-      "Log in": "Oturumu aç
+      "Log in": "Oturumu aç",
       "Log out": "Oturumu kapat",
       "Love Hola?": "Holayı sevdin mi?",
       "More countries": "Daha fazla ülke",
       "More...": "Daha fazla...",
       "My Account": "Hesabım",
-      "My Settings": "Ayarlarım
+      "My Settings": "Ayarlarım",
       "My favorites": "Favorilerim",
       "Never be a peer": "Asla bir eşdüzey olma",
       "No idle peers found.": "Boş eşdüzey bulunamadı.",
