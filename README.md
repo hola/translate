@@ -1,20 +1,6 @@
-Help us translate Hola!
+Android app branch
 =========
-To improve a translation:
 
-Option 1:
-* Login to Github
-* Choose the file of the language you want to translate from the list above
-* Edit and save the file
- 
-Option 2:
-* Click on "Download ZIP" - on the right side of this page
-* Edit and save the file you want to translate
-* Send it to us at translate@hola.org
+Translations for android application
+Generated automatically by [translate.hola.org](http://translate.hola.org)
 
-Translate to a language not in the list:
-* For new language translation download <a href=https://github.com/hola/translate/blob/master/english_template.json>english_template.json</a>
-* To updated one of the translations, choose the language file (e.g. tr_es.json, tr_ro.json etc.) using
-  one of the two options mentioned above
-* Translate and save the file
-* Send it to us at translate@hola.org
