@@ -2,5 +2,5 @@ Extension branch
 =========
 
 Translations for extension
-Generated automatically by translate.hola.org
+Generated automatically by [translate.hola.org](http://translate.hola.org)
 
