@@ -167,5 +167,14 @@
     "stopped": "Terhenti",
     "stopping": "Menghentikan",
     "tap to unblock": "tap untuk membuka blokir",
-    "Hola failed starting VPN service": "Hola gagal memulai layanan VPN\n"
+    "Hola failed starting VPN service": "Hola gagal memulai layanan VPN\n",
+    "Root": "Root",
+    "VPN": "VPN",
+    "OK": "OK",
+    "Debug": "Debug",
+    "Unblocker": "Unblocker",
+    "Google Play": "Google Play",
+    "Aptoide": "Aptoide",
+    "Back to": "Back to",
+    "Browsers": "Browsers"
 }

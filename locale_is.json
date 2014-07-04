@@ -164,5 +164,17 @@
     "tap to unblock": "smelltu á hil að aflæsa",
     "Start Hola VPN": "Búa til Android VPN",
     "Hola failed starting VPN service": "Hola mistókst að ræsa VPN þjónustu \n",
-    "The unblocker can't run on your device, you must have root or VPN support.": "Aflæsarinn getur ekki keyrt á þínu tæki"
+    "The unblocker can't run on your device, you must have root or VPN support.": "Aflæsarinn getur ekki keyrt á þínu tæki",
+    "VPN": "VPN",
+    "Try root access": "Try root access",
+    "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.": "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.",
+    "FAQ": "FAQ",
+    "Google Play": "Google Play",
+    "Aptoide": "Aptoide",
+    "No SD card": "No SD card",
+    "Please insert SD card.": "Please insert SD card.",
+    "Back to": "Back to",
+    "My Apps": "My Apps",
+    "Browsers": "Browsers",
+    "Popular in": "Popular in"
 }

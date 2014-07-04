@@ -159,5 +159,22 @@
     "tap to unblock": "poista esto napauttamalla",
     "Start Hola VPN": "Luo Androidin VPN",
     "Hola failed starting VPN service": "Hola ei voinut käynnistää VPN-palvelua\n",
-    "The unblocker can't run on your device, you must have root or VPN support.": "Tätä eston poistoa ei voida käyttää laitteessasi"
+    "The unblocker can't run on your device, you must have root or VPN support.": "Tätä eston poistoa ei voida käyttää laitteessasi",
+    "Root": "Root",
+    "VPN": "VPN",
+    "Try root access": "Try root access",
+    "OK": "OK",
+    "Hola was closed by you or another app": "Hola was closed by you or another app",
+    "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.": "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.",
+    "Accelerated": "Accelerated",
+    "Hola speeds up my Internet and lets me access blocked sites": "Hola speeds up my Internet and lets me access blocked sites",
+    "Access": "Access",
+    "Google Play": "Google Play",
+    "Aptoide": "Aptoide",
+    "No SD card": "No SD card",
+    "Please insert SD card.": "Please insert SD card.",
+    "Back to": "Back to",
+    "My Apps": "My Apps",
+    "Browsers": "Browsers",
+    "Popular in": "Popular in"
 }

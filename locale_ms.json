@@ -159,5 +159,22 @@
     "tap to unblock": "Sentuh untuk nyahsekat",
     "Start Hola VPN": "Membuat Android VPN",
     "Hola failed starting VPN service": "Hola gagal memulakan perkhidmatan VPN \n",
-    "The unblocker can't run on your device, you must have root or VPN support.": "Unblocker tidak boleh dijalan pada peranti anda"
+    "The unblocker can't run on your device, you must have root or VPN support.": "Unblocker tidak boleh dijalan pada peranti anda",
+    "Always try root mode on starting hola": "Always try root mode on starting hola",
+    "Root": "Root",
+    "VPN": "VPN",
+    "Try root access": "Try root access",
+    "OK": "OK",
+    "home": "home",
+    "Unblocker": "Unblocker",
+    "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.": "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.",
+    "FAQ": "FAQ",
+    "Google Play": "Google Play",
+    "Aptoide": "Aptoide",
+    "No SD card": "No SD card",
+    "Please insert SD card.": "Please insert SD card.",
+    "Back to": "Back to",
+    "My Apps": "My Apps",
+    "Browsers": "Browsers",
+    "Popular in": "Popular in"
 }

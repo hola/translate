@@ -161,5 +161,20 @@
     "stopping": "Deteniendo",
     "Start Hola VPN": "Cree una VPN Android",
     "Hola failed starting VPN service": "Hola no pudo iniciar el servicio VPN",
-    "The unblocker can't run on your device, you must have root or VPN support.": "El desbloqueador no puede ejecutarse en tu dispositivo"
+    "The unblocker can't run on your device, you must have root or VPN support.": "El desbloqueador no puede ejecutarse en tu dispositivo",
+    "Root": "Root",
+    "VPN": "VPN",
+    "Try root access": "Try root access",
+    "OK": "OK",
+    "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.": "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.",
+    "FAQ": "FAQ",
+    "tap to unblock": "tap to unblock",
+    "Google Play": "Google Play",
+    "Aptoide": "Aptoide",
+    "No SD card": "No SD card",
+    "Please insert SD card.": "Please insert SD card.",
+    "Back to": "Back to",
+    "My Apps": "My Apps",
+    "Browsers": "Browsers",
+    "Popular in": "Popular in"
 }
