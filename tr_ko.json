@@ -38,7 +38,7 @@
         "Error showing VPN Service dialog": "VPN 서비스 창 표시 오류",
         "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "안드로이드 4.0 이상 VPN 서비스 창 표시 오류입니다. 현재 버전에 기본 기능으로 나타나지 않아야 하나, 여러분의 기기가 자동 VPN 설정 기능을 지원하지 않습니다.",
         "FAQ": "자주 묻는 질문",
-        "Failed starting VPN\nTry again in a moment": "VPN을 시작할 수 없습니다.\잠시 후 다시 시도해 주세요.",
+        "Failed starting VPN\nTry again in a moment": "VPN을 시작할 수 없습니다.\n잠시 후 다시 시도해 주세요.",
         "Faster Internet browsing.\nLess video buffering.\nQuicker downloads.": "더 빠른 인터넷 검색\n비디오 버퍼링 해소\n더 빠른 다운로드.",
         "Get started!": "시작하기",
         "Google Play": "Google Play",
