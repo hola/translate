@@ -1,5 +1,4 @@
 {
-    // Strings that MUST be translated for Hola to run in a new language
     "More...": "More...",
     "More sites...": "More sites...",
     "Start Hola": "Start Hola",
@@ -67,7 +66,6 @@
     "Loading": "Loading",
     "Loading site...": "Loading site...",
     "Reload": "Reload",
-    // Optional strings that will make your Hola translation better
     "Very old version of Chrome, <a>update</a> Chrome to use Hola": "Very old version of Chrome, <a>update</a> Chrome to use Hola",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.",
