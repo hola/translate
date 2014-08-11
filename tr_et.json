@@ -1,6 +1,6 @@
 {
     "android": {
-        "%1$s not supported": "%1$ ei toetata",
+        "%1$s not supported": "%1$s ei toetata",
         "(Type a brief description of the problem here)": "(Tüüp lühikirjeldus probleem siin)",
         "- Since you installed Hola -": "- Kuna sa paigaldasid Hola -",
         "About": "Umbes",
