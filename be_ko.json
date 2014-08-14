@@ -1,6 +1,5 @@
 {
     " via ": " - ",
-    "$1 VPN": "$1 VPN",
     "$1 VPN Premium": "$1 VPN 프리미엄",
     "$1 via Hola": "$1 - Hola",
     "(some Hola features are not available on your version)": "(일부 Hola 기능은 버전에 따라 사용할 수 없음)",
@@ -116,11 +115,9 @@
     "Turn on to get started": "시작하기로 켜기",
     "Unblocker": "차단 해제",
     "Unblocker is disabled": "차단 해제를 사용 안함",
-    "Unblocker?": "Unblocker?",
     "Update": "업데이트",
     "Upgrade": "업그레이드",
     "Using Hola": "안녕 사용",
-    "VPN": "VPN",
     "VPN Premium": "VPN 프리미엄",
     "Very old version of Chrome, <a>update</a> Chrome to use Hola": "Chrome의 예전 버전입니다. 업데이트 하시려면 <a>여기</a>를 누르세요.",
     "Video Buffering?": "동영상 버퍼링?",

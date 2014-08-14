@@ -1,6 +1,5 @@
 {
     " via ": "via",
-    "$1 VPN": "$1 VPN",
     "$1 VPN Premium": "$1 VPN premium",
     "$1 via Hola": "$1 débloqué",
     "(some Hola features are not available on your version)": "(certaines fonctionnalités Hola sont pas disponibles sur cette version)",
@@ -43,8 +42,6 @@
     "Get help from engineer over Skype:": "Obtenez de l'aide d'un ingénieur sur Skype:",
     "Get the Fastest Servers": "Accéder au serveur le plus rapide",
     "Go Hola Premium": "Devenez Premium",
-    "Hola": "Hola",
-    "Hola Accelerator": "Hola Accelerator",
     "Hola Better Internet": "Hola Internet en mieux",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola ne peut pas travailler à cause d'un autre poste est de contrôler vos paramètres de proxy. <br> S'il vous plaît désactiver les autres extensions que vous pensez peut contrôler vos paramètres de proxy tels que ad-bloquants, d'autres services de VPN, etc",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "Vos paramètres proxy sont gérés par une autre extension. Désactivez cette extension, afin de continuer avec Hola <a>extensions</a>",
@@ -120,7 +117,6 @@
     "Update": "Mettre à jour",
     "Upgrade": "Mise à jour",
     "Using Hola": "Utilisation Hola",
-    "VPN": "VPN",
     "VPN Premium": "VPN premium",
     "Very old version of Chrome, <a>update</a> Chrome to use Hola": "Version très ancienne de Chrome. <a>Mettez à jour</a> Chrome pour utiliser Hola",
     "Video Buffering?": "Tampon de la vidéo?",

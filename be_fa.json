@@ -1,6 +1,5 @@
 {
     " via ": "از طریق",
-    "$1 VPN": "$1 VPN",
     "$1 VPN Premium": "$1 VPN حق بیمه",
     "$1 via Hola": "$1 را از طریق سلام",
     "(some Hola features are not available on your version)": "(بعضی از ویژگی های هولا نمیتوانند کامل شوند به خاطر ورژن موجود)",
@@ -120,7 +119,6 @@
     "Update": "به روز رسانی",
     "Upgrade": "به روز رسانی",
     "Using Hola": "با استفاده از سلام",
-    "VPN": "VPN",
     "VPN Premium": "VPN حق بیمه",
     "Very old version of Chrome, <a>update</a> Chrome to use Hola": "ورژن کروم شما خیلی قدیمیه, <a>بروز کنید</a> کروم رو تا از هولا استفاده کنید",
     "Video Buffering?": "بافری ویدیو؟",

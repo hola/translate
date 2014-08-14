@@ -1,6 +1,5 @@
 {
     " via ": "តាមរយៈ",
-    "$1 VPN": "$1 VPN",
     "$1 VPN Premium": "$1 VPN ពិសេស",
     "$1 via Hola": "$1 តាមរយៈ Hola",
     "(some Hola features are not available on your version)": "(លក្ខណៈពិសេសមួយចំនួន Hola គឺមិនអាចប្រើបាននៅលើកំណែរបស់អ្នក)",
@@ -43,7 +42,6 @@
     "Get help from engineer over Skype:": "ទទួលបានជំនួយពីវិស្វករនៅលើ Skype:",
     "Get the Fastest Servers": "ទទួលបានម៉ាស៊ីនបម្រើលឿនបំផុត",
     "Go Hola Premium": "ទៅ Hola ពិសេស",
-    "Hola": "Hola",
     "Hola Accelerator": "Hola ការបង្កើនល្បឿន",
     "Hola Better Internet": "អ៊ិនធឺណិ Hola កាន់តែប្រសើរ",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola មិនអាចធ្វើការដោយសារតែផ្នែកបន្ថែមផ្សេងទៀតត្រូវបានត្រួតពិនិត្យការកំណត់ប្រូកស៊ីរបស់អ្នក។ <br> សូមបិទផ្នែកបន្ថែមផ្សេងទៀតដែលអ្នកគិតថាអាចត្រួតពិនិត្យការកំណត់ប្រូកស៊ីរបស់អ្នកដូចជាផ្សាយពាណិជ្ជកម្មបាំងសេវាផ្សេងទៀត VPN ល",
@@ -120,7 +118,6 @@
     "Update": "ធ្វើឱ្យទាន់សម័យ",
     "Upgrade": "ធ្វើឱ្យទាន់សម័យ",
     "Using Hola": "ដោយប្រើ Hola",
-    "VPN": "VPN",
     "VPN Premium": "VPN ពិសេស",
     "Very old version of Chrome, <a>update</a> Chrome to use Hola": "កំណែដែលចាស់ណាស់នៃ Chrome, <a> ធ្វើឱ្យទាន់សម័យ </a> Chrome ដើម្បីប្រើ Hola",
     "Video Buffering?": "សតិបណ្តោះអាសន្នវីដេអូ?",

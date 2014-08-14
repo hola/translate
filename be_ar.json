@@ -1,6 +1,5 @@
 {
     " via ": "بواسطة",
-    "$1 VPN": "$1 VPN",
     "$1 VPN Premium": "$1 VPN بريميوم",
     "$1 via Hola": "$1 عن طريق حولا",
     "(some Hola features are not available on your version)": "(بعض الميزات لا تتوفر في الإصدار الخاص بك)",
@@ -120,7 +119,6 @@
     "Update": "تحديث",
     "Upgrade": "تحديث",
     "Using Hola": "باستخدام حولا",
-    "VPN": "VPN",
     "VPN Premium": "VPN بريميوم",
     "Very old version of Chrome, <a>update</a> Chrome to use Hola": "الكروم لاستخدام هولا <a>تحديث</a>",
     "Video Buffering?": "جارى الفيديو؟",
