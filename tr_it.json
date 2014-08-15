@@ -93,7 +93,7 @@
         "No Internet": "No Internet",
         "No Internet connections... go back and try again": "Nessuna connessione Internet rilevata... verificare le impostazioni e riprovare",
         "No SD card": "Nessuna scheda SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Non c'è abbastanza spazio libero sulla partizione di sistema per eseguire Hola",
         "Not enough free space to run Hola": "Non c'è abbastanza spazio libero per eseguire Hola",
         "Note: You need to do this after every device reboot": "Nota: è necessario eseguire questa operazione dopo ogni riavvio del dispositivo",

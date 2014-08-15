@@ -93,7 +93,7 @@
         "No Internet": "Nid oes dim cysylltiad rhyngwyd",
         "No Internet connections... go back and try again": "Nid oes dim cysylltiad rhyngwyd... Ewch yn ôl a rhowch gynnig arall arni",
         "No SD card": "Dim SD cerdyn",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Nid oes digon o le rhydd ar ymraniad y system i redeg Hola",
         "Not enough free space to run Hola": "Nid oes digon o le rhydd i redeg Hola",
         "Note: You need to do this after every device reboot": "Noder: Mae'n rhaid ichi wneud hyn bob tro i'ch dyfais chi ailgychwyn",

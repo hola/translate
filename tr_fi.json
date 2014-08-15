@@ -93,7 +93,7 @@
         "No Internet": "Ei internetiä",
         "No Internet connections... go back and try again": "Ei internetyhteyttä ... palaa takaisin ja yritä uudelleen",
         "No SD card": "SD-korttia",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Järjestelmäosiolla ei ole tarpeeksi vapaata tilaa Holan käynnistämiseksi",
         "Not enough free space to run Hola": "Ei ole tarpeeksi vapaata tilaa Holan käynnistämiseksi",
         "Note: You need to do this after every device reboot": "Huomautus: Sinun täytyy tehdä tämä jokaisen laitteen uudelleenkäynnistyksen jälkeen",

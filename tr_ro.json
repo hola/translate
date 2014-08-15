@@ -93,7 +93,7 @@
         "No Internet": "Fara Internet",
         "No Internet connections... go back and try again": "Nu sunt conexiuni la internet ... du-te înapoi și să încearca din nou",
         "No SD card": "Nu card SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Nu este suficient spațiu liber pe partiția de sistem pentru a rula Hola",
         "Not enough free space to run Hola": "Nu este suficient spațiu liber pentru a rula Hola",
         "Note: You need to do this after every device reboot": "Notă: Trebuie sa faci acest lucru după fiecare repornire a dispozitivului",

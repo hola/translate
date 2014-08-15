@@ -93,7 +93,7 @@
         "No Internet": "Intet internet",
         "No Internet connections... go back and try again": "Ingen internetforbindelser ... gå tilbage og prøv igen",
         "No SD card": "Ingen SD-kort",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Ikke nok ledig plads på systempartitionen til at køre Hola",
         "Not enough free space to run Hola": "Ikke nok ledig plads til at køre Hola",
         "Note: You need to do this after every device reboot": "Bemærk: Du skal gøre dette efter hver enhedsgenstart",

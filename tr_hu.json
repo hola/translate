@@ -93,7 +93,7 @@
         "No Internet": "Nincs internet",
         "No Internet connections... go back and try again": "Nincs internet kapcsolat ... menjen vissza, és próbálja újra",
         "No SD card": "Nincs SD kártya",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Nincs elég szabad hely a rendszer partíción a Hola futtatásához",
         "Not enough free space to run Hola": "Nincs elég szabad hely a Hola futtatásához",
         "Note: You need to do this after every device reboot": "Megjegyzés: Ezt minden újraindítás után meg kell tennie",

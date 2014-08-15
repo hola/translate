@@ -93,7 +93,7 @@
         "No Internet": "بدون اینترنت",
         "No Internet connections... go back and try again": "بدون اتصال به اینترنت ... برگردید و دوباره تلاش نمایید",
         "No SD card": "بدون کارت SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "نه به اندازه کافی فضای آزاد در پارتیشن سیستم برای اجرای سلام",
         "Not enough free space to run Hola": "فضای کافی برای اجرای سلام",
         "Note: You need to do this after every device reboot": "توجه: شما نیاز به انجام این کار بعد از هر راه اندازی مجدد دستگاه",

@@ -93,7 +93,7 @@
         "No Internet": "ไม่มีอินเทอร์เน็ต",
         "No Internet connections... go back and try again": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต ... กลับไปและลองอีกครั้ง",
         "No SD card": "ไม่มี SD การ์ด",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "ไม่มีเนื้อที่เพียงพอบนพาร์ติชันระบบเพื่อให้  Hola ทำงานได้",
         "Not enough free space to run Hola": "ไม่พื้นที่ว่างพอที่จะทำงาน Hola",
         "Note: You need to do this after every device reboot": "หมายเหตุ: คุณต้องทำเช่นนี้หลังจากรีบูตในทุกอุปกรณ์",

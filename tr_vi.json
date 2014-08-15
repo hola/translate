@@ -93,7 +93,7 @@
         "No Internet": "Không có Internet",
         "No Internet connections... go back and try again": "Không có kết nối Internet ... quay trở lại và thử lại",
         "No SD card": "Không có thẻ SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Không đủ chỗ trống trên phân vùng hệ thống để chạy Hola",
         "Not enough free space to run Hola": "Không đủ miễn phí không gian để chạy Hola",
         "Note: You need to do this after every device reboot": "Lưu ý: Bạn cần phải làm điều này sau mỗi lần khởi động lại thiết bị",

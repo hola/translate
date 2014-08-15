@@ -93,7 +93,7 @@
         "No Internet": "Pa gen entènèt",
         "No Internet connections... go back and try again": "Pa gen entènèt koneksyon ... tounen ladan l epi eseye ankò",
         "No SD card": "Pa gen kat SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Pa ase gratis espas sou patisyon sistèm nan kouri Hola",
         "Not enough free space to run Hola": "Pa ase gratis espas nan kouri Hola",
         "Note: You need to do this after every device reboot": "Remak: Ou bezwen fè sa apre chak rdemare aparèy",

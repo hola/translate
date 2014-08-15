@@ -93,7 +93,7 @@
         "No Internet": "没有互联网",
         "No Internet connections... go back and try again": "没有互联网连接...回去再试",
         "No SD card": "没有SD卡",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "没有足够的可用空间，系统分区上运行HOLA",
         "Not enough free space to run Hola": "没有足够的可用空间，运行HOLA",
         "Note: You need to do this after every device reboot": "注意：您需要做的每一个设备重新启动后",

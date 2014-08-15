@@ -93,7 +93,7 @@
         "No Internet": "არ ინტერნეტი",
         "No Internet connections... go back and try again": "არ ინტერნეტით ... წასვლა აქიდან",
         "No SD card": "არარის SD ბარათი",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "არ არის საკმარისი თავისუფალი ადგილი სისტემა დანაყოფი აწარმოებს Hola",
         "Not enough free space to run Hola": "არ არის საკმარისი თავისუფალი სივრცე აწარმოებს Hola",
         "Note: You need to do this after every device reboot": "შენიშვნა: თქვენ უნდა გავაკეთოთ შემდეგ ყველა მოწყობილობა გადატვირთვისას",

@@ -93,7 +93,7 @@
         "No Internet": "İnternet yok",
         "No Internet connections... go back and try again": " İnternet bağlantısı yok... geri dönüp tekrar deneyin",
         "No SD card": "SD kartı yok",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Hola’yı çalıştırmak için sistem bölümünde yeterli boş yer yok",
         "Not enough free space to run Hola": "Hola’yı çalıştırmak için yeterli boş yer yok",
         "Note: You need to do this after every device reboot": "Not: Her cihaz yeniden başlatıldıktan sonra bunu yapmanız gerekir",

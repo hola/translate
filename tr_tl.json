@@ -93,7 +93,7 @@
         "No Internet": "Walang Internet",
         "No Internet connections... go back and try again": "Walang koneksyon sa Internet ... bumalik at subukan muli",
         "No SD card": "Walang SD card",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Hindi sapat ang espasyo sa partisyon ng sistema upang tumakbo Hola",
         "Not enough free space to run Hola": "Hindi sapat ang espasyo upang tumakbo Hola",
         "Note: You need to do this after every device reboot": "Tandaan: Kailangan mong gawin ito pagkatapos ng bawat reboot ng device",

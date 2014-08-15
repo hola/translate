@@ -93,7 +93,7 @@
         "No Internet": "No Internet",
         "No Internet connections... go back and try again": "No Internet connections... go back and try again",
         "No SD card": "No SD card",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Not enough free space on system partition to run Hola",
         "Not enough free space to run Hola": "Not enough free space to run Hola",
         "Note: You need to do this after every device reboot": "Note: You need to do this after every device reboot",

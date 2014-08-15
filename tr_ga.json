@@ -93,7 +93,7 @@
         "No Internet": "Uimh Idirlín",
         "No Internet connections... go back and try again": "Uimh naisc Idirlín ... dul ar ais agus bain triail eile as",
         "No SD card": "Uimh cárta SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Nach bhfuil go leor spás saor in aisce ar laindéal córas a reáchtáil Hola",
         "Not enough free space to run Hola": "Nach bhfuil go leor spás saor in aisce a reáchtáil Hola",
         "Note: You need to do this after every device reboot": "Tabhair faoi deara: Ní mór duit é seo a dhéanamh tar éis gach Atosaigh gléas",

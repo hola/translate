@@ -93,7 +93,7 @@
         "No Internet": "Не Интернет",
         "No Internet connections... go back and try again": "Нема Интернет везе ... вратите се и покушајте поново",
         "No SD card": "Нема СД картице",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Нема довољно слободног простора на системској партицији за покретање Хола",
         "Not enough free space to run Hola": "Нема довољно слободног простора за покретање Хола",
         "Note: You need to do this after every device reboot": "Напомена: Потребно је да урадите након сваког поновног покретања уређаја",

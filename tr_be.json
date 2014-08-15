@@ -93,7 +93,7 @@
         "No Internet": "Няма Інтэрнэту",
         "No Internet connections... go back and try again": "Няма падлучэння да Інтэрнэту ... вярніцеся і паспрабуйце зноў",
         "No SD card": "Няма SD-карта",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Недастаткова вольнага месца на сістэмным раздзеле для запуску Hola",
         "Not enough free space to run Hola": "Недастаткова вольнага месца для запуску Hola",
         "Note: You need to do this after every device reboot": "Заўвага: Вы павінны рабіць гэта пасля кожнай перазагрузкі прылады",

@@ -93,7 +93,7 @@
         "No Internet": "Hakuna mtandao",
         "No Internet connections... go back and try again": "Uhusiano Internet hakuna ... kurudi nyuma na jaribu tena",
         "No SD card": "Hakuna kadi ya SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Haitoshi bure nafasi kwenye mfumo kizigeu kukimbia Hola",
         "Not enough free space to run Hola": "Si nafasi ya kutosha kukimbia Hola",
         "Note: You need to do this after every device reboot": "Kumbuka: Unaweza haja ya kufanya hili baada ya reboot kila kifaa",

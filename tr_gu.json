@@ -93,7 +93,7 @@
         "No Internet": "આ બોલ પર કોઈ ઈન્ટરનેટ",
         "No Internet connections... go back and try again": "આ બોલ પર કોઈ ઈન્ટરનેટ જોડાણો ... પાછા જાઓ અને ફરીથી પ્રયાસ કરો",
         "No SD card": "કોઈ SD કાર્ડ",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Hola સ્કોર સિસ્ટમ પાર્ટીશન પર નથી પૂરતી ખાલી જગ્યા",
         "Not enough free space to run Hola": "Hola સ્કોર નથી પૂરતી ખાલી જગ્યા",
         "Note: You need to do this after every device reboot": "નોંધ: તમે દરેક ઉપકરણ રીબુટ કર્યા પછી આ કરવાની જરૂર",

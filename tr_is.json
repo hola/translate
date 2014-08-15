@@ -93,7 +93,7 @@
         "No Internet": "Engin Internet tenging",
         "No Internet connections... go back and try again": "Engin internet tenging ... farðu til baka og reyndu aftur",
         "No SD card": "Engin SD kort",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Ekki nóg laust pláss á kerfisdrifinu til að keyra Hola",
         "Not enough free space to run Hola": "Ekki nóg laust pláss til að keyra Hola",
         "Note: You need to do this after every device reboot": "Ath: Þú þarft að gera þetta eftir hverja endurræsingu tækis",

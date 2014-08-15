@@ -93,7 +93,7 @@
         "No Internet": "Ոչ Ինտերնետ",
         "No Internet connections... go back and try again": "Ոչ Ինտերնետ կապեր ... վերադառնալ եւ կրկին փորձեք",
         "No SD card": "Ոչ SD քարտ",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Բավարար ազատ տարածություն համակարգի բաժանման առաջադրվել Hola",
         "Not enough free space to run Hola": "Բավարար ազատ տարածություն առաջադրվել Hola",
         "Note: You need to do this after every device reboot": "Նշում: Դուք պետք է դա անել, որից հետո յուրաքանչյուր սարքի reboot",

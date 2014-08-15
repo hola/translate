@@ -93,7 +93,7 @@
         "No Internet": "אין אינטרנט",
         "No Internet connections... go back and try again": "אין חיבור לאינטרנט ... חזור ונסה שוב",
         "No SD card": "אין כרטיס SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "אין מספיק מקום פנוי על מחיצת המערכת כדי להפעיל את Hola",
         "Not enough free space to run Hola": "אין מספיק מקום פנוי כדי להפעיל Hola",
         "Note: You need to do this after every device reboot": "הערה: עשה זאת לאחר כל אתחול של המכשיר",

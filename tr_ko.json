@@ -93,7 +93,7 @@
         "No Internet": "인터넷 연결 없음",
         "No Internet connections... go back and try again": "인터넷 연결 없음... 돌아가서 다시 시도하기",
         "No SD card": "SD 카드 없음",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Hola을 실행하는 시스템 파티션에 여유 공간이 충분하지 않음",
         "Not enough free space to run Hola": "Hola을 실행할 수 있는 여유 공간이 충분하지 않음",
         "Note: You need to do this after every device reboot": "참고: 장치를 다시 부팅 한 후, 시도해 보십시오.",

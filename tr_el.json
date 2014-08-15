@@ -93,7 +93,7 @@
         "No Internet": "Όχι Internet",
         "No Internet connections... go back and try again": "Δεν υπάρχουν συνδέσεις με το Διαδίκτυο ... πηγαίνετε πίσω και δοκιμάστε ξανά",
         "No SD card": "Δεν υπάρχει κάρτα SD",
-        "No internet connection is available": "No internet connection is available",
+        "No internet connection is available.\nPlease connect and try again.": "No internet connection is available.\nPlease connect and try again.",
         "Not enough free space on system partition to run Hola": "Δεν υπάρχει αρκετός ελεύθερος χώρος στο διαμέρισμα του συστήματος για να τρέξει Hola",
         "Not enough free space to run Hola": "Δεν υπάρχει αρκετός ελεύθερος χώρος για να τρέξει Hola",
         "Note: You need to do this after every device reboot": "Σημείωση: Θα πρέπει να το κάνετε αυτό μετά από κάθε επανεκκίνηση της συσκευής",
