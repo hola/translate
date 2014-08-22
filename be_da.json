@@ -1,5 +1,4 @@
 {
-    " via ": "via",
     "(some Hola features are not available on your version)": "nogle Hola funktioner er ikke tilgængelige for denne version",
     "About Hola": "Om Hola",
     "Access $1?": "Afblokיr $1?",
@@ -13,6 +12,7 @@
     "Back to $1": "Tilbage til $1",
     "Be the first to get Hola for iPhone/iPad - Register now:": "Vær den første til at få Hola til iPhone/iPad - Registrer nu:",
     "Buffering problems?": "Buffering problemer?",
+    "Buffering?": "Gemmer i buffer?",
     "Changing country...": "Skifter land...",
     "Check your Internet connection": "Check din Internet forbindelse",
     "Choose<br>Country": "Vælg<br>Land",

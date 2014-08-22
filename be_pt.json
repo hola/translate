@@ -1,6 +1,5 @@
 {
     " via ": " atravez ",
-    "$1 VPN Premium": "$1 VPN premium",
     "$1 via Hola": "$1 atravez do Hola",
     "(some Hola features are not available on your version)": "(Hola - alguns recursos não estão disponíveis na sua versão)",
     "About Hola": "Sobre o Hola",
@@ -42,6 +41,7 @@
     "Get help from engineer over Skype:": "Obtenha ajuda pelo skype:",
     "Get the Fastest Servers": "Tenha os servidores mais rápidos",
     "Go Hola Premium": "Mude para premium",
+    "Hola Accelerator": "Hola Acelerador",
     "Hola Better Internet": "Hola - Uma Internet Melhor",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola não consegue funcionar porque outra extensão está a controlar as definições de proxy.<br>Por favor desligue as extenções que possam estar a controlar as definições de proxy,  por exemplo Ad-Blocker's,outros serviços VPN, etc.",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "Hola não consegue funcionar devidamente porque configurações de proxy da rede estão a ser geridas por uma outra extensão. Por favor desative esta extensão para continuar a usar Hola. <a>extensions</a>",

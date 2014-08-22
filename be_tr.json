@@ -1,6 +1,6 @@
 {
-    " via ": " Vasıtasıyla ",
-    "$1 via Hola": " Hola ile $1 ",
+    " via ": " vasıtasıyla ",
+    "$1 via Hola": " Hola ile $1",
     "(some Hola features are not available on your version)": "(Bazı Hola özellikleri sizdeki sürümünde mevcut değil)",
     "About Hola": "Hola Hakkında",
     "Accelerator": "Hızlandırıcı",

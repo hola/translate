@@ -1,5 +1,5 @@
 {
-    " via ": "preko",
+    " via ": " preko ",
     "$1 via Hola": "$1 preko Hola",
     "(some Hola features are not available on your version)": "(Nekatere Hola storitve niso na voljo v  vaši verziji)",
     "About Hola": "O Hola",
@@ -36,6 +36,7 @@
     "Get Unlimited Unblocking": "Get Unlimited odblokiranje",
     "Get help from engineer over Skype:": "Dobite pomoč od inžinirja preko Skypa:",
     "Get the Fastest Servers": "Get najhitrejši strežniki",
+    "Go Hola Premium": "Pojdi Hola Premium",
     "Hola Better Internet": "Hola Boljši Internet",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola ne morejo delati, ker je drugo podaljšanje kontrolo nastavitve strežnika proxy. <br> Prosimo izključite druge razširitve, ki mislite, da bi lahko nadzor nastavitve za proxy, kot so ad-blokatorji, drugih storitev VPN itd",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "ola ne more delovati pravilno, ker druga razširitev kontrolira vaše proxy nastavitve. Prosim onemogočite druge razširitve za katere mislite, da kontrolirajo vaš proxy nastavitve v <a>razširitve</a> (kot so ad-blockers, drugi VPN storitve, itd.).",

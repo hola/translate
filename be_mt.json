@@ -1,5 +1,6 @@
 {
-    " via ": "permezz",
+    " via ": " permezz ",
+    "$1 via Hola": "$1 permezz Hola",
     "(some Hola features are not available on your version)": "(Xi karatteristiċi hola mhumiex disponibbli fuq il-verżjoni tiegħek)",
     "About Hola": "Dwar Hola",
     "Accelerator": "Aċċeleratur",
@@ -34,6 +35,7 @@
     "Get Premium support": "Get appoġġ Premium",
     "Get help from engineer over Skype:": "Tikseb għajnuna mill inġinier fuq Skype:",
     "Get the Fastest Servers": "Niżżel l-Servers mgħaġġlin",
+    "Go Hola Premium": "Mur Hola Premium",
     "Hola Accelerator": "Hola aċċeleratur",
     "Hola Better Internet": "Hola Internet Aħjar",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola ma jistgħux jaħdmu minħabba estensjoni oħra hija tikkontrolla settings prokura tiegħek. <br> Jekk jogħġbok jiskonnettja estensjonijiet oħra li taħseb li tista 'tikkontrolla settings prokura tiegħek bħal imblokkaturi ad, servizzi oħra VPN, eċċ",

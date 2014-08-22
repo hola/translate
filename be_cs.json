@@ -31,6 +31,7 @@
     "Finding new peers...": "Nalezení nové kolegy ...",
     "Finding peers...": "Hledání vrstevníky ...",
     "Get 24/7 Unblocking": "Získat 24/7 odblokovací",
+    "Get Free Premium": "Získejte zdarma Premium",
     "Get Hola Accelerator": "Získat Holá Accelerator",
     "Get Hola Plus for un-interrupted, ad-free service.": "Získtejte Hola Plus pro nepřerušovanou a plně bez reklam službu.",
     "Get Hola Premium": "Získat Holá Premium",
@@ -39,6 +40,7 @@
     "Get Unlimited Unblocking": "Získat neomezený Odblokování",
     "Get help from engineer over Skype:": "Získat pomoc od technika přes Skype:",
     "Get the Fastest Servers": "Získejte nejrychlejší servery",
+    "Go Hola Premium": "Přejít Hola Premium",
     "Hola Better Internet": "Hola Lepší Internet",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola nemůže fungovat, protože další rozšíření je ovládání nastavení serveru proxy. <br> Prosím, zakázat další rozšíření, které si myslíte, že by mohl ovládat nastavení proxy serveru, například ad-blokátory, ostatní služby VPN, atd.",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "ola nemůže pracovat správně, protože jiné rozšíření ovádá vaše nastavení proxy. Zakažte, prosím, ostatní rozšíření které si myslíte, že by mothly ovládat vaše proxy nastavení v <a>rozšířeních</a> (jako třeba blokátory reklam, jiné VPN služby, atd.).",
@@ -129,5 +131,6 @@
     "more options...": "více možnost...",
     "not working?": "nefunguje?",
     "not working? try another server": "nefunguje? zkuste jiný server",
+    "start": "začátek",
     "working? remember": "práci? pamatovat si"
 }

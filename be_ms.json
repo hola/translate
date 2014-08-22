@@ -1,5 +1,5 @@
 {
-    " via ": "melalui",
+    " via ": " melalui ",
     "$1 via Hola": "$1 melalui Hola",
     "(some Hola features are not available on your version)": "(sesetengah fungsi Hola tidak terdapat pada versi yang sedang anda gunakan)",
     "About Hola": "Mengenai Hola",
@@ -74,6 +74,7 @@
     "Not working?": "Tidak berfungsi?",
     "Number of users that pressed not working": "Bilangan pengguna yang menekan tidak berfungsi",
     "Number of users that use this option": "Bilangan pengguna yang menggunakan pilihan ini",
+    "ON": "ATAS",
     "Old version of Firefox. Press <a>here</a> to upgrade.": "Firefox versi lama. Tekan <a>di sini</a> untuk menaiktaraf versi.",
     "Please enter a valid email address.": "Sila masukkan alamat e-mel yang sah.",
     "Please enter a web site address, like facebook.com": "Sila masukkan alamat laman web, seperti facebook.com",

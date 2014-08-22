@@ -1,5 +1,4 @@
 {
-    " via ": "via",
     "(some Hola features are not available on your version)": "(alcune caratteristiche Hola non sono disponibili sulla versione)",
     "About Hola": "Chi Hola",
     "Accelerator": "Acceleratore",
@@ -35,6 +34,7 @@
     "Get Unlimited Unblocking": "Get illimitato di sblocco",
     "Get help from engineer over Skype:": "Get aiuto da ingegnere su skype:",
     "Get the Fastest Servers": "Prendi i server più veloci",
+    "Go Hola Premium": "Vai Hola Premium",
     "Hola Better Internet": "Hola Internet migliore",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola non può funzionare perché un altro interno controlla le impostazioni del proxy. <br> Si prega di disattivare altre estensioni che pensate possano controllare le impostazioni del proxy come ad-bloccanti, altri servizi VPN, ecc",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "e impostazioni del tuo proxy di rete sono attualmente gestite da un'altra estensione. Disabilita quell'estensione, per continuare con Hola <a>extensions</a>",

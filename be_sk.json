@@ -1,5 +1,5 @@
 {
-    " via ": "cez",
+    " via ": " cez ",
     "$1 via Hola": "$1 cez Hola",
     "(some Hola features are not available on your version)": "(Niektoré Hola funkcie nie sú dostupné vo vašej verzii)",
     "About Hola": "O Hola",
@@ -31,6 +31,7 @@
     "Finding new peers...": "Nájdenie nových kolegov ...",
     "Finding peers...": "Hľadanie rovesníkmi ...",
     "Get 24/7 Unblocking": "Získať 24/7 odblokovací",
+    "Get Free Premium": "Získajte zadarmo Premium",
     "Get Hola Accelerator": "Získať Holá Accelerator",
     "Get Hola Plus for un-interrupted, ad-free service.": "Získajte Hola Plus pre neprerušené, ad-bezplatnú službu.",
     "Get Hola Premium": "Získať Holá Premium",
@@ -39,6 +40,7 @@
     "Get Unlimited Unblocking": "Získať neobmedzený Odblokovanie",
     "Get help from engineer over Skype:": "Získajte pomoc od inžiniera cez skype:",
     "Get the Fastest Servers": "Získajte najrýchlejší servery",
+    "Go Hola Premium": "Prejsť Hola Premium",
     "Hola Better Internet": "Hola Lepšie Internet",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola nemôže fungovať, pretože ďalšie rozšírenie je ovládanie nastavenia servera proxy. <br> Prosím, zakázať ďalšie rozšírenie, ktoré si myslíte, že by mohol ovládať nastavenia proxy servera, napríklad ad-blokátory, ostatné služby VPN, atď",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "Hola nemôže správne fungovať, pretože iná prípona je ovládanie nastavenia servera proxy. Prosím, zakázať ďalšie rozšírenie, ktoré si myslíte, že by mohli ovládať nastavenia proxy <a> rozšírenia </a> (ako ad-blokátory, ďalších VPN služby, atď).",

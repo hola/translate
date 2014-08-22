@@ -1,6 +1,5 @@
 {
-    " via ": "via",
-    "$1 VPN Premium": "$1 VPN premium",
+    "$1 VPN Premium": "$1 VPN haut de gamme",
     "$1 via Hola": "$1 débloqué",
     "(some Hola features are not available on your version)": "(certaines fonctionnalités Hola sont pas disponibles sur cette version)",
     "About Hola": "À propos de Hola",
@@ -117,7 +116,7 @@
     "Update": "Mettre à jour",
     "Upgrade": "Mise à jour",
     "Using Hola": "Utilisation Hola",
-    "VPN Premium": "VPN premium",
+    "VPN Premium": "VPN haut de gamme",
     "Very old version of Chrome, <a>update</a> Chrome to use Hola": "Version très ancienne de Chrome. <a>Mettez à jour</a> Chrome pour utiliser Hola",
     "Video Buffering?": "Tampon de la vidéo?",
     "Video stuck?": "Vidéo coincé?",

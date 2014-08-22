@@ -37,6 +37,7 @@
     "Get Premium support": "Get Premium tugi",
     "Get help from engineer over Skype:": "Palu tehnikult abi skype kaudu (inglise keeles):",
     "Get the Fastest Servers": "Kiireim serverid",
+    "Go Hola Premium": "Mine Hola Premium",
     "Hola Better Internet": "Hola parem internet",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola ei tööta, sest teine laiendus kontrolli oma puhverserveri seadeid. <br> Keelake laiendusi mis teie arvates võiks kontrollida oma proxy seaded nagu reklaami-blokaatorid, muude VPN teenused jne",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "Hola ei saa kahjuks korralikult töötada, sest mingi muu laiendus pääseb puhverserverit ümber seadistama. Palun keela <a>laienduste seadistuses</a> need laiendused, mis võivad muuta puhverserveri seadistust (näiteks reklaamide blokeerijad, VPN teenused jms...).",

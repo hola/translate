@@ -1,5 +1,5 @@
 {
-    " via ": "kupitia",
+    " via ": " kupitia ",
     "$1 via Hola": "$1 kupitia Hola",
     "(some Hola features are not available on your version)": "(Baadhi ya makala Hola si inapatikana kwenye toleo yako)",
     "About Hola": "Kuhusu Hola",
@@ -38,6 +38,7 @@
     "Get Unlimited Unblocking": "Kupata Unlimited kumfungulia",
     "Get help from engineer over Skype:": "Kupata msaada kutoka kwa mhandisi juu ya skype:",
     "Get the Fastest Servers": "Kupata Servers kwa kasi",
+    "Go Hola Premium": "Kwenda Hola Premium",
     "Hola Better Internet": "Hola Bora ya mtandao",
     "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola hawawezi kufanya kazi kwa sababu ugani mwingine ni kudhibiti mazingira yako wakala. <br> Tafadhali afya upanuzi nyingine kwamba unafikiri yanaweza kudhibiti vipimo proksi vyako kama vile ad-blockers, huduma nyingine VPN, nk",
     "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "Hola hawezi kazi vizuri kwa sababu ugani mwingine ni kudhibiti vipimo proksi vyako. Tafadhali afya upanuzi nyingine ambayo unadhani wanaweza kudhibiti yako mpangilio wa wakala katika <a> upanuzi </a> (kama vile ad-blockers, wengine VPN huduma, nk).",
@@ -66,6 +67,7 @@
     "Netflix Buffering?": "Netflix Inaakibisha?",
     "Never ask me again": "Kamwe kuuliza mimi tena",
     "Never be a peer": "Kamwe kuwa rika",
+    "No": "Hakuna",
     "No idle peers found.": "No wenzao wavivu kupatikana.",
     "No, Thanks": "No, Shukrani",
     "Not working?": "Si kazi?",

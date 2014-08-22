@@ -1,6 +1,5 @@
 {
     " via ": "vía",
-    "$1 VPN Premium": "$1 VPN premium",
     "$1 via Hola": "$1 a través de Hola",
     "(some Hola features are not available on your version)": "(algunas de las características de Hola no se dispone de la versión)",
     "About Hola": "Acerca de Hola",
@@ -24,6 +23,7 @@
     "Did you experience any buffering?": "¿Experimentó alguna buffering?",
     "Don't show again for $1 for one week": "No mostrar de nuevo por $1 por una semana",
     "Don't show again for any site for one week": "No mostrar de nuevo por cualquier sitio por una semana",
+    "Downloading": "Descarga",
     "Enable": "Activar",
     "Enable Hola Accelerator": "Activar Acelerador de Hola",
     "Enter your email": "Ingrese su correo electrónico",
