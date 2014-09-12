@@ -1,5 +1,6 @@
 {
-    " via ": "melalui",
+    " via ": " melalui ",
+    "$1 via Hola": "$1 melalui Hola",
     "(some Hola features are not available on your version)": "(beberapa fitur Hola tidak tersedia pada versi Anda)",
     "About Hola": "Tentang Hola",
     "Accelerator": "Akselerator",
