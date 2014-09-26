@@ -47,6 +47,7 @@
         "Google Play": "Google Play",
         "Google Play not available": "Google Play no disponible",
         "Got it": "Lo tengo",
+        "Having problems with": "Tengo problemas con",
         "Help": "Ayuda",
         "Hola Accelerated": "Hola acelerado",
         "Hola Better Internet": "Hola Un Internet Mejor",
@@ -174,6 +175,7 @@
         "Wooosh\nNow your internet is flying!": "Wooosh\n¡Ahora su Internet está volando!",
         "Would you like to unblock this app?": "¿Quieres desbloquear esta aplicación?",
         "Yes": "Sí",
+        "Yes, notify Hola": "Sí, notificar a Hola",
         "You have a Proxy or Ad-Blocker app running, turn it off or use Hola in VPN mode": "Hay un proxy o un app que bloquea anuncios en ejecución, desactívala o usa Hola en modo VPN",
         "You may need to restart the app for the new country to take effect": "Puede que tenga que reiniciar la aplicación para que el nuevo país entre en vigor",
         "You're in slow motion...": "Usted está en cámara lenta ...",
@@ -205,7 +207,7 @@
         "stopped": "detenida",
         "stopping": "deteniendo",
         "tap to unblock": "toque para desbloquear",
-        "with you! Just click here to add it to your Hola Unblocker:": "contigo! Solo tienes que hacer click aquí para agregarlo a Hola Unblocker:"
+        "with you! Just click here to add it to your Hola Unblocker:": "¡Contigo! Solo tienes que hacer click aquí para agregarlo a Hola Unblocker:"
     },
     "extension": {
         " via ": " vía ",
@@ -225,6 +227,7 @@
         "Author:": "Author:",
         "Back to $1": "Vuelta a $1",
         "Be the first to get Hola for iPhone/iPad - Register now:": "Se el primero en obtener Hola para iPhone e iPad - Regístrate ahora:",
+        "Browsing": "Navegando",
         "Buffering problems?": "¿Problemas de buffer?",
         "Buffering?": "¿Buffering?",
         "Changing country...": "Cambiando país...",
@@ -241,6 +244,7 @@
         "Enter your email": "Intruduce tu dirección de correo electrónico",
         "Finding new peers...": "Encontrando nuevos pares...",
         "Finding peers...": "Encontrando pares...",
+        "From": "Desde",
         "Get 24/7 Unblocking": "Obtén desbloqueo 24/7",
         "Get Free Premium": "Obten Premium gratis",
         "Get Hola Accelerator": "Obtén el acelerador Hola",
@@ -258,6 +262,7 @@
         "Hola cannot work because another extension is controlling your proxy settings.<br>Please disable other extensions that you think might control your proxy settings such as ad-blockers, other VPN services, etc.": "Hola no puede funcionar porque otra extensión está controlando tu configuración de proxy.<br>Por favor, deshabilita otras extensiones que creas que podrían estar controlando tu configuración de proxy, tales como bloqueadores de anuncios, otros servicios VPN, etc.",
         "Hola cannot work properly because another extension is controlling your proxy settings. Please disable other extensions that you think might control your proxy settings in <a>extensions</a> (such as ad-blockers, other VPN services, etc.).": "Hola no puede funcionar adecuadamente porque otra extensión está controlando tu configuración de proxy.<br>Por favor, deshabilita otras extensiones que creas que podrían estar controlando tu configuración de proxy en <a>extensiones</a> (tales como bloqueadores de anuncios, otros servicios VPN, etc.).",
         "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola no funciona bien en modo Windows 8. Por favor, cambia a modo escritorio. Pulsa <a>aquí</a> para obtener instrucciones",
+        "Hola is off, click $1 to turn on": "Hola is off, click $1 to turn on",
         "Hola site list": "Lista de sitios de Hola",
         "I did not experience any buffering": "No experimenté buffering",
         "Improve translation": "Mejorar la traducción",
@@ -301,6 +306,7 @@
         "Reload Hola": "Recargar Hola",
         "Remember server": "Recordar servidor",
         "Report a problem": "Informar de un problema",
+        "Select a Country": "Selecciona un País",
         "Server saved!": "¡Servidor grabado!",
         "Settings": "Configuración",
         "Sign up": "Crear cuenta",
@@ -345,9 +351,9 @@
         "changing...": "cambiando...",
         "even more...": "aun más...",
         "more options...": "más opciones...",
-        "not working?": "¿no funciona?",
-        "not working? try another server": "¿no funciona? prueba otro servidor",
+        "not working?": "¿No funciona?",
+        "not working? try another server": "¿No funciona? Prueba otro servidor",
         "start": "Empezar",
-        "working? remember": "funciona? recuerda"
+        "working? remember": "¿Funciona? Recordar"
     }
 }
