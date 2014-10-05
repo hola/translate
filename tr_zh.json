@@ -2,7 +2,7 @@
     "android": {
         "%1$s not supported": "%1$s 不支持",
         "(Type a brief description of the problem here)": "（键入简要说明这里的问题）",
-        "- Since you installed Hola -": "- 既然你安装HOLA -",
+        "- Since you installed Hola -": "- 既然你安装Hola -",
         "About": "关于",
         "Accelerated": "加速",
         "Acceleration": "加速",
@@ -176,7 +176,7 @@
         "Wooosh\nNow your internet is flying!": "Wooosh现在您的互联网飞扬！",
         "Would you like to unblock this app?": "你想解除这个程序？",
         "Yes": "是的",
-        "Yes, notify Hola": "是的，通知Holo",
+        "Yes, notify Hola": "是的，通知Hola",
         "You have a Proxy or Ad-Blocker app running, turn it off or use Hola in VPN mode": "你有一个代理或广告拦截器运行的应用程序，把它关闭或使用HOLA在VPN模式",
         "You may need to restart the app for the new country to take effect": "您可能需要重新启动该应用程序为新的国家生效",
         "You're in slow motion...": "你在慢动作...",
