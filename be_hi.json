@@ -67,7 +67,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "एक और विस्तार अपनी प्रॉक्सी सेटिंग नियंत्रित कर रहा है क्योंकि होला काम नहीं कर सकता.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "होला विंडोज 8 मोड में अच्छी तरह से काम नहीं करता है. डेस्कटॉप मोड में स्विच करें. निर्देश के लिए <a> यहां </a> क्लिक करें",
     "Hola is not available right now, but we are working on it.": "होला अभी उपलब्ध नहीं है, लेकिन हम उस पर काम कर रहे हैं.",
-    "Hola is off, click $1 to turn on": "होला बंद है, पर बारी के लिए $1 क्लिक करें",
+    "Hola is off, click it to turn it on": "होला बंद है, पर बारी के लिए क्लिक करें",
     "Hola site list": "Hola साइट सूची",
     "I can now access $1 from any country!": "मैं अब किसी भी देश से $1 का उपयोग कर सकते हैं!",
     "I did not experience any buffering": "मैं किसी भी तरह की बफरिंग अनुभव नहीं था",

@@ -66,7 +66,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola negali dirbti, nes kitas pratęsimas kontroliuoti savo proxy nustatymus.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola gali netinkamai veikti \"Windows 8\" režime. Prašome įjungti darbalaukio režimą. Spauskite <a> čia </a> kad gautumėte instrukcijas",
     "Hola is not available right now, but we are working on it.": "Hola nėra dabar, bet mes su juo dirbti.",
-    "Hola is off, click $1 to turn on": "Hola yra išjungtas, spustelėkite $1, kad įjungtumėte",
+    "Hola is off, click it to turn it on": "Hola yra išjungtas, spustelėkite, kad įjungtumėte",
     "Hola site list": "Hola svetainių sąrašas",
     "I can now access $1 from any country!": "Aš dabar gali pasiekti $1 iš bet kurios šalies!",
     "I did not experience any buffering": "Aš nepatyrė jokios buferinė",

@@ -66,7 +66,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "दुसर्या विस्तारास आपल्या प्रॉक्सी सेटिंग्ज नियंत्रित आहे कारण Hola काम करू शकत नाही.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola विंडोज 8 मोडमध्ये काही होत नाही. डेस्कटॉप मोड कडे स्विच करा. सूचनांसाठी <a> येथे </a> क्लिक करा",
     "Hola is not available right now, but we are working on it.": "Hola सध्या उपलब्ध नाही, परंतु आम्ही त्यावर काम करीत आहोत.",
-    "Hola is off, click $1 to turn on": "Hola बंद आहे, चालू $1 क्लिक करा",
+    "Hola is off, click it to turn it on": "Hola बंद आहे, चालू क्लिक करा",
     "Hola site list": "Hola साइट सूची",
     "I can now access $1 from any country!": "मी आता कोणत्याही देशातून $1 प्रवेश करू शकता!",
     "I did not experience any buffering": "मी कोणत्याही बफरींग अनुभव नाही",

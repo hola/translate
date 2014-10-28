@@ -59,7 +59,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola չի կարող աշխատել, քանի որ եւս մեկ ընդլայնումը վերահսկել ձեր proxy պարամետրերը.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola լավ չի աշխատում, Windows 8 - ռեժիմում. Խնդրում ենք անցնել սեղանադիր ռեժիմում. Սեղմեք <a> այստեղ </a> հրահանգների",
     "Hola is not available right now, but we are working on it.": "Hola չէ հենց հիմա, բայց մենք աշխատում ենք դրա վրա.",
-    "Hola is off, click $1 to turn on": "Hola դուրս, սեղմեք $1 միացնել",
+    "Hola is off, click it to turn it on": "Hola դուրս, սեղմեք միացնել",
     "Hola site list": "Hola site ցուցակ",
     "I can now access $1 from any country!": "Ես կարող եմ այժմ մուտք գործել $1 - ից ցանկացած երկրում.",
     "I did not experience any buffering": "Ես չէի զգում որեւէ buffering",

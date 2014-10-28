@@ -59,7 +59,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola hawawezi kufanya kazi kwa sababu ugani mwingine ni kudhibiti mazingira yako wakala.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola haifanyi kazi vizuri katika Windows mode 8. Tafadhali kubadili mode desktop. Bonyeza <a> hapa </a> kwa maelekezo",
     "Hola is not available right now, but we are working on it.": "Hola haipatikani hivi sasa, lakini sisi ni kazi juu yake.",
-    "Hola is off, click $1 to turn on": "Hola ni mbali, bonyeza $1 hadi kurejea kwenye",
+    "Hola is off, click it to turn it on": "Hola ni mbali, bonyeza hadi kurejea kwenye",
     "Hola site list": "Hola tovuti orodha",
     "I can now access $1 from any country!": "Mimi sasa wanaweza kupata $1 kutoka nchi yoyote!",
     "I did not experience any buffering": "Mimi hawakuwa na uzoefu buffering yoyote",

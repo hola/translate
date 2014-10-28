@@ -63,7 +63,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola não consegue funcionar porque outra extensão está a controlar as definições de proxy.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola não trabalha bem no modo Windows 8. Por favor mude para o modo do ambiente de trabalho. Clique <a>aqui</a> para instruções",
     "Hola is not available right now, but we are working on it.": "Hola não está disponível no momento, mas estamos trabalhando nisso.",
-    "Hola is off, click $1 to turn on": "Hola está desligado, clique em $1 para ligar",
+    "Hola is off, click it to turn it on": "Hola está desligado, clique em para ligar",
     "Hola site list": "Lista de sites desbloqueados",
     "I can now access $1 from any country!": "Agora eu posso acessar $1 a partir de qualquer país!",
     "I did not experience any buffering": "Eu não notei nenhum buffering",

@@ -57,7 +57,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola nevar strādāt, jo vēl viens pagarinājums ir kontrolēt jūsu starpniekservera iestatījumus.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola nedarbojas labi Windows 8 režīmā. Lūdzu pārslēgties uz desktop režīmā. Noklikšķiniet <a> šeit </a> instrukcijas",
     "Hola is not available right now, but we are working on it.": "Hola nav pieejama tieši tagad, bet mēs pie tā strādājam.",
-    "Hola is off, click $1 to turn on": "Hola ir izslēgts, noklikšķiniet uz $1 līdz ieslēgtu",
+    "Hola is off, click it to turn it on": "Hola ir izslēgts, noklikšķiniet uz līdz ieslēgtu",
     "Hola site list": "Hola vietņu saraksts",
     "I can now access $1 from any country!": "Es tagad var piekļūt $1 no jebkuras valsts!",
     "I did not experience any buffering": "Man nav bijušas nekādas buffering",

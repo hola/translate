@@ -65,7 +65,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola មិនអាចធ្វើការដោយសារតែផ្នែកបន្ថែមផ្សេងទៀតត្រូវបានត្រួតពិនិត្យការកំណត់ប្រូកស៊ីរបស់អ្នក។",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola មិនធ្វើការបានយ៉ាងល្អក្នុង Windows 8 របៀប។ សូមប្ដូរទៅរបៀបផ្ទៃតុ។ ចុច <a> នៅទីនេះ </a> សម្រាប់សេចក្តីណែនាំ",
     "Hola is not available right now, but we are working on it.": "Hola គឺមិនអាចប្រើបាននៅពេលឥឡូវនេះទេប៉ុន្តែយើងកំពុងធ្វើការលើវា។",
-    "Hola is off, click $1 to turn on": "Hola បិទចុច $1 ដើម្បីបើក",
+    "Hola is off, click it to turn it on": "Hola បិទចុច ដើម្បីបើក",
     "Hola site list": "តំបន់បណ្តាញបញ្ជី Hola",
     "I can now access $1 from any country!": "ឥឡូវនេះខ្ញុំអាចទទួលបាន $1 ពីប្រទេសណាមួយទេ!",
     "I did not experience any buffering": "ខ្ញុំមិនធ្លាប់មានសតិបណ្ដោះអាសន្នណាមួយ",

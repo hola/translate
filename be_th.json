@@ -65,7 +65,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola ไม่สามารถทำงาน เพราะมีส่วนขยายตัวอื่นกำลังควบคุมการตั้งค่า proxy ของคุณ",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola ไม่ทำงานได้ดีในโหมด Windows 8 กรุณาสลับไปยังโหมดเดสก์ท็อป คลิกที่ <a> ที่นี่ </a> สำหรับคำแนะนำ",
     "Hola is not available right now, but we are working on it.": "Hola จะไม่สามารถใช้ได้ในขณะนี้ แต่เรากำลังทำงานอยู่นั้น",
-    "Hola is off, click $1 to turn on": "Hola ปิดอยู่ คลิก $1 เพื่อเปิด",
+    "Hola is off, click it to turn it on": "Hola ปิดอยู่ คลิก เพื่อเปิด",
     "Hola site list": "รายการเว็บไซต์ Hola",
     "I can now access $1 from any country!": "ตอนนี้ฉันสามารถเข้าถึง $1 จากประเทศใด!",
     "I did not experience any buffering": "ฉันไม่พบว่าวิดิโอกำลังโหลดอีกเลย",

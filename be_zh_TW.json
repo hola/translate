@@ -66,7 +66,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola不能運，因為另一個擴展元件在控制你的代理伺服器設定。",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola不能在Windows 8很好的運行。請切換到桌上模式。按<a>這裡</a>獲得指引",
     "Hola is not available right now, but we are working on it.": "HOLA無法使用的權利，但我們正在努力。",
-    "Hola is off, click $1 to turn on": "HOLA關閉，請點擊$1開啟",
+    "Hola is off, click it to turn it on": "HOLA關閉，請點擊開啟",
     "Hola site list": "解鎖網站列表",
     "I can now access $1 from any country!": "我現在可以從任何國家進入$1！",
     "I did not experience any buffering": "沒有一點緩衝",

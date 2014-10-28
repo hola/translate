@@ -63,7 +63,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "A Hola nem működik megfelelően, mert másik bővítmény irányítja a proxy beállításokat.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "A Hola nem működik jól Windows 8 módban. Váltson át asztal módba. Kattintson <a>ide</a> az instrukciókért",
     "Hola is not available right now, but we are working on it.": "Hola nem áll most, de dolgozunk rajta.",
-    "Hola is off, click $1 to turn on": "Hola ki van kapcsolva, kattintson $1 bekapcsolásához",
+    "Hola is off, click it to turn it on": "Hola ki van kapcsolva, kattintson bekapcsolásához",
     "Hola site list": "Hola weblap lista",
     "I can now access $1 from any country!": "Most már hozzáférhet $1 bármely országban!",
     "I did not experience any buffering": "Én nem tapasztaltam semmilyen pufferelést",

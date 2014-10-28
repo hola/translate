@@ -60,7 +60,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola ei voi toimia, koska toinen laajennus ohjaa välityspalvelimen asetuksia.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola ei toimi hyvin Windows 8 -tilassa. Ole hyvä ja vaihda työpöytätilaan. Napsauta <a>tästä</a> saadaksesi ohjeita",
     "Hola is not available right now, but we are working on it.": "Hola ei ole juuri nyt saatavilla, mutta työskentelemme sen.",
-    "Hola is off, click $1 to turn on": "Hola on pois päältä, valitse $1 päälle",
+    "Hola is off, click it to turn it on": "Hola on pois päältä, valitse päälle",
     "Hola site list": "Hola sivuston lista",
     "I can now access $1 from any country!": "Voin nyt käyttää $1 mistä tahansa maasta!",
     "I did not experience any buffering": "En ole kokeneet puskurointi",

@@ -56,7 +56,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola ei tööta, sest teine laiendus kontrolli oma puhverserveri seadeid.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola ei tööta hästi Windows 8 avakuval. Palun lülitu ümber töölauale. <a>Siin</a> õpetatakse, kuidas seda teha.",
     "Hola is not available right now, but we are working on it.": "Hola ei ole hetkel saadaval, kuid me töötame selle kallal.",
-    "Hola is off, click $1 to turn on": "Hola on välja lülitatud, klõpsake $1 sisselülitamiseks",
+    "Hola is off, click it to turn it on": "Hola on välja lülitatud, klõpsake sisselülitamiseks",
     "Hola site list": "Vabastatavad lehed",
     "I can now access $1 from any country!": "Ma võin nüüd ligi $1 üheski riigis!",
     "I did not experience any buffering": "Ma ei ole esinenud puhverdusvõime",

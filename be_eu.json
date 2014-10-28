@@ -60,7 +60,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola ezin funtzionatuko beste luzapena da zure proxy ezarpenak kontrolatzen delako.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola ez du ondo lan Windows 8 moduan. Mesedez desktop modura aldatzeko. Ezkutatu <a> hemen </a> argibideak",
     "Hola is not available right now, but we are working on it.": "Hola ez dago erabilgarri, baina horretan ari gara lanean.",
-    "Hola is off, click $1 to turn on": "Hola da off, sakatu $1 pizteko",
+    "Hola is off, click it to turn it on": "Hola da off, sakatu pizteko",
     "Hola site list": "Hola gune zerrenda",
     "I can now access $1 from any country!": "Dut orain sartu ahal izango $1 edozein herrialdetako!",
     "I did not experience any buffering": "Nik ez dut inolako buferra esperimentatu",

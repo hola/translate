@@ -66,7 +66,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "다른 확장 기능이 프록시 설정을 제어하고 있어서 Hola가 동작하지 않습니다.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola는 윈도우 8 모드에서 제대로 작동하지 않습니다. 데스크톱 모드로 전환하십시오. 더 자세한 사항은 <a>여기</a>를 누르세요",
     "Hola is not available right now, but we are working on it.": "안녕 지금은 사용할 수 없습니다, 그러나 우리는 그것에 노력하고 있습니다.",
-    "Hola is off, click $1 to turn on": "안녕가 꺼져 켜 $1 클릭",
+    "Hola is off, click it to turn it on": "안녕가 꺼져 켜 클릭",
     "Hola site list": "Hola 사이트 목록",
     "I can now access $1 from any country!": "지금은 모든 국가에서 $1 액세스 할 수 있습니다!",
     "I did not experience any buffering": "버퍼링 경험이 없음",

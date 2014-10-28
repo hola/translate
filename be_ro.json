@@ -61,7 +61,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola nu poate lucra, deoarece un alt extensie controlează setările proxy.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola nu funcționează corespunzător în mod Windows 8. Te rog schimbă în modul desktop. Click <a>aici</a> pentru instrucțiuni",
     "Hola is not available right now, but we are working on it.": "Hola nu este disponibil chiar acum, dar noi suntem de lucru pe ea.",
-    "Hola is off, click $1 to turn on": "Hola este oprit, faceți clic pe $1 pentru a porni",
+    "Hola is off, click it to turn it on": "Hola este oprit, faceți clic pe pentru a porni",
     "Hola site list": "Listă site-uri deblocate",
     "I can now access $1 from any country!": "Pot accesa acum $1 din orice țară!",
     "I did not experience any buffering": "Nu am experienta nici o tamponare",

@@ -66,7 +66,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "سلام نمی توانند کار کنند چرا که پسوند دیگری است کنترل تنظیمات پروکسی خود را.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "سلام به خوبی در ویندوز 8 حالت کار نمی کند. لطفا به حالت رومیزی تغییر دهید. کلیک کنید <a>اینجا</a> برای دستورالعمل",
     "Hola is not available right now, but we are working on it.": "سلام دسترس نیست در حال حاضر، اما ما در حال کار بر روی آن.",
-    "Hola is off, click $1 to turn on": "سلام کردن است، کلیک کنید $1 به نوبه خود در",
+    "Hola is off, click it to turn it on": "سلام کردن است، کلیک کنید به نوبه خود در",
     "Hola site list": "لیست سایتهای رفع فیلترشده",
     "I can now access $1 from any country!": "من هم اکنون می توانید از هر کشور دسترسی $1!",
     "I did not experience any buffering": "من هیچ بافر را تجربه نمی کنند",

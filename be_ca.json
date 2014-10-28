@@ -63,7 +63,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola no pot treballar a causa de una altra extensió està controlant la configuració del servidor intermediari.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola no funciona bé en mode Windows 8. Si us plau, canvieu al mode escriptori. <a>Instruccions</a>",
     "Hola is not available right now, but we are working on it.": "Hola no està disponible en aquest moment, però estem treballant en això.",
-    "Hola is off, click $1 to turn on": "Hola és apagat, feu clic a $1 a encendre",
+    "Hola is off, click it to turn it on": "Hola és apagat, feu clic a a encendre",
     "Hola site list": "Llista de llocs a desbloquejar",
     "I can now access $1 from any country!": "Ara puc accedir a $1 de qualsevol país!",
     "I did not experience any buffering": "No vaig experimentar cap buffering",

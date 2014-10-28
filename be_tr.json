@@ -64,7 +64,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola çalışmıyor, başka bir eklenti Proxy ayarlarınızı kontrol ediyor.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola Windows 8 modunda iyi çalışmaz. Masaüstü moduna geçiniz. Talimatlar için <a>buraya</a> tıklayın",
     "Hola is not available right now, but we are working on it.": "Hola şuan kullanılamıyor, daha iyi bir deneyim için üzerinde çalışıyoruz.",
-    "Hola is off, click $1 to turn on": "Hola kapalı, açmak $1 için tıklayın",
+    "Hola is off, click it to turn it on": "Hola kapalı, açmak için tıklayın",
     "Hola site list": "Hola site listesi",
     "I can now access $1 from any country!": "Ben artık herhangi bir ülkeden $1 erişebilirsiniz!",
     "I did not experience any buffering": "Önbelleğe yüklenemedi",

@@ -63,7 +63,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola nemůže fungovat, protože další rozšíření je ovládání nastavení serveru proxy.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola nebude dobře fungovat v systému Windows 8. režimu. Prosím, přepněte do režimu desktop. Klikněte <a>zde</a> pro návod",
     "Hola is not available right now, but we are working on it.": "Hola není k dispozici právě teď, ale pracujeme na tom.",
-    "Hola is off, click $1 to turn on": "Hola je vypnuto, klepněte na tlačítko $1 na zapnutí",
+    "Hola is off, click it to turn it on": "Hola je vypnuto, klepněte na tlačítko na zapnutí",
     "Hola site list": "Seznam stránek k odemčení",
     "I can now access $1 from any country!": "Nyní mohu přistupovat $1 z jakékoli země!",
     "I did not experience any buffering": "Jsem nezažila žádnou vyrovnávací paměti",

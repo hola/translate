@@ -63,7 +63,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola geta ekki unnið vegna þess að annar eftirnafn er að stjórna umboð stillingar þínar.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola virkar ekki vel í Windows 8 ham. Vinsamlegast skipta yfir í skrifborð ham. Smelltu <a>hér</a> til að fá leiðbeiningar",
     "Hola is not available right now, but we are working on it.": "Hola er ekki í boði núna, en við erum að vinna á það.",
-    "Hola is off, click $1 to turn on": "Hola er burt, smelltu $1 til að kveikja á",
+    "Hola is off, click it to turn it on": "Hola er burt, smelltu til að kveikja á",
     "Hola site list": "Hola síðuna lista",
     "I can now access $1 from any country!": "Ég get nú nálgast $1 frá hvaða landi!",
     "I did not experience any buffering": "Ég vissi ekki lendir höggdeyfir",

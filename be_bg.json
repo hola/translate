@@ -62,7 +62,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola не може да работи, защото друго разширение е контролирането на вашите прокси настройки.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola не работи добре в Windows 8 режим. Моля, преминете към работния плот режим. Кликнете <a> тук </a> за инструкции",
     "Hola is not available right now, but we are working on it.": "Hola не е налична в момента, но ние работим върху него.",
-    "Hola is off, click $1 to turn on": "Hola е изключен, кликнете $1, за да включите",
+    "Hola is off, click it to turn it on": "Hola е изключен, кликнете, за да включите",
     "Hola site list": "Списък Hola сайт",
     "I can now access $1 from any country!": "Сега мога да работят с $1, от всяка страна!",
     "I did not experience any buffering": "Не е срещала буфериране",

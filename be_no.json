@@ -56,7 +56,7 @@
     "Hola cannot work because another extension is controlling your proxy settings.": "Hola kan ikke jobbe fordi en annen utvidelse er å kontrollere proxyinnstillingene.",
     "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola virker ikke veldig bra i Windows 8 modus. Vennligst bytt til skrivebordsmodus. Trykk <a>her</a> for instruksjoner",
     "Hola is not available right now, but we are working on it.": "Hola er ikke tilgjengelig akkurat nå, men vi jobber med saken.",
-    "Hola is off, click $1 to turn on": "Hola er av, klikk $1 for å slå på",
+    "Hola is off, click it to turn it on": "Hola er av, klikk for å slå på",
     "Hola site list": "Unblocker site list",
     "I can now access $1 from any country!": "Jeg kan nå få tilgang til $1 fra alle land!",
     "I did not experience any buffering": "Jeg opplever ikke noen buffering",
