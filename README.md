@@ -1,5 +1,9 @@
 Help us translate Hola!
 =========
+<a href="http://translate.hola.org/engage/hola/?utm_source=widget">
+<img src="http://translate.hola.org/widgets/hola/-/shields-badge.svg" alt="Translation status" />
+</a>
+
 To improve a translation:
 
 Option 1:
