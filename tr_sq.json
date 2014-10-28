@@ -71,7 +71,7 @@
         "Hola cannot work because another extension is controlling your proxy settings.": "Hola nuk mund të punojë për shkak se një tjetër zgjerim është i kontrolluar tuaj proxy.",
         "Hola does not work well in Windows 8 mode. Please switch to desktop mode. Click <a>here</a> for instructions": "Hola nuk punon mirë në Windows 8 regjimin. Ju lutemi të kaloni në mënyrë desktop. <a> Kliko këtu </a> për udhëzime",
         "Hola is not available right now, but we are working on it.": "Hola nuk është në dispozicion tani, por ne jemi duke punuar në të.",
-        "Hola is off, click $1 to turn on": "Hola është jashtë, klikoni $1 për ta kthyer në",
+        "Hola is off, click it to turn it on": "Hola është jashtë, klikoni për ta kthyer në",
         "Hola site list": "Site Unblocker lista",
         "I can now access $1 from any country!": "Unë tani mund të hyni $1 nga çdo vend!",
         "I did not experience any buffering": "Unë nuk përjetojnë ndonjë buffering",
