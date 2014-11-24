@@ -91,8 +91,8 @@
         "Learn more.": "Больш падрабязна.",
         "Loading Hola...": "Загрузка Hola ...",
         "Loading...": "Загрузка ...",
-        "Love Hola? Tell your friends and help in spreading the word": "Love Hola? Tell your friends and help in spreading the word",
-        "More options": "More options",
+        "Love Hola? Tell your friends and help in spreading the word": "Каханне Hola? Раскажыце сваім сябрам, і дапамагчы ў распаўсюдзе словы",
+        "More options": "Іншыя варыянты",
         "My Apps": "Мае прыкладання",
         "Never this app": "Ніколі гэта дадатак",
         "New Hola app": "Новы Hola прыкладанне",
@@ -215,7 +215,7 @@
         "with you! Just click here to add it to your Hola Unblocker:": "з вамі! Проста націсніце тут, каб дадаць яго ў свой Unblocker Hola:"
     },
     "extension": {
-        " via ": "праз",
+        " via ": " праз ",
         "$1 Buffering?": "Буферызацыі $1?",
         "$1 Hola to access $2\n\nClick here to do the same: $3\n\nIt installs Hola, which lets me surf the Internet faster and access $4$5": "$1 Hola атрымаць доступ да $2 Націсніце тут, каб зрабіць тое ж самае: $3 Ён ўсталёўвае Hola, які дазваляе мне падарожнічаць па Інтэрнэце хутчэй і доступ да $4 $5",
         "$1 VPN": "$1 VPN",
@@ -307,7 +307,7 @@
         "Love Hola?": "Каханне Hola?",
         "Make your Internet better with $1": "Зрабіце ваш Інтэрнэт лепш з $1",
         "Menu": "Меню",
-        "Mode": "Mode",
+        "Mode": "Рэжым",
         "More countries": "Усё больш краін",
         "More sites...": "больш ...",
         "More...": "больш ...",

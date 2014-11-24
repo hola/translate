@@ -91,8 +91,8 @@
         "Learn more.": "Tudjon meg többet.",
         "Loading Hola...": "Hola betöltése...",
         "Loading...": "Loading ...",
-        "Love Hola? Tell your friends and help in spreading the word": "Love Hola? Tell your friends and help in spreading the word",
-        "More options": "More options",
+        "Love Hola? Tell your friends and help in spreading the word": "Szerelem Hola? Mondd el a barátaidnak, és segíteni terjesztik az igét",
+        "More options": "További lehetőségek",
         "My Apps": "Saját alkalmazások",
         "Never this app": "Soha ezt app",
         "New Hola app": "Új Hola app",
@@ -215,7 +215,7 @@
         "with you! Just click here to add it to your Hola Unblocker:": "veled! Csak kattints ide, hogy hozzáadd a Hola feloldó listájához:"
     },
     "extension": {
-        " via ": " via ",
+        " via ": " keresztül ",
         "$1 Buffering?": "$1 pufferelés?",
         "$1 Hola to access $2\n\nClick here to do the same: $3\n\nIt installs Hola, which lets me surf the Internet faster and access $4$5": "$1 Hola eléréséhez $2\n\nKattintson ide, hogy tegyék ugyanezt: $3\n\nEz telepíti Hola, amely lehetővé teszi számomra böngészhet az interneten gyorsabban és elérheti $4$5",
         "$1 VPN": "$1 VPN",
@@ -307,7 +307,7 @@
         "Love Hola?": "Kedveli a Hola-t?",
         "Make your Internet better with $1": "Tedd Internet jobb $1",
         "Menu": "Menü",
-        "Mode": "Mode",
+        "Mode": "Mód",
         "More countries": "További országok",
         "More sites...": "További oldalak...",
         "More...": "Tovább...",
