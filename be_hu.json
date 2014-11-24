@@ -1,4 +1,5 @@
 {
+    " via ": " keresztül ",
     "$1 Buffering?": "$1 pufferelés?",
     "$1 Hola to access $2\n\nClick here to do the same: $3\n\nIt installs Hola, which lets me surf the Internet faster and access $4$5": "$1 Hola eléréséhez $2\n\nKattintson ide, hogy tegyék ugyanezt: $3\n\nEz telepíti Hola, amely lehetővé teszi számomra böngészhet az interneten gyorsabban és elérheti $4$5",
     "$1 from $2": "$1 $2",
@@ -87,6 +88,7 @@
     "Love Hola?": "Kedveli a Hola-t?",
     "Make your Internet better with $1": "Tedd Internet jobb $1",
     "Menu": "Menü",
+    "Mode": "Mód",
     "More countries": "További országok",
     "More sites...": "További oldalak...",
     "More...": "Tovább...",
