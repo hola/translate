@@ -1,5 +1,6 @@
 {
     " via ": " über ",
+    "$1 Buffering?": "$1 Pufferung?",
     "$1 Hola to access $2\n\nClick here to do the same: $3\n\nIt installs Hola, which lets me surf the Internet faster and access $4$5": "$1 Hola den Zugriff auf $2\n\nKlicken Sie hier, um das gleiche zu tun: $3\n\nSie installiert Hola, die mir das Internet schneller surfen und lässt $4$5",
     "$1 VPN Premium": "$1 Premium-VPN",
     "$1 from $2": "$1 von $2",
