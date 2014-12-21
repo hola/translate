@@ -82,7 +82,7 @@
         "How to free space": "Como liberar espaço",
         "I trust this application.": "Confio nesta aplicação.",
         "I'm sharing access to": "Estou a partilhar o acesso ao",
-        "Initializing": "A iniciar",
+        "Initializing": "Iniciação",
         "Insert SD card to enable Hola": "Introduza uma carta SD para permitir o Hola",
         "Install": "Instalar",
         "Install failed, %1$s, can't run hola.": "A instalação falhou, %1$s. É Impossível executar o Hola.",
@@ -289,7 +289,7 @@
         "I just accessed a censored site using Hola for $1!": "Eu só acedi a um site censurado ao utilizar o Hola por $1!",
         "I'm using $1 to view $2 in my country, and surf faster!": "Eu estou a utilizar $1 a $ no meu país, e navego mais rápido!",
         "Improve translation": "Ajude a melhorar a tradução",
-        "Initializing...": "A iniciar,  por favor aguarde...",
+        "Initializing...": "Iniciação...",
         "Install": "Instalar",
         "Install Accelerator": "Instala o Acelarador",
         "Install Free Hola Accelerator": "Instalar o Acelerador do Hola Grátis",
@@ -347,12 +347,12 @@
         "Solve buffering problems with": "Resolver problemas com a memória temporária utilizada de vídeo ",
         "Solves it": "Resolve-lo",
         "Start Hola": "Iniciar o Hola",
-        "Starting...": "A iniciar...",
+        "Starting...": "A iniciar, por favor aguarde...",
         "Stop Hola": "Parar o Hola",
         "Stopping peer routing...": "A parar encaminhamento dos pares...",
         "Submit": "Submeter",
         "Support Hola": "Suporte do Hola",
-        "Talk to us on $1": "Fale connosco com $1",
+        "Talk to us on $1": "Fale connosco no $1",
         "Tell friends about $1": "Conte aos amigos sobre $1",
         "Testing connection...": "A testar ligação...",
         "Thank you!": "Obrigado!",
@@ -360,8 +360,8 @@
         "Top popular sites": "Top dos sites mais populares",
         "Translate to your language": "Traduza para a sua língua",
         "Try again": "Tente novamente",
-        "Try another server": "Experimenta outro servidor",
-        "Try it": "Experimenta",
+        "Try another server": "Experimente outro servidor",
+        "Try it": "Experimente",
         "Try to <span>reload</span>": "Tente <span>recarregar</span>",
         "Trying another peer...": "A experimentar outro par...",
         "Turn off Accelerator": "Desligue o Acelerador",
@@ -400,3 +400,4 @@
         "working? remember": "Funciona? Lembrar"
     }
 }
+
