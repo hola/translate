@@ -1,6 +1,6 @@
 {
     "android": {
-        "%1$s not supported": "No se soporta el %1$s",
+        "%1$s not supported": "no se soporta el %1$s",
         "(Type a brief description of the problem here)": "(Escribe una breve descripción del problema)",
         "- Since you installed Hola -": "- Desde la instalación de Hola -",
         "About": "Acerca de",
