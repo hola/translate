@@ -665,7 +665,7 @@
         "Starting...": "A iniciar...",
         "Stop Hola": "Parar o Hola",
         "Stopping peer routing...": "A parar encaminhamento dos pares...",
-        "Stream": "Stream",
+        "Stream": "Fluxo",
         "Submit": "Enviar",
         "Support Hola": "Ajuda do Hola",
         "Talk to us on $1": "Fala connosco no $1",
@@ -697,7 +697,7 @@
         "Very old version of Chrome, <a>update</a> Chrome to use Hola": "Tens uma versão muito antiga do Chrome, <a>atualiza</a> o Chrome para utilizar o Hola ",
         "Video": "Vídeo",
         "Video stuck?": "Vídeo bloqueado?",
-        "Videos available for instant streaming": "Vídeos disponíveis para streaming instantâneo",
+        "Videos available for instant streaming": "Vídeos disponíveis para transmissão instantânea",
         "Want Hola on other devices? (Xbox, PS, Apple TV, iPhone...). Click here": "Queres o Hola noutros dispositivos (Xbox, PS, Apple TV, iPhone, etc)? Clica aqui",
         "Want to know more?": "Queres descobrir mais?",
         "We will be in touch with you soon": "Nós entraremos em contato contigo em breve",
@@ -716,6 +716,6 @@
         "not working? try another server": "Não funciona? Tenta outro servidor.",
         "sites that are censored": "sites que são censurados",
         "start": "começar",
-        "working? remember": "Funciona? Lembrar"
+        "working? remember": "Funciona? Relembrar"
     }
 }
