@@ -1,7 +1,7 @@
 {
     " via ": " vía ",
     "$1 Buffering?": "¿$1 está almacenando en búfer?",
-    "$1 Hola to access $2\n\nClick here to do the same: $3\n\nIt installs Hola, which lets me surf the Internet faster and access $4$5": "$1 de Hola para acceder $2\n\nHaga clic aquí para hacer lo mismo: $3\n\nSe instala de Hola, que me permite navegar por Internet más rápido y de acceso $4$5",
+    "$1 Hola to access $2\n\nClick here to do the same: $3\n\nIt installs Hola, which lets me surf the Internet faster and access $4$5": "$1 Hola para acceder a $2\n\nHaz clic aquí para hacer lo mismo: $3\n\nEsto instala Hola, que me permite navegar por Internet más rápido y acceder a $4$5",
     "$1 VPN": "$1 VPN",
     "$1 VPN Premium": "$1 VPN Premium",
     "$1 from $2": "$1 de $2",
