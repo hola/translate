@@ -119,6 +119,13 @@
     "Translate to": "תרגם ל",
     "Translation": "תרגום",
     "Twitter": "טוויטר",
+<<<<<<< HEAD
+=======
+    "Unblock Applications": "יישומי שחרור ב",
+    "Unblock Apps": "Hola Unblocker",
+    "Unblocked": "חסימה",
+    "Unblocker": "פותח חסימה",
+>>>>>>> weblate-android
     "Unblocker is off": "Unblocker כבוי",
     "Unblocker is on": "Unblocker הוא ב",
     "Unblocker running. Tap to open": "ריצת Unblocker. הקש כדי לפתוח",
@@ -135,5 +142,30 @@
     "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "אתה מנותק מWi-Fi. המשך הזרמה דרך 3G / 4G?",
     "cancel": "בטל",
     "failed": "נכשל",
+<<<<<<< HEAD
     "from": "מן"
 }
+=======
+    "feedback": "משוב",
+    "from": "מן",
+    "home": "בית",
+    "network": "רשת",
+    "next": "הבא",
+    "now": "עכשיו",
+    "now with the Hola Unblocker!": "עכשיו עם Unblocker Hola!",
+    "on Play.": "ב-Play.",
+    "pause": "השהה",
+    "resume": "המשך",
+    "share & feedback": "שיתוף ומשוב",
+    "shutdown": "כיבוי",
+    "skip": "דלג",
+    "start": "התחל",
+    "started": "התחיל",
+    "starting": "מתחיל",
+    "stop": "עצור",
+    "stopped": "נעצר",
+    "stopping": "עוצר",
+    "tap to unblock": "הקש כדי לבטל את החסימה",
+    "with you! Just click here to add it to your Hola Unblocker:": "איתך! פשוט לחץ כאן כדי להוסיף אותו לHola Unblocker:"
+}
+>>>>>>> weblate-android
