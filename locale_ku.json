@@ -1,12 +1,10 @@
 {
     "About": "دەربارەی",
-    "Access": "کردنەوە",
     "Auto stream over WiFi only": "لێدانی ڕاستەوخۆی خۆکاری تەنیا بەهۆی بێتەلەوە WiFi",
     "Better Internet": "ئینتەرنێتی باشتر",
     "Blog": "بلۆگەر",
     "Changing country...": "گۆڕینی ووڵات...",
     "Checking for updates...": "پشکنین بۆ نوێکردنەوە...",
-    "Connecting...": "پەیوەندیکردن...",
     "Enter site to access": "سایت بنووسە بۆ کردنەوە",
     "Help": "یارمەتی",
     "Hola Better Internet": "Hola ئینتەرنێتێکی باشتر",
@@ -20,15 +18,8 @@
     "Select a Country": "وڵاتێک دیاریبکە",
     "Settings": "ڕێکخستنەکان",
     "Share": "بڵاوکردنەوە",
-    "Share Hola": "بڵاوکردنەوەی Hola",
-    "Testing connection": "تاقیکردنەوەی پەیوەندی",
-    "Unblocked": "کرایەوە",
-    "Unblocker": "کردنەوەی قفڵ",
     "Update": "نوێکردنەوە",
     "Web": "وێب",
     "Yes": "بەڵێ",
-    "YouTube": "سایتی یوتوب YouTube",
-    "Your Apps\nTab": "بەرنامەکانت\nتاب",
-    "start": "دەستپێکردن",
-    "starting": "دەستپێکردن"
+    "YouTube": "سایتی یوتوب YouTube"
 }
