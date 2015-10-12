@@ -17,8 +17,6 @@
     "Back Key": "Retour clé",
     "Back to": "Retour à",
     "Better Internet": "Meilleur Internet",
-    "Blog": "Blog",
-    "Bonus": "Bonus",
     "Browser": "Navigateur",
     "Browsing from": "Parcourir partir",
     "Buffering": "Mise en mémoire tampon",
@@ -47,7 +45,6 @@
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Erreur lors de la tentative d'affichage de la boîte de dialogue du Service VPN. Ceci de devrait par arriver étant donné qu'il s'agit d'une fonctionnalité standard d'Android 4.0+, cependant votre appareil Android peut ne pas supporter l'auto-configuration du VPN.",
     "Error, please try again": "Désolé, une erreur s'est produite, réessayez",
     "FAQ": "Foire à questions",
-    "Facebook": "Facebook",
     "Failed downloading": "Le téléchargement a échoué",
     "Family or Friend": "Famille ou un ami",
     "Feedback": "Réaction",
@@ -150,7 +147,6 @@
     "Started on": "Commencé le",
     "Status": "Statut",
     "Subscription": "Abonnement",
-    "Suggestions": "Suggestions",
     "Suggestions is off": "Suggestions est éteint",
     "Suggestions is on": "Suggestions est sur",
     "Support": "Soutien",
@@ -174,7 +170,7 @@
     "Upgrade": "Améliorer",
     "Using from": "Utilisation de",
     "WELCOME TO HOLA!": "BIENVENUE CHEZ HOLA !",
-    "We don't allow @%1$s email addresses.": "Nous n'autorisons pas les adresse e-mail de cette forme.",
+    "We don't allow @%1$s email addresses.": "Nous n'autorisons pas les @%1$s adresse e-mail de cette forme.",
     "Web": "Toile",
     "Website/Search Engine": "Site Web / Moteur de Recherche",
     "WiFi Settings": "Paramètres WiFi",
@@ -186,7 +182,5 @@
     "YouTube": "Youtube",
     "cancel": "annuler",
     "failed": "échoué",
-    "from": "à partir de",
-    "per month": "par mois",
-    "per year": "par an"
+    "from": "à partir de"
 }

@@ -74,7 +74,6 @@
     "More options": "Más opciones",
     "My apps": "Mis aplicaciones",
     "Never this app": "Nunca esta aplicación",
-    "No": "No",
     "No SD card": "No hay tarjeta SD",
     "No internet connection is available.\nPlease connect and try again.": "No hay conexión a internet disponible. Por favor, conecte y vuelva a intentarlo.",
     "OK": "Aceptar",
@@ -89,7 +88,6 @@
     "Please enter a password.": "Por favor ingrese una contraseña",
     "Please insert SD card.": "Por favor, introduzca la tarjeta SD.",
     "Please try again later": "Por favor, inténtelo de nuevo más tarde",
-    "Popular": "Popular",
     "Popular List": "Lista populares",
     "Popular apps": "Aplicaciones populares",
     "Popular in": "Popular en",
@@ -141,6 +139,5 @@
     "YouTube": "Youtube",
     "cancel": "cancelar",
     "failed": "fallo",
-    "from": "desde",
-    "per year": "por año"
+    "from": "desde"
 }

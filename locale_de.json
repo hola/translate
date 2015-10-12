@@ -9,7 +9,6 @@
     "Active until": "Aktiv bis",
     "Advertisement": "Anzeige",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager ist deaktiviert. Bitte aktivieren Sie den Download Manager in den Android Einstellungen (Application Manager).",
-    "Apps": "Apps",
     "Auto stream any time. Data charges may apply.": "Automatischer Stream zu jeder Zeit. Es können Kosten entstehen (Mobilfunkbetreiber abhängig)",
     "Auto stream over WiFi only": "Auto-Stream nur über W-Lan",
     "Awesome! Your app version is up to date": "Fantastisch! Ihre App-Version ist auf dem neuesten Stand",
@@ -133,7 +132,6 @@
     "Update": "Aktualisierung",
     "Using from": "Verwendung von",
     "WELCOME TO HOLA!": "WILLKOMMEN BEI HOLA!",
-    "Web": "Web",
     "Website/Search Engine": "Webseite / Suchmaschine",
     "WiFi Settings": "WiFi-Einstellungen",
     "Would you like to unblock this app?": "Möchten Sie diese App entsperren?",
@@ -141,10 +139,7 @@
     "Yes, notify Hola": "Ja, benachrichtige Hola",
     "You may need to restart the app for the new country to take effect": "Möglicherweise müssen Sie die App neu starten, damit das neue Land aktiv wird",
     "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Sie werden vom WLAN abgeschaltet. Weiter Streaming über 3G / 4G?",
-    "YouTube": "YouTube",
     "cancel": "Abbrechen",
     "failed": "Fehlgeschlagen",
-    "from": "von",
-    "per month": "pro Monat",
-    "per year": "pro Jahr"
+    "from": "von"
 }
