@@ -51,7 +51,6 @@
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Error փորձում է ցույց տալ, որ Android 4.0 + VPN ծառայություն երկխոսության. Սա չպետք է լինի, քանի որ դա մի ստանդարտ առանձնահատկությունն Android 4.0 +, բայց Ձեր Android սարքը չի կարող սատարել VPN ավտո - կազմաձեւման.",
     "Error, please try again": "Error, Խնդրում ենք կրկին փորձել",
     "FAQ": "ՀՏՀ",
-    "Facebook": "Facebook",
     "Failed downloading": "Չհաջողվեց բեռնել",
     "Family or Friend": "Ընտանեկան կամ ընկեր",
     "Feedback": "Հետադարձ կապ",
