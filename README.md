@@ -1,6 +1,6 @@
-Android app branch
+Hola.org branch
 =========
 
-Translations for android application
+Translations for hola.org
 Generated automatically by [translate.hola.org](http://translate.hola.org)
 
