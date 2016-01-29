@@ -498,6 +498,7 @@
         "Account": "အကောင့်",
         "Account type": "အကောင့်အမျိုးအစား",
         "Activating...": "အသက်သွင်းနေစဥ်...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "($1) အားလုံး",
         "Apply settings...": "ဆက်တင်များကိုအသုံးချသည်...",
         "Author site:": "ဖန်တီးသူဆိုဒ်:",
@@ -548,6 +549,7 @@
         "Get Premium support": "အာမခံထောက်ပံ့မှုကို ရယူပါ",
         "Get Unlimited Unblocking": "အကန့်အသတ်မဲ့သောလမ်းရှင်းခြင်းကို ရယူပါ",
         "Get access to censored sites, try it now: $1": "တားမြစ်ထားသောဆိုဒ်များကို ဝင်ရောက်ကြည့်ရှုရန် အခုပဲစမ်းကြည့်လ်ုက်ပါ : $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Skype ပေါ်မှ အင်ဂျင်နီယာ၏အကူအညီကို ရယူပါ:",
         "Get the Fastest Servers": "အမြန်ဆုံးဆာဗာများကို ရယူပါ",
         "Go": "သွားမည်",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "စုပ်ယူမှုပြဿနာကို ဖြေရှင်းမည့်အရာ",
         "Solves it": "ဒါကိုဖြေရှင်းမည်",
         "Staff Picks": "ဝန်ထမ်းရွေးချယ်မှုများ",
+        "Start": "Start",
         "Start Hola": "Hola ကိုစတင်မည်",
         "Starting...": "စတင်နေစဥ်...",
         "Stop Hola": "Hola ကိုရပ်တန့်မည်",
@@ -724,5 +727,16 @@
         "sites that are censored": "ဆင်ဆာပိတ်ထားသော ဆိုဒ်များ",
         "start": "စတင်",
         "working? remember": "အလုပ်ဖြစ်ပါလား။ မှတ်ထားပါမည်"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

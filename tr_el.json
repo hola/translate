@@ -498,6 +498,7 @@
         "Account": "Λογαριασμός",
         "Account type": "Τύπος λογαριασμού",
         "Activating...": "Ενεργοποίηση...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Όλα ($1)",
         "Apply settings...": "Εφαρμογή ρυθμίσεων...",
         "Author site:": "Ιστοσελίδα Συγγραφέας:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Πάρτε Υποστήριξη Premium",
         "Get Unlimited Unblocking": "Πάρτε Unlimited Απεμπλοκή",
         "Get access to censored sites, try it now: $1": "Αποκτήστε πρόσβαση σε λογοκρίνονται sites, δοκιμάστε το τώρα: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Ζητήστε βοήθεια από μηχανικό μέσω Skype:",
         "Get the Fastest Servers": "Πάρτε τα γρηγορότερος Servers",
         "Go": "Πηγαίνω",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Επίλυση προβλημάτων με buffering",
         "Solves it": "Λύνει το",
         "Staff Picks": "Επιλογές Προσωπικό",
+        "Start": "Start",
         "Start Hola": "αρχή",
         "Starting...": "Ξεκινώντας...",
         "Stop Hola": "Διακοπή Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "sites που λογοκρίνονται",
         "start": "αρχή",
         "working? remember": "εργασίας; θυμάμαι"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

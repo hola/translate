@@ -184,7 +184,7 @@
         "Upgrade": "Upgrade",
         "Using from": "Používam od",
         "WELCOME TO HOLA!": "VITAJTE NA Hola!",
-        "We don't allow @%1$s email addresses.": "Nechceme  @%1$s e-mailové adresy.",
+        "We don't allow @%1$s email addresses.": "Nechceme @%1$s e-mailové adresy.",
         "Web": "Web",
         "Website/Search Engine": "Webová stránka/Search Engine",
         "WiFi Settings": "WiFi Nastavenie",
@@ -498,6 +498,7 @@
         "Account": "Účet",
         "Account type": "Typ účtu",
         "Activating...": "Aktivácia...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Všetko ($1)",
         "Apply settings...": "Použiť nastavenia...",
         "Author site:": "Autor stránky:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Získať Premium podporu",
         "Get Unlimited Unblocking": "Získať neobmedzené odblokovanie",
         "Get access to censored sites, try it now: $1": "Získajte prístup k cenzurovaným stránkam, skúste teraz: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Získajte pomoc technika cez skype:",
         "Get the Fastest Servers": "Získajte Najrýchlejšie Servery",
         "Go": "Choď",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Vyriešiť problémy so sekaním pomocou",
         "Solves it": "Vyriešiť to",
         "Staff Picks": "Vybrali sme pre vás",
+        "Start": "Start",
         "Start Hola": "Spustiť Hola",
         "Starting...": "Spúšťam...",
         "Stop Hola": "Zastaviť Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "stránky, ktoré sú cenzurované",
         "start": "spustiť",
         "working? remember": "funguje? zapamätať si"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

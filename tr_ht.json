@@ -498,6 +498,7 @@
         "Account": "Kont",
         "Account type": "Kalite Kont",
         "Activating...": "Aktive...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Tout ($1)",
         "Apply settings...": "Aplike anviwònman ...",
         "Author site:": "Sit Author:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Jwenn lajan sipò pou Premium",
         "Get Unlimited Unblocking": "Jwenn Unlimited déblocage",
         "Get access to censored sites, try it now: $1": "Jwenn aksè nan Kontwole sit, eseye li kounye a: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Jwenn èd nan men enjenyè sou Skype:",
         "Get the Fastest Servers": "Jwenn Serveurs ki pi rapid",
         "Go": "Ale",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Rezoud pwoblèm tampon ak",
         "Solves it": "Rezoud li",
         "Staff Picks": "Chwa Anplwaye",
+        "Start": "Start",
         "Start Hola": "kòmanse",
         "Starting...": "Koumanse ...",
         "Stop Hola": "One Stop Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "sit ki Kontwole",
         "start": "kòmanse",
         "working? remember": "ap travay? sonje"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

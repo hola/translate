@@ -498,6 +498,7 @@
         "Account": "Reikningur",
         "Account type": "Tegund reiknings",
         "Activating...": "Virkja...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Allt ($1)",
         "Apply settings...": "Virkja stillingar...",
         "Author site:": "Höfundur síðu:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Fá Hjálp Fyrir Áskrift",
         "Get Unlimited Unblocking": "Fá Ótakmarkaða Aflæsingu",
         "Get access to censored sites, try it now: $1": "Fá aðgang að lokuðum síðum: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Fá hjálp frá tæknimanni í gegnum Skype:",
         "Get the Fastest Servers": "Fá hraðvirkustu miðlarana",
         "Go": "Áfram",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Leystu höggdeyfir í vandræðum með",
         "Solves it": "Leysir það",
         "Staff Picks": "Starfsmenn Picks",
+        "Start": "Start",
         "Start Hola": "Kveikja á Hola",
         "Starting...": "Ræsist...",
         "Stop Hola": "Slökva á Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "síður sem eru bönnuð",
         "start": "byrja",
         "working? remember": "vinna? muna"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

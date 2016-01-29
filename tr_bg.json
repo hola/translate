@@ -498,6 +498,7 @@
         "Account": "Сметка",
         "Account type": "Тип на профила",
         "Activating...": "Активиране...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "All ($1),",
         "Apply settings...": "Приложете настройките ...",
         "Author site:": "Автор сайт:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Вземи Premium подкрепа",
         "Get Unlimited Unblocking": "Get Unlimited деблокиране",
         "Get access to censored sites, try it now: $1": "Да получите достъп до цензурира сайтове, го Опитайте се сега: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Получите помощ от инженер по Skype:",
         "Get the Fastest Servers": "Вземи най-бързия сървъри",
         "Go": "Отиди",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Решете проблемите с буферни",
         "Solves it": "Той решава",
         "Staff Picks": "Прогнози за персонала",
+        "Start": "Start",
         "Start Hola": "начало",
         "Starting...": "Като се започне...",
         "Stop Hola": "Stop Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "сайтове, които са цензурирани",
         "start": "начало",
         "working? remember": "работи? помня"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

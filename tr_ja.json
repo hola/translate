@@ -498,6 +498,7 @@
         "Account": "アカウント",
         "Account type": "口座の種類",
         "Activating...": "アクティブに...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "すべて（$1）",
         "Apply settings...": "設定を適用します...",
         "Author site:": "著者サイト：",
@@ -548,6 +549,7 @@
         "Get Premium support": "プレミアムサポートを入手する",
         "Get Unlimited Unblocking": "無制限のブロック解除を取得",
         "Get access to censored sites, try it now: $1": "検閲サイトへのアクセスを取得し、今それを試してください：$1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Skype でエンジニアからの助けを得る：",
         "Get the Fastest Servers": "最速のサーバーを取得",
         "Go": "行く",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "とバッファリングの問題を解決",
         "Solves it": "それを解決します",
         "Staff Picks": "スタッフのお勧め",
+        "Start": "Start",
         "Start Hola": "開始",
         "Starting...": "開始しています...",
         "Stop Hola": "ストップオラ",
@@ -724,5 +727,16 @@
         "sites that are censored": "検閲されているサイト",
         "start": "開始",
         "working? remember": "働いてるの？覚えている"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

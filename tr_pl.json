@@ -498,6 +498,7 @@
         "Account": "Konto",
         "Account type": "Typ konta",
         "Activating...": "Aktywacja...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Wszystkie ($1)",
         "Apply settings...": "Zastosuj ustawienia ...",
         "Author site:": "Autor strony:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Uzyskać wsparcie Premium",
         "Get Unlimited Unblocking": "Pobierz nieograniczony odblokowanie",
         "Get access to censored sites, try it now: $1": "Uzyskaj dostęp do ocenzurowanych stron, spróbuj teraz: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Uzyskaj pomoc poprzez od inżyniera Skype:",
         "Get the Fastest Servers": "Zdobądź najszybsze serwery",
         "Go": "Idź",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Rozwiązuj problemy buforowania z",
         "Solves it": "Rozwiązuje to",
         "Staff Picks": "Polecane programy",
+        "Start": "Start",
         "Start Hola": "rozpocznij",
         "Starting...": "rozpoczynam...",
         "Stop Hola": "Przystanek Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "Witryny, które są cenzurowane",
         "start": "rozpocznij",
         "working? remember": "pracy? pamiętać"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

@@ -498,6 +498,7 @@
         "Account": "Кошт",
         "Account type": "Тып рахунку",
         "Activating...": "Актывацыя...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Усе ($1)",
         "Apply settings...": "Прымяніць налады ...",
         "Author site:": "Аўтар сайта:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Атрымаць Прэміум падтрымку",
         "Get Unlimited Unblocking": "Атрымаць неабмежаваны разблакавання",
         "Get access to censored sites, try it now: $1": "Атрымаць доступ да цэнзуры сайтаў, паспрабуйце зараз: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Атрымаеце дапамогу ад інжынера па Skype:",
         "Get the Fastest Servers": "Атрымаеце хуткі сервераў",
         "Go": "Перайсці",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Рашэнне праблем буферызацыі з",
         "Solves it": "Вырашае яе",
         "Staff Picks": "Зорныя вайны",
+        "Start": "Start",
         "Start Hola": "пачатак",
         "Starting...": "Starting ...",
         "Stop Hola": "Стоп Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "сайты, якія цэнзура",
         "start": "пачатак",
         "working? remember": "працуе? запомніць"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

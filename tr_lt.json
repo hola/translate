@@ -498,6 +498,7 @@
         "Account": "Sąskaita",
         "Account type": "Paskyros tipas",
         "Activating...": "Įjungus...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Visi ($1)",
         "Apply settings...": "Taikyti nustatymus...",
         "Author site:": "Autoriaus svetainė:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Gauk Premium paramą",
         "Get Unlimited Unblocking": "Gauti neribotą atblokavimo",
         "Get access to censored sites, try it now: $1": "Gaukite prieigą prie cenzūruoti svetainių, pabandykite jį dabar: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Gaukite pagalbos iš inžinieriaus per skype:",
         "Get the Fastest Servers": "Gaukite sparčiausias Serveriai",
         "Go": "Eiti",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Išspręskite problemas buferio su",
         "Solves it": "Sprendžia jį",
         "Staff Picks": "Personalo Rekomenduojame",
+        "Start": "Start",
         "Start Hola": "pradėti",
         "Starting...": "Pradedama ...",
         "Stop Hola": "Sustabdyti Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "svetainių, kurios yra cenzūra",
         "start": "pradėti",
         "working? remember": "veikia? prisiminti"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

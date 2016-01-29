@@ -498,6 +498,7 @@
         "Account": "Hesap",
         "Account type": "Hesap türü",
         "Activating...": "Etkinleştirme...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Hepsi ($1)",
         "Apply settings...": "Ayarları uygula...",
         "Author site:": "Yazar sitesi:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Premium desteği alın",
         "Get Unlimited Unblocking": "Sınırsız Engel Kaldırma alın",
         "Get access to censored sites, try it now: $1": ", Sansürlü sitelere erişin şimdi deneyin: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Skype üzerinden teknik destek yardımı alın:",
         "Get the Fastest Servers": "En Hızlı Sunuculara Sahip Olun",
         "Go": "Git",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "İle önbellek sorunları çözün",
         "Solves it": "Bunu çözümle",
         "Staff Picks": "Personel Seçtikleri",
+        "Start": "Start",
         "Start Hola": "Hola’yı başlat",
         "Starting...": "Başlatılıyor ...",
         "Stop Hola": "Hola’yı durdur",
@@ -724,5 +727,16 @@
         "sites that are censored": "sansürlü siteler",
         "start": "başlat",
         "working? remember": "Çalışıyor mu? hatırla"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

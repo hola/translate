@@ -498,6 +498,7 @@
         "Account": "ಖಾತೆ",
         "Account type": "ಖಾತೆ ಪ್ರಕಾರ",
         "Activating...": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತಿದೆ...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "ಎಲ್ಲಾ ($1)",
         "Apply settings...": "ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಅನ್ವಯಿಸಿ ...",
         "Author site:": "ಲೇಖಕ ಸೈಟ್:",
@@ -548,6 +549,7 @@
         "Get Premium support": "ಪ್ರೀಮಿಯಂ ಬೆಂಬಲ ಪಡೆಯಿರಿ",
         "Get Unlimited Unblocking": "ಅನ್ಲಿಮಿಟೆಡ್ ಅನಿರ್ಬಂಧಿಸಲಾಗುತ್ತಿದೆ ಪಡೆಯಿರಿ",
         "Get access to censored sites, try it now: $1": "ಸೆನ್ಸಾರ್ ತಾಣಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ಪಡೆಯಿರಿ ಈಗ ಪ್ರಯತ್ನಿಸಿ: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "ಸ್ಕೈಪ್ ಪ್ರತಿ ಎಂಜಿನಿಯರ್ ಸಹಾಯ ಪಡೆಯಿರಿ:",
         "Get the Fastest Servers": "ಫಾಸ್ಟೆಸ್ಟ್ ಪರಿಚಾರಕಗಳು ಪಡೆಯಿರಿ",
         "Go": "ಹೋಗಿ",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "ಬಫರ್ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಿ",
         "Solves it": "ಅದನ್ನು ಬಗೆಹರಿಸುವ",
         "Staff Picks": "ಸಿಬ್ಬಂದಿ ಆಯ್ಕೆಗಳು",
+        "Start": "Start",
         "Start Hola": "ಆರಂಭಿಸಲು",
         "Starting...": "ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ...",
         "Stop Hola": "ನಿಲ್ಲಿಸಿ ಹೊಲಾ",
@@ -724,5 +727,16 @@
         "sites that are censored": "ಸೆನ್ಸಾರ್ ಸೈಟ್ಗಳು",
         "start": "ಆರಂಭಿಸಲು",
         "working? remember": "ಕೆಲಸ? ನೆನಪಿಡಿ"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

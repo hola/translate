@@ -498,6 +498,7 @@
         "Account": "Հաշիվ",
         "Account type": "Հաշվի տեսակը",
         "Activating...": "Ակտիվացնելով...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Բոլորը ($1)",
         "Apply settings...": "Դիմել կայանքները ...",
         "Author site:": "Հեղինակ site:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Ստանալ Պրեմիում աջակցություն",
         "Get Unlimited Unblocking": "Ստանալ անսահմանափակ Արգելափակման բացում",
         "Get access to censored sites, try it now: $1": "Ստացեք մուտք censored կայքեր, փորձեք այն հիմա: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Ստացեք օգնություն ինժեներ է Skype-ի միջոցով:",
         "Get the Fastest Servers": "Ստանալ ամենաարագ Սերվերներ",
         "Go": "Գնալ",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Լուծել buffering խնդիրները",
         "Solves it": "Լուծում է",
         "Staff Picks": "Աշխատակազմ տեսաշար",
+        "Start": "Start",
         "Start Hola": "սկիզբ",
         "Starting...": "Սկսած ...",
         "Stop Hola": "Դադարեցնել Hola-ն",
@@ -724,5 +727,16 @@
         "sites that are censored": "կայքեր, որոնք censored",
         "start": "սկիզբ",
         "working? remember": "աշխատում. հիշում"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

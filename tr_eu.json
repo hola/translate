@@ -498,6 +498,7 @@
         "Account": "Kontu",
         "Account type": "Kontu mota",
         "Activating...": "Aktibatzen...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Guztiak ($1)",
         "Apply settings...": "Aplikatu ezarpenak...",
         "Author site:": "Egilea gune:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Talde Premium laguntza",
         "Get Unlimited Unblocking": "Talde Unlimited Unblocking",
         "Get access to censored sites, try it now: $1": "Talde sarbidea zentsuratu guneetara, saiatu da orain: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Laguntza ingeniaria etatik skype gainetik:",
         "Get the Fastest Servers": "Talde Servers Fastest du",
         "Go": "Joan",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Konponduko dituzten buferra arazoak",
         "Solves it": "Konpontzen da",
         "Staff Picks": "Langileak Picks",
+        "Start": "Start",
         "Start Hola": "Irteeran",
         "Starting...": "Hasten...",
         "Stop Hola": "Gelditu Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "duten zentsuratu diren guneak",
         "start": "Irteeran",
         "working? remember": "lan? gogoratu"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

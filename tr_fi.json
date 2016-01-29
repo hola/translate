@@ -498,6 +498,7 @@
         "Account": "Tili",
         "Account type": "Tilin tyyppi",
         "Activating...": "Aktivointi...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Kaikki ($1)",
         "Apply settings...": "Käytä asetuksia ...",
         "Author site:": "Tekijän sivusto:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Hanki Premium tuki",
         "Get Unlimited Unblocking": "Hanki rajaton estojen poisto",
         "Get access to censored sites, try it now: $1": "Hanki pääsy sensuroiduille sivustoille, kokeile sitä nyt: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Hanki apua insinööriltä Skypessä:",
         "Get the Fastest Servers": "Hanki nopeimmat palvelimet",
         "Go": "Siirry",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Ratkaise puskurointi ongelmia",
         "Solves it": "Ratkaisee sen",
         "Staff Picks": "Henkilökunnan valinnat",
+        "Start": "Start",
         "Start Hola": "Käynnistä Hola",
         "Starting...": "Käynnistetään...",
         "Stop Hola": "Pysäytä Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "sivustoja, jotka sensuroidaan",
         "start": "aloita",
         "working? remember": "toimi? muista"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

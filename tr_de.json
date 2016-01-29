@@ -498,6 +498,7 @@
         "Account": "Konto",
         "Account type": "Kontotyp",
         "Activating...": "Aktivieren...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Alle ($1)",
         "Apply settings...": "Einstellungen speichern...",
         "Author site:": "Website des Autors:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Erhalten Sie Premium Support",
         "Get Unlimited Unblocking": "Erhalten Sie grenzenloses Unblocking",
         "Get access to censored sites, try it now: $1": "Holen Sie sich den Zugang zu zensierten Webseiten, versuchen Sie es jetzt: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Holen Sie sich Hilfe von uns über Skype:",
         "Get the Fastest Servers": "Nutzen Sie die schnellsten Server",
         "Go": "Los",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Behebt Probleme beim Puffern mit",
         "Solves it": "Behebt es",
         "Staff Picks": "Mitarbeiter-Favoriten",
+        "Start": "Start",
         "Start Hola": "Starte Hola",
         "Starting...": "Starte...",
         "Stop Hola": "Stopp Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "Web-Seiten, die zensiert sind",
         "start": "Starten",
         "working? remember": "Funktioniert? Merken"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

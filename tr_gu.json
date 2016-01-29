@@ -498,6 +498,7 @@
         "Account": "ખાતું",
         "Account type": "એકાઉન્ટ પ્રકાર",
         "Activating...": "સક્રિય...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "બધા ($1)",
         "Apply settings...": "સેટિંગ્સ લાગુ કરો ...",
         "Author site:": "લેખક સાઇટ:",
@@ -548,6 +549,7 @@
         "Get Premium support": "પ્રીમિયમ આધાર મેળવો",
         "Get Unlimited Unblocking": "અનલિમિટેડ તગત મેળવો",
         "Get access to censored sites, try it now: $1": ", સેન્સર સાઇટ્સ ઍક્સેસ મેળવો હવે તે પ્રયાસ કરો: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "સ્કાઈપ દ્વારા એન્જિનિયર ની મદદ મેળવો:",
         "Get the Fastest Servers": "સૌથી ઝડપી સર્વરો મેળવો",
         "Go": "જાઓ",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "સાથે બફરીંગને પ્રશ્નો ઉકેલો",
         "Solves it": "તે નિવારે",
         "Staff Picks": "સ્ટાફ ચૂંટે",
+        "Start": "Start",
         "Start Hola": "આરંભ કરો",
         "Starting...": "આરંભ થાય છે",
         "Stop Hola": "બંધ Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "સેન્સર છે કે સાઇટ્સ",
         "start": "આરંભ કરો",
         "working? remember": "કામ કરો છો? યાદ રાખવું"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

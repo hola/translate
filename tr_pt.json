@@ -498,6 +498,7 @@
         "Account": "Conta",
         "Account type": "Tipo de conta",
         "Activating...": "A activar...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Tudo ($1)",
         "Apply settings...": "Aplicar definições...",
         "Author site:": "Site do autor:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Obter suporte Premium",
         "Get Unlimited Unblocking": "Obter um desbloqueio ilimitado",
         "Get access to censored sites, try it now: $1": "Obtém acesso a sites censurados, experimenta-o agora: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Obter ajuda dum engenheiro pelo Skype:",
         "Get the Fastest Servers": "Obter os servidores mais rápidos",
         "Go": "Ir",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Resolver problemas de carregamento com",
         "Solves it": "Resolve-lo",
         "Staff Picks": "Escolhas da equipa",
+        "Start": "Start",
         "Start Hola": "Iniciar o Hola",
         "Starting...": "A iniciar...",
         "Stop Hola": "Parar o Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "sites que são censurados",
         "start": "começar",
         "working? remember": "Funciona? Relembrar"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

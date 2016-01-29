@@ -498,6 +498,7 @@
         "Account": "บัญชี",
         "Account type": "ประเภทบัญชี",
         "Activating...": "การเปิดใช้งาน...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "ทั้งหมด ($1)",
         "Apply settings...": "ใช้การตั้งค่า ...",
         "Author site:": "เว็บไซต์ของผู้เขียน:",
@@ -548,6 +549,7 @@
         "Get Premium support": "รับการสนับสนุนแบบพิเศษ",
         "Get Unlimited Unblocking": "รับการปลดบล็อกแบบไม่จำกัด",
         "Get access to censored sites, try it now: $1": "ได้รับการเข้าถึงเว็บไซต์ที่มีเซ็นเซอร์, ลองตอนนี้: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "ขอความช่วยเหลือจากวิศวกรบน Skype:",
         "Get the Fastest Servers": "ไปยัง เซิฟเวอร์ที่เร็วที่สุด",
         "Go": "ไป",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "แก้ปัญหาบัฟเฟอร์ด้วย",
         "Solves it": "แก้ไข",
         "Staff Picks": "คัดสรรโดยทีมงาน",
+        "Start": "Start",
         "Start Hola": "เริ่มต้น",
         "Starting...": "กำลังเริ่มต้น...",
         "Stop Hola": "หยุด Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "เว็บไซต์ที่ได้รับการตรวจสอบ",
         "start": "เริ่มต้น",
         "working? remember": "ทำงาน? จำเซิร์ฟเวอร์"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

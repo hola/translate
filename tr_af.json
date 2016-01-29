@@ -498,6 +498,7 @@
         "Account": "Rekening",
         "Account type": "Tipe Rekening",
         "Activating...": "Aktiveer...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Alle ($1)",
         "Apply settings...": "Pas instellings ...",
         "Author site:": "Skrywer webwerf:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Kry Premium ondersteuning",
         "Get Unlimited Unblocking": "Kry Unlimited die gang",
         "Get access to censored sites, try it now: $1": "Kry toegang tot gesensor webwerwe, probeer dit nou: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Kry hulp van ingenieur oor Skype:",
         "Get the Fastest Servers": "Kry die vinnigste Servers",
         "Go": "Gaan",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Los buffer probleme met",
         "Solves it": "Los dit",
         "Staff Picks": "Personeel Picks",
+        "Start": "Start",
         "Start Hola": "begin",
         "Starting...": "Begin ...",
         "Stop Hola": "Stop Hola",
@@ -724,5 +727,16 @@
         "sites that are censored": "webwerwe wat gesensor word",
         "start": "begin",
         "working? remember": "werk? onthou"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

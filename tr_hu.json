@@ -498,6 +498,7 @@
         "Account": "Fiók",
         "Account type": "Felhasználói fiók típusa",
         "Activating...": "Aktiválása...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "Minden ($1)",
         "Apply settings...": "Beállítások alkalmazása...",
         "Author site:": "A Szerző oldala:",
@@ -548,6 +549,7 @@
         "Get Premium support": "Szerezzen Prémium ügyfélszolgálatot",
         "Get Unlimited Unblocking": "Szerezzen Korlátlan blokkolás mentességet",
         "Get access to censored sites, try it now: $1": "Kap hozzáférést cenzúrázott oldalak, próbálja ki most: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "Segítséget kérhet egy mérnöktől Skype-on keresztül:",
         "Get the Fastest Servers": "Megkapja a leggyorsabb szervereket",
         "Go": "Megy",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "Puffer problémák megoldása",
         "Solves it": "Megoldja,",
         "Staff Picks": "A mi ajánlatunk",
+        "Start": "Start",
         "Start Hola": "Hola indítása",
         "Starting...": "Indulás...",
         "Stop Hola": "Hola leállítása",
@@ -724,5 +727,16 @@
         "sites that are censored": "oldalak, cenzúrázzák",
         "start": "kezdés",
         "working? remember": "működik? emlékezik"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

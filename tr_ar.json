@@ -498,6 +498,7 @@
         "Account": "حساب",
         "Account type": "نوع الحساب",
         "Activating...": "تفعيل...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "جميع ($1)",
         "Apply settings...": "تطبيق الإعدادات ...",
         "Author site:": "موقع المؤلف:",
@@ -548,6 +549,7 @@
         "Get Premium support": "الحصول على دعم ممتاز",
         "Get Unlimited Unblocking": "غير محدود الحصول على إلغاء الحظر",
         "Get access to censored sites, try it now: $1": "الوصول إلى مواقع محظورة، نحاول الآن: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "الحصول على مساعدة من مهندس على سكايب:",
         "Get the Fastest Servers": "الحصول على أسرع خوادم",
         "Go": "ذهاب",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "حل مشاكل التخزين المؤقت مع",
         "Solves it": "يحل",
         "Staff Picks": "اللقطات الموظفين",
+        "Start": "Start",
         "Start Hola": "ابدأ",
         "Starting...": "ابتداء ...",
         "Stop Hola": "توقف حولا",
@@ -724,5 +727,16 @@
         "sites that are censored": "المواقع التي تخضع للرقابة",
         "start": "بداية",
         "working? remember": "العمل؟ تذكر"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }

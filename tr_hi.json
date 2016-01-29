@@ -498,6 +498,7 @@
         "Account": "खाता",
         "Account type": "खाता प्रकार",
         "Activating...": "सक्रिय कर रहा है...",
+        "Add the free media player": "Add the free media player",
         "All ($1)": "सभी ($1)",
         "Apply settings...": "सेटिंग्स लागू करें ...",
         "Author site:": "लेखक साइट:",
@@ -548,6 +549,7 @@
         "Get Premium support": "बढ़िया मदद मिलती है",
         "Get Unlimited Unblocking": "असीमित अनब्लॉक करें",
         "Get access to censored sites, try it now: $1": ", सेंसर साइटों के लिए उपयोग हो अब यह कोशिश: $1",
+        "Get free Hola client for better performance!": "Get free Hola client for better performance!",
         "Get help from engineer over Skype:": "स्काइपे से अधिक इंजीनियर से मदद प्राप्त करें:",
         "Get the Fastest Servers": "सबसे तेजी से सर्वर प्राप्त",
         "Go": "जाओ",
@@ -657,6 +659,7 @@
         "Solve buffering problems with": "साथ बफरिंग समस्याओं का समाधान",
         "Solves it": "इसे हल",
         "Staff Picks": "कर्मचारियों की पसंद",
+        "Start": "Start",
         "Start Hola": "प्रारंभ",
         "Starting...": "शुरू ...",
         "Stop Hola": "बंद करो होला",
@@ -724,5 +727,16 @@
         "sites that are censored": "सेंसर कर रहे हैं कि साइटों",
         "start": "प्रारंभ",
         "working? remember": "काम करते हो? याद"
+    },
+    "site_hola": {
+        "About": "About",
+        "Access any website": "Access any website",
+        "Access sites censored in your country and accelerate your Internet with Hola – Free!": "Access sites censored in your country and accelerate your Internet with Hola – Free!",
+        "FAQ": "FAQ",
+        "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Free VPN, Secure Browsing, Unrestricted Access",
+        "Streamer": "Streamer",
+        "Try any of the following solutions:": "Try any of the following solutions:",
+        "Used by over <b>{{number}}</b> people around the world": "Used by over <b>{{number}}</b> people around the world",
+        "VPN": "VPN"
     }
 }
