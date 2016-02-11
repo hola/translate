@@ -41,7 +41,6 @@
     "Debug": "Debuggen",
     "Disliked It": "Mir gefiel es nicht",
     "Don't ask again": "Nicht erneut fragen",
-    "Email": "EMail",
     "Enter site to access": "Seite zum Aufrufen eingeben",
     "Error showing VPN Service dialog": "Fehler beim Anzeigen des VPN-Dienst Dialogs",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Fehler beim Anzeigen des Android 4.0+ VPN-Dienst Dialogs. Dies sollte nicht passieren, da es sich um eine Standardfunktion von Android 4.0+ handelt, aber Ihr Android Gerät unterstützt möglicherweise keine automatische VPN Konfiguration.",
