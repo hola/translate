@@ -1,1 +1,10 @@
-{}
+{
+    "About": "Acerca de",
+    "Access any website": "Acceda a cualquier sitio web",
+    "FAQ": "PF",
+    "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Libre VPN, navegación segura, acceso sin restricciones",
+    "Hola is the first community powered (Peer-to-Peer) VPN, where users help each other to make the web accessible for all. We take great care to protect your privacy, security and personal information. For details on how we do that, visit our <a class=\"link\" href=\"/faq#in_how_is_free\">FAQ</a> page.": "Hola es la primera comunidad accionado (Peer-to-Peer) VPN, donde los usuarios se ayudan entre sí para hacer la web accesible para todos. Tenemos mucho cuidado para proteger su privacidad, la seguridad y la información personal. Para más detalles sobre cómo lo hacemos, visite <a class=\"link\" href=\"/faq#in_how_is_free\">nuestra página de preguntas frecuentes</a>.",
+    "Streamer": "Serpentina",
+    "Try any of the following solutions:": "Pruebe cualquiera de las siguientes soluciones:",
+    "Used by over <b>{{number}}</b> people around the world": "Utilizado por más de <b>{{number}}</b> personas en todo el mundo"
+}
