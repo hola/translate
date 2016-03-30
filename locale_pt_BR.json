@@ -50,7 +50,6 @@
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Erro ao tentar mostrar o diálogo de Serviço VPN Android 4.0 ou superior. Isso não deveria acontecer pois é uma função nativa do Android 4.0 ou superior, mas talvez o seu dispositivo Android não suporte autoconfiguração de VPN.",
     "Error, please try again": "Erro, por favor tente de novo",
     "FAQ": "Perguntas frequentes",
-    "Facebook": "Facebook",
     "Failed downloading": "Falha no download",
     "Family or Friend": "Família ou amigo",
     "Feedback": "Sugestões",
