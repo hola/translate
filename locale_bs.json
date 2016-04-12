@@ -14,8 +14,6 @@
     "Advertisement": "Reklama",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager je onemogućen. Molimo omogućite ga u Android postavke (Application Manager).",
     "Anonymous browsing": "Anonymous pregledavanja",
-    "Auto stream any time. Data charges may apply.": "Auto potok bilo koje vrijeme. Prijava podataka mogu primjenjivati.",
-    "Auto stream over WiFi only": "Auto stream preko WiFi samo",
     "Awesome! Your app version is up to date": "Awesome! Vaša app verzija je do datuma",
     "Back Key": "Natrag Key",
     "Back to": "Nazad na",
@@ -176,7 +174,6 @@
     "Yes": "Da",
     "Yes, notify Hola": "Da, obavijestiti Hola",
     "You may need to restart the app for the new country to take effect": "Možda će biti potrebno da se ponovno pokrenuti aplikaciju za novu zemlju da stupi na snagu",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Ti isključen iz Wi-Fi. Nastavi streaming preko 3G / 4G?",
     "cancel": "otkazati",
     "failed": "nije uspjelo",
     "from": "iz"

@@ -14,8 +14,6 @@
     "Advertisement": "Iklan",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager dinonaktifkan. Aktifkan dalam pengaturan Android (Application Manager).",
     "Anonymous browsing": "Penjelajahan anonim",
-    "Auto stream any time. Data charges may apply.": "Auto streaming setiap saat. Biaya data mungkin berlaku.",
-    "Auto stream over WiFi only": "Aliran otomatis hanya melalui WIFI",
     "Awesome! Your app version is up to date": "Luar biasa! Versi aplikasi Anda up to date",
     "Back Key": "Tombol Kembali",
     "Back to": "Kembali ke",
@@ -179,7 +177,6 @@
     "Yes": "Ya",
     "Yes, notify Hola": "Ya, beritahu Hola",
     "You may need to restart the app for the new country to take effect": "Anda mungkin perlu me-restart aplikasi untuk negara baru untuk mengambil efek",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Anda terputus dari Wi-Fi. Lanjutkan streaming via 3G / 4G?",
     "cancel": "batal",
     "failed": "gagal",
     "from": "dari"

@@ -14,8 +14,6 @@
     "Advertisement": "Reklama",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager je zakázáno. Zapněte si ho prosím v Android nastavení (Application Manager).",
     "Anonymous browsing": "Anonymní prohlížení",
-    "Auto stream any time. Data charges may apply.": "Auto streamovat kdykoliv. Údaje vztahovat poplatky.",
-    "Auto stream over WiFi only": "Auto proud přes WiFi pouze",
     "Awesome! Your app version is up to date": "To je skvělé! Vaše aplikace verze je aktuální",
     "Back Key": "Tlačítko Zpět",
     "Back to": "Zpět na",
@@ -178,7 +176,6 @@
     "Yes": "Ano",
     "Yes, notify Hola": "Ano, oznámit Hola",
     "You may need to restart the app for the new country to take effect": "Možná bude nutné restartovat aplikaci pro nová země se projeví až po",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Jste odpojeni od Wi-Fi připojení na internet.\nPokračovat streamování přes 3G / 4G?",
     "cancel": "zrušit",
     "failed": "neúspěšný",
     "from": "od"

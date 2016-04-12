@@ -15,8 +15,6 @@
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Manager-ul de dispozitive Android este dezactivat. Activează-l în aplicațiile Androis (Manager de Aplicații).",
     "Anonymous browsing": "Anonim navigarea",
     "Apps": "Aplicații",
-    "Auto stream any time. Data charges may apply.": "Folosește fluxul automat întotdeauna. Se pot aplica tarife de date.",
-    "Auto stream over WiFi only": "Folosește fluxul automat doar prin WiFi",
     "Awesome! Your app version is up to date": "Minunat! Versiunea aplicației este la zi",
     "Back Key": "Tasta Înapoi",
     "Back to": "Înapoi la",
@@ -182,7 +180,6 @@
     "Yes": "Da",
     "Yes, notify Hola": "Da, semnalează Hola",
     "You may need to restart the app for the new country to take effect": "S-ar putea să fii nevoit să restartezi aplicația pentru ca noua țară să se afișeze",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Ești deconectat de la Wi-Fi.\nContinui fluxul prin 3G/4G?",
     "cancel": "anulează",
     "failed": "eșuare",
     "from": "de la"

@@ -14,8 +14,6 @@
     "Advertisement": "Fógraíocht",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Tá Bainisteoir Download android faoi mhíchumas. Le do thoil ar a chumas sna suímh Android (Bainisteoir Iarratais).",
     "Anonymous browsing": "Gan ainm brabhsála",
-    "Auto stream any time. Data charges may apply.": "Auto sruth am ar bith. Is féidir táillí Sonraí i bhfeidhm.",
-    "Auto stream over WiFi only": "Sruth Auto thar wifi amháin",
     "Awesome! Your app version is up to date": "Awesome! Tá do leagan app suas chun dáta",
     "Back Key": "Ar ais Eochair",
     "Back to": "Ar ais go",
@@ -186,7 +184,6 @@
     "Yes": "Is ea",
     "Yes, notify Hola": "Sea, a chur in iúl Hola",
     "You may need to restart the app for the new country to take effect": "Seans go mbeidh ort a atosú ar an app don tír nua chun éifeacht a ghlacadh",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Tá tú ag scoite ó Wi-Fi. Leanúint ar aghaidh sruthú trí 3G / 4G?",
     "cancel": "chur ar ceal",
     "failed": "Theip ar",
     "from": "ó"

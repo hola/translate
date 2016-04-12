@@ -15,8 +15,6 @@
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager je zakázaný. Zapnite si ho v Android nastaveniach (Application Manager).",
     "Anonymous browsing": "Anonymné prehliadanie",
     "Apps": "Aplikácia",
-    "Auto stream any time. Data charges may apply.": "Automatické streamovanie povolené kedykoľvek. Môžu sa vzťahovať dátové poplatky.",
-    "Auto stream over WiFi only": "Automatické streamovanie len cez WiFi ",
     "Awesome! Your app version is up to date": "Skvelé! Vaša verzia aplikácie je aktuálna",
     "Back Key": "Tlačidlo Späť",
     "Back to": "Späť na",
@@ -179,7 +177,6 @@
     "Yes": "Áno",
     "Yes, notify Hola": "Áno, oznámiť Hola",
     "You may need to restart the app for the new country to take effect": "Možno bude potrebné reštartovať aplikáciu, aby sa prejavila zmena krajiny",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Ste odpojení od Wi-Fi pripojenie na internet. Pokračovať streamovanie cez 3G / 4G?",
     "cancel": "zrušiť",
     "failed": "zlyhal",
     "from": "od"

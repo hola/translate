@@ -14,8 +14,6 @@
     "Advertisement": "Reklāma",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager ir atslēgts. Lūdzu, aktivizējiet to Android iestatījumos (Application Manager).",
     "Anonymous browsing": "Anonīms pārlūkošanu",
-    "Auto stream any time. Data charges may apply.": "Auto plūsma jebkurā laikā. Var piemērot datu maksu.",
-    "Auto stream over WiFi only": "Auto plūsma pār WiFi tikai",
     "Awesome! Your app version is up to date": "Awesome! Jūsu app versija ir aktuāla",
     "Back Key": "Atpakaļ Key",
     "Back to": "Atpakaļ",
@@ -176,7 +174,6 @@
     "Yes": "Jā",
     "Yes, notify Hola": "Jā, informē Hola",
     "You may need to restart the app for the new country to take effect": "Jums var būt nepieciešams restartēt app jauna valsts, lai stātos spēkā",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Jūs esat atvienots no Wi-Fi. Turpināt straumēšanas izmantojot 3G / 4G?",
     "cancel": "atcelt",
     "failed": "neizdevās",
     "from": "no"

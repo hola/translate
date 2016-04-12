@@ -15,8 +15,6 @@
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Shusha Meneja ni walemavu. Tafadhali kuiwezesha katika mazingira Android (Meneja Maombi).",
     "Anonymous browsing": "Michuzi ya kuvinjari",
     "Apps": "Programu",
-    "Auto stream any time. Data charges may apply.": "Auto mkondo wakati wowote. Data mashtaka anaweza kuomba.",
-    "Auto stream over WiFi only": "Auto mkondo juu ya WiFi tu",
     "Awesome! Your app version is up to date": "Kushangaza! Programu yako toleo ni hadi tarehe",
     "Back Key": "Nyuma muhimu",
     "Back to": "Nyuma",
@@ -181,7 +179,6 @@
     "Yes": "Ndiyo",
     "Yes, notify Hola": "Ndiyo, meddela Hola",
     "You may need to restart the app for the new country to take effect": "Unaweza haja ya kuanzisha upya programu kwa ajili ya nchi mpya kuchukua athari",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Wewe ni kukatika kutoka kwa Wi-Fi. Kuendelea Streaming kupitia 3G / 4G?",
     "cancel": "kufuta",
     "failed": "wameshindwa",
     "from": "kutoka"

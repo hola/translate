@@ -14,8 +14,6 @@
     "Advertisement": "Advertentie",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager is uitgeschakeld. Schakel het in via de Android-instellingen (Application Manager).",
     "Anonymous browsing": "Anoniem browsen",
-    "Auto stream any time. Data charges may apply.": "Altijd automatisch streamen. Data kosten kunnen in rekening gebracht worden.",
-    "Auto stream over WiFi only": "Automatisch streamen beperken tot WiFi",
     "Awesome! Your app version is up to date": "Geweldig! Uw app versie is up-to-date",
     "Back Key": "Terug Key",
     "Back to": "Terug naar",
@@ -176,7 +174,6 @@
     "Yes": "Ja",
     "Yes, notify Hola": "Ja, bericht Hola",
     "You may need to restart the app for the new country to take effect": "Het kan nodig zijn om de app opnieuw te starten voor het nieuwe land door te voeren",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "U bent verbonden met Wi-Fi. Doorgaan streamen via 3G / 4G?",
     "cancel": "annuleren",
     "failed": "mislukt",
     "from": "van"
