@@ -14,12 +14,9 @@
     "Advertisement": "Werbung",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager ist deaktiviert. Bitte aktivieren Sie den Download Manager in den Android Einstellungen (Anwendungsverwaltung).",
     "Anonymous browsing": "Anonymes surfen",
-<<<<<<< HEAD
-=======
     "Apps": "Apps",
     "Auto stream any time. Data charges may apply.": "Automatischer Stream zu jeder Zeit. Es können Kosten entstehen (Mobilfunkbetreiber abhängig).",
     "Auto stream over WiFi only": "Auto-Stream nur über WLan",
->>>>>>> weblate-android
     "Awesome! Your app version is up to date": "Fantastisch! Ihre App-Version ist auf dem neuesten Stand",
     "Back Key": "Zurück-Taste",
     "Back to": "Zurück zu",
@@ -193,11 +190,8 @@
     "Yes": "Ja",
     "Yes, notify Hola": "Ja, benachrichtige Hola",
     "You may need to restart the app for the new country to take effect": "Möglicherweise müssen Sie die App neu starten, damit das neue Land aktiv wird",
-<<<<<<< HEAD
-=======
     "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Die WLan-Verbindung wurde getrennt.\nWeiter über über 3G/4G streamen?",
     "YouTube": "YouTube",
->>>>>>> weblate-android
     "cancel": "abbrechen",
     "failed": "fehlgeschlagen",
     "from": "von"
