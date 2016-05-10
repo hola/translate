@@ -14,8 +14,6 @@
     "Advertisement": "Реклама",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager е забранен. Моля, активирайте го в настройките на Android (Application Manager).",
     "Anonymous browsing": "Анонимно сърфиране",
-    "Auto stream any time. Data charges may apply.": "Auto поток всяко време. Може да бъдете таксувани за данни.",
-    "Auto stream over WiFi only": "Стриймване само през WiFi",
     "Awesome! Your app version is up to date": "Страхотно! Приложението е актуално",
     "Back Key": "Обратно Key",
     "Back to": "Назад към",
@@ -185,7 +183,6 @@
     "Yes": "Да",
     "Yes, notify Hola": "Да, уведомявай Hola",
     "You may need to restart the app for the new country to take effect": "Може да се наложи да рестартирате приложението, за да влезе в сила новата държава",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Вие сте свързани Wi-Fi. искате ли да продължите стриймингът през 3G / 4G?",
     "cancel": "отмени",
     "failed": "не успя",
     "from": "от"

@@ -14,8 +14,6 @@
     "Advertisement": "Reklam",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager aradan. Android ayarları (Application Manager) onu təmin edin.",
     "Anonymous browsing": "Anonymous tarama",
-    "Auto stream any time. Data charges may apply.": "Auto istənilən vaxt stream. Data haqq tətbiq oluna bilər.",
-    "Auto stream over WiFi only": "Sadəcə WiFi üzərindən Avto axış",
     "Awesome! Your app version is up to date": "Awesome! Sizin app versiyası bu günə qədər",
     "Back Key": "Geri düyməsi",
     "Back to": "Geri",
@@ -171,7 +169,6 @@
     "Yes": "Bəli",
     "Yes, notify Hola": "Bəli, Hola məlumat",
     "You may need to restart the app for the new country to take effect": "Ölkənin yeni təsir etmək üçün Siz app yenidən başladın üçün lazım ola bilər",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Siz Wi-Fi qopmayan edirik. 3G / 4G vasitəsilə axın davam?",
     "cancel": "ləğv etmək",
     "failed": "uğursuz",
     "from": "etibarən"

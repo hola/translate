@@ -14,8 +14,6 @@
     "Advertisement": "Annonce",
     "Android Download Manager is disabled. Please enable it in the Android settings (Application Manager).": "Android Download Manager er deaktiveret. Slå det i Android-indstillinger (Application Manager).",
     "Anonymous browsing": "Anonym browsing",
-    "Auto stream any time. Data charges may apply.": "Auto streame enhver tid. Data afgifter kan anvende.",
-    "Auto stream over WiFi only": "Auto strøm over WiFi kun",
     "Awesome! Your app version is up to date": "Awesome! Din app-version er opdateret",
     "Back Key": "Tilbage knap",
     "Back to": "Tilbage til",
@@ -174,7 +172,6 @@
     "Yes": "Ja",
     "Yes, notify Hola": "Ja, anmelde Hola",
     "You may need to restart the app for the new country to take effect": "Du skal muligvis genstarte app'en, for at det nye land kan træde i kraft",
-    "You're disconnected from Wi-Fi.\nContinue streaming via 3G/4G?": "Du er afbrudt fra Wi-Fi. Fortsæt streaming via 3G / 4G?",
     "cancel": "annullere",
     "failed": "mislykket",
     "from": "fra"
