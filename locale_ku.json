@@ -1,14 +1,19 @@
 {
-    "About": "دەربارەی",
+    "About": "دەربارە",
+    "Anonymous browsing": "وێبگەری نەناسراو",
     "Better Internet": "ئینتەرنێتی باشتر",
     "Blog": "بلۆگەر",
     "Changing country...": "گۆڕینی ووڵات...",
     "Checking for updates...": "پشکنین بۆ نوێکردنەوە...",
     "Enter site to access": "سایت بنووسە بۆ کردنەوە",
+    "FAQ": "یارمەتیدەر",
+    "For any issues, contact us at help-premium@hola.org": "بۆ هه‌ر كێشه‌یه‌ك ئاگادارمان بكه‌ره‌وه‌ help-premium@hola.org",
+    "General": "گشتی",
     "Help": "یارمەتی",
     "Hola Better Internet": "Hola ئینتەرنێتێکی باشتر",
     "Install": "دابەزاندن",
-    "LESS": "کەم",
+    "LESS": "کەمتر",
+    "Next": "دواتر",
     "No": "نەخێر",
     "No SD card": "کارتی دەرەکی بوونی نیە SD",
     "Popular": "بەناوبانگەکان",
@@ -18,7 +23,8 @@
     "Settings": "ڕێکخستنەکان",
     "Share": "بڵاوکردنەوە",
     "Update": "نوێکردنەوە",
+    "Upgrade": "به‌رزكردنه‌وه‌",
     "Web": "وێب",
     "Yes": "بەڵێ",
-    "YouTube": "سایتی یوتوب YouTube"
+    "YouTube": "یوتوب"
 }
