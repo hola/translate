@@ -1,8 +1,6 @@
 {
     " via ": " tramite ",
     "$1 Hola to access $2\n\nClick here to do the same: $3\n\nIt installs Hola, which lets me surf the Internet faster and access $4$5": "$1 Hola per accedere $2\n\nClicca qui per fare lo stesso: $3\n\ninstalla Hola, che permette di navigare in Internet più velocemente e accedere $4$5",
-    "$1 VPN": "",
-    "$1 VPN Premium": "",
     "$1 from $2": "$1 da $2",
     "$1 not found": "$1 non trovato",
     "$1 via Hola": "$1 attraverso Hola",
