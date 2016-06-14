@@ -4,17 +4,32 @@
     "$12.5 per GB above package": "$12.5 por GB acima do pacote",
     "$5 per GB above package": "$5 por GB além do pacote",
     "$500 / month": "$500 ao mês",
+<<<<<<< HEAD
     "13.5 million": "13.5 milhões",
     "20,000 IPs": "20000 IPs",
+=======
+    "100 GB": "100 GB",
+    "13.5 million": "13.5 milhões",
+    "20,000 IPs": "20000 IPs",
+    "40 GB": "40 GB",
+>>>>>>> weblate-site_lum
     "<span class=\"big\">Advanced</span> Residential": "<span class=\"big\">Avançado</span> Residencial",
     "<span class=\"big\">Advanced</span> plans": "<span class=\"big\">Avançado</span> plans",
     "<span class=\"big\">Basic</span> Residential": "Residencial <span class=\"big\">Básico</span>",
     "<span class=\"big\">Basic</span> Static": "<span class=\"big\">Básico</span> Estático",
     "<span class=\"big\">Enterprise</span>": "<span class=\"big\">Empresa</span>",
     "A proxy solution for business": "Uma solução proxy para os negócios",
+<<<<<<< HEAD
     "Ad Verification": "Verificação de Anúncio",
     "Any city": "Qualquer cidade",
     "Any country": "Qualquer país",
+=======
+    "ASIA - PACIFIC": "ASIA - PACIFIC",
+    "Ad Verification": "Verificação de Anúncio",
+    "Any city": "Qualquer cidade",
+    "Any country": "Qualquer país",
+    "Blog": "Blog",
+>>>>>>> weblate-site_lum
     "Brand Protection": "Proteção de Marca",
     "Business proxy network": "Rede Proxy de Negócios",
     "Call:": "Ligue:",
@@ -22,13 +37,25 @@
     "City": "Cidade",
     "Compare Luminati with other solutions": "Compare o Luminati com outras soluções",
     "Concurrent sessions": "Sessões simultâneas",
+<<<<<<< HEAD
+=======
+    "Contact": "Contact",
+>>>>>>> weblate-site_lum
     "Contact us": "Fale Conosco",
     "Contact us to find out how Luminati can help your business harvest data reliably and anonymously, or start a free trial now": "Entre em contato conosco para saber como a Luminati pode lhe ajudar a coletar dados para seu negócio de forma confiável e anônima ou inicie um teste grátis agora",
     "Costly, requires development resources for failure handling": "Dispendioso, requer recursos de desenvolvimento para gerenciar falhas",
     "Country": "País",
     "Data Harvesting Reliability": "Confiabilidade de Coleta de Dados",
     "Define any city as your IP<br> location, so you can harvest local data": "Defina qualquer cidade como seu IP<br> local, para poder coletar dados dessa região",
+<<<<<<< HEAD
     "Fail rate": "Taxa de Falhas",
+=======
+    "EUROPE": "EUROPE",
+    "Email:": "Email:",
+    "FAQ": "FAQ",
+    "Fail rate": "Taxa de Falhas",
+    "Failure Rate": "Failure Rate",
+>>>>>>> weblate-site_lum
     "Features": "Funções",
     "Features &amp; Benefits": "Funções &amp; Benefícios",
     "For rates please <a href=\"mailto:sales@luminati.io\">contact us</a>": "Para taxas entre em contato pelo<a href=\"mailto:sales@luminati.io\">Fale Conosco</a>",
@@ -61,6 +88,10 @@
     "Monitor the web for proper use of customer's brands. Protect your Intellectual Property and trade marks": "Monitore a rede para uso apropriado das marcas de clientes. Proteja sua propriedade intelectual e sua marca",
     "No": "Não",
     "Number of IPs": "Número de IPs",
+<<<<<<< HEAD
+=======
+    "Premium": "Premium",
+>>>>>>> weblate-site_lum
     "Pricing": "Preços",
     "Privacy": "Privacidade",
     "Recognizable data center static IPs": "IPs estáticos de data center reconhecíveis",
@@ -70,6 +101,10 @@
     "Residential": "Residencial",
     "Residential IPs": "IPs Residenciais",
     "Residential IPs for fast and reliable massive scale web data extraction": "IPs Residenciais para escalamento de extração de dados web confiável e e massivo",
+<<<<<<< HEAD
+=======
+    "SOUTH AMERICA": "SOUTH AMERICA",
+>>>>>>> weblate-site_lum
     "Scaling Up and Down": "Escalando Para Cima e Para Baixo",
     "Self-Testing": "Auto-Teste",
     "Send your HTTP/S requests to our \"Super proxies\", which will route<br>them to targets through millions of residential IPs.": "Envie suas solicitações HTTP/S para os nossos \"Super proxies\", que irão rotear <br>elas para vários alvos através de milhões de IPs residenciais.",
@@ -89,6 +124,10 @@
     "Type of IPs": "Tipos de IPs",
     "Typical integration takes 5 minutes by<br> integrating a simple <a href=\"#using\">code snippet</a>": "Integração típica demora 5 minutos para <br> integrar um simples <a href=\"#using\">código snippet</a>",
     "Typically days of integration": "Tipicamente dias de integração",
+<<<<<<< HEAD
+=======
+    "USA & CANADA": "USA & CANADA",
+>>>>>>> weblate-site_lum
     "Unlimited": "Ilimitado",
     "Unlimited IPs": "IPs Ilimitados",
     "Unlimited concurrent sessions": "Sessões ilimitadas simultâneas",
@@ -103,4 +142,8 @@
     "Yes": "Sim",
     "You pay only for the traffic you pass through the<br> network. You can use all of our IPs": "Você paga apenas pelo tráfego que você passa através da<br> rede. Você pode usar todos os nossos IPs",
     "Масштабирование в любую сторону": "Zoom em qualquer direção"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> weblate-site_lum
