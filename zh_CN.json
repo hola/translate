@@ -25,8 +25,7 @@
     "Luminati's residential IPs are never deceived, so your <br>data is always fresh and accurate": "Luminati的用户IP始终获取真实数据，<br>保证结果精确实时",
     "Compare Luminati with other solutions": "Luminati与其他产品比较",
     "Getting started": "立即开始",
-    "Send your HTTP/S requests to our \"Super proxies\", which will route<br>them to targets through millions of residential IPs.":
-    "发送HTTP/S请求到\"超级代理服务器\", <br>请求将会被通过百万IP发送到目标地址。",
+    "Send your HTTP/S requests to our \"Super proxies\", which will route<br>them to targets through millions of residential IPs.": "发送HTTP/S请求到\"超级代理服务器\", <br>请求将会被通过百万IP发送到目标地址。",
     "Luminati vs. Traditional<br>Proxy Services": "Luminati vs. 传统<br>代理服务",
     "Features &amp; Benefits": "功能及优势",
     "Traditional Proxy Services": "传统代理服务",
@@ -46,7 +45,7 @@
     "Reliable, as all IPs belong to residential devices": "可靠, 全部IP来自真实用户IP",
     "Total Cost of Operation": "使用成本",
     "Costly, requires development resources for failure handling": "昂贵, 需要程序员开发错误处理系统",
-    "Low, minimal maintenance.<br> API includes management layer": "低廉, 极低开发需求，API中包括管理层",
+    "Low, minimal maintenance.<br> API includes management layer": "低廉, 极低开发需求，API中包括管理层<br>",
     "Масштабирование в любую сторону": "Масштабирование в любую сторону",
     "Long, requires configuration when scaling": "长, 当需要扩缩时需要重新设置",
     "Instant, millions of IPs immediately available": "实时, 数百万IP即刻可用",
