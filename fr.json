@@ -1,5 +1,5 @@
 {
-    "About": "Sur",
+    "About": "À propos",
     "Access any website": "Accéder à un site Web",
     "Access sites censored in your country and accelerate your Internet with Hola – Free!": "les sites d'accès censurés dans votre pays et d'accélérer votre Internet avec Hola - gratuit!",
     "Anonymous browsing": "Anonyme navigation",
@@ -10,6 +10,7 @@
     "Contact us": "Contactez nous",
     "DMCA policy": "politique DMCA",
     "Detecting Hola...": "Détecter Hola...",
+    "FAQ": "FAQ",
     "General": "Général",
     "Get Hola media player!": "Obtenez Hola lecteur multimédia!",
     "Get Hola, it's free!": "Obtenez Hola, il est gratuit!",
@@ -25,6 +26,7 @@
     "Internet freedom": "la liberté d'Internet",
     "Learn more": "Apprendre encore plus",
     "Media player": "Lecteur multimédia",
+    "Next": "",
     "Opt out of the community": "Retirer de la communauté",
     "Over {number} {number, plural, other{million}} users are browsing the web securely, with freedom. And it's free forever.": "Plus de {number} {number, plural, other{million}} utilisateurs présents sur le Web en toute sécurité, en toute liberté, et profiter de la diffusion instantanée des vidéos. Et il est gratuit.",
     "Policies &amp; press": "Politiques et presse",
