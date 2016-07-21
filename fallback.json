@@ -1,0 +1,7 @@
+{
+    "Start Hola VPN": "Create Android VPN",
+    "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.": "You must grant VPN when dialog pops up click 'I trust this application'",
+    "Hola failed starting VPN service": "Hola failed starting VPN service\n",
+    "tap to access": "tap_to_unblock",
+    "Would you like to access this app?": "Would you like to unblock this app?"
+}

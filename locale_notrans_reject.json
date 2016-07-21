@@ -1,0 +1,512 @@
+{
+    "af": [
+        "Hola Service",
+        "Hola VPN Service",
+        "Google Play",
+        "Aptoide",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "ar": [
+        "VPN",
+        "Aptoide"
+    ],
+    "az": [
+        "Hola Service",
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "be": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Facebook",
+        "YouTube"
+    ],
+    "bg": [
+        "Hola Service",
+        "Hola VPN Service",
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Facebook",
+        "YouTube"
+    ],
+    "bs": [
+        "Hola Space Manager",
+        "VPN",
+        "FAQ",
+        "Google Play",
+        "Aptoide",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "ca": [
+        "Hola Space Manager",
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "cs": [
+        "Hola Service",
+        "VPN",
+        "OK",
+        "FAQ",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Apps",
+        "My apps",
+        "Facebook",
+        "YouTube"
+    ],
+    "cy": [
+        "Blog",
+        "Apps",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "da": [
+        "VPN",
+        "Start Hola!",
+        "OK",
+        "Unblocker",
+        "Accelerator",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Apps",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "de": [
+        "VPN",
+        "Unblocker",
+        "FAQ",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Apps",
+        "Google Play",
+        "Facebook",
+        "YouTube"
+    ],
+    "el": [
+        "VPN",
+        "Unblocker",
+        "Aptoide",
+        "Browser",
+        "Facebook",
+        "YouTube"
+    ],
+    "es": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "es_ES": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "es_US": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "et": [
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Apps",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "eu": [
+        "Hola Better Internet",
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Apps",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "fa": [
+        "Unblocker",
+        "Aptoide"
+    ],
+    "fi": [
+        "VPN",
+        "Aptoide",
+        "Facebook",
+        "YouTube"
+    ],
+    "fr": [
+        "VPN",
+        "FAQ",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Facebook",
+        "YouTube"
+    ],
+    "ga": [
+        "VPN",
+        "OK",
+        "skip",
+        "Unblocker",
+        "Aptoide",
+        "Apps",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "gl": [
+        "Hola Space Manager",
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Apps",
+        "Facebook",
+        "YouTube"
+    ],
+    "gu": [
+        "Unblocker",
+        "Aptoide",
+        "YouTube"
+    ],
+    "he": [
+        "VPN",
+        "Unblocker",
+        "Aptoide",
+        "Apps",
+        "YouTube"
+    ],
+    "hi": [
+        "Unblocker",
+        "Aptoide"
+    ],
+    "hr": [
+        "Hola Space Manager",
+        "VPN",
+        "Clear cache",
+        "Unblocker",
+        "Aptoide",
+        "Blog",
+        "Apps",
+        "Facebook",
+        "YouTube"
+    ],
+    "ht": [
+        "OK",
+        "Unblocker",
+        "FAQ",
+        "Aptoide",
+        "Blog",
+        "Apps",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "hu": [
+        "VPN",
+        "Aptoide",
+        "Blog",
+        "Apps",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "hy": [
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Browser",
+        "Facebook",
+        "YouTube"
+    ],
+    "id": [
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Apps",
+        "YouTube"
+    ],
+    "is": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "it": [
+        "Hola Space Manager",
+        "VPN",
+        "FAQ",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Apps",
+        "YouTube"
+    ],
+    "ja": [
+        "VPN",
+        "Aptoide"
+    ],
+    "ka": [
+        "VPN",
+        "OK",
+        "Unblocker",
+        "Accelerator",
+        "Google Play",
+        "Aptoide",
+        "Browser",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "kn": [
+        "VPN",
+        "Unblocker",
+        "Aptoide"
+    ],
+    "ko": [
+        "VPN",
+        "Aptoide"
+    ],
+    "lt": [
+        "Aptoide"
+    ],
+    "lv": [
+        "Hola Service",
+        "Hola VPN Service",
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Apps",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "mk": [
+        "Unblocker",
+        "Aptoide",
+        "YouTube"
+    ],
+    "ms": [
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Apps",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "nl": [
+        "VPN",
+        "FAQ",
+        "Google Play",
+        "Aptoide",
+        "Browsers",
+        "Blog",
+        "Browser",
+        "Apps",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "no": [
+        "VPN",
+        "OK",
+        "FAQ",
+        "Google Play",
+        "Aptoide",
+        "Apps",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "pl": [
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Facebook",
+        "YouTube"
+    ],
+    "pt": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Facebook",
+        "YouTube"
+    ],
+    "pt_BR": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Apps",
+        "Facebook",
+        "YouTube"
+    ],
+    "ro": [
+        "VPN",
+        "Unblocker",
+        "Accelerator",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "ru": [
+        "Hola Space Manager",
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Facebook",
+        "YouTube"
+    ],
+    "sk": [
+        "VPN",
+        "FAQ",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Browser",
+        "Facebook",
+        "YouTube"
+    ],
+    "sl": [
+        "Hola VPN Service",
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "sr": [],
+    "sv": [
+        "VPN",
+        "Unblocker",
+        "Accelerator",
+        "Google Play",
+        "Aptoide",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "sw": [
+        "VPN",
+        "Unblocker",
+        "Accelerator",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "th": [
+        "VPN",
+        "Unblocker",
+        "Google Play",
+        "Aptoide",
+        "Facebook",
+        "YouTube"
+    ],
+    "tl": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Blog",
+        "Web",
+        "Facebook",
+        "YouTube"
+    ],
+    "tr": [
+        "VPN",
+        "Aptoide",
+        "Blog",
+        "Facebook",
+        "YouTube"
+    ],
+    "uk": [
+        "VPN",
+        "Google Play",
+        "Aptoide",
+        "Facebook",
+        "YouTube"
+    ],
+    "vi": [
+        "VPN",
+        "Aptoide",
+        "Web",
+        "Facebook",
+        "Twitter",
+        "YouTube"
+    ],
+    "zh": [
+        "VPN",
+        "Aptoide"
+    ]
+}
