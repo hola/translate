@@ -1,0 +1,8 @@
+{ //json5
+    "app_name": "Hola",
+    "blank": "",
+    "client_id": "Client ID:",
+    "version": "Version:",
+    "send_bug_mail_body_break": "\n\n\n---------------------------\n\n\n",
+    "share_app_url": "https://play.google.com/store/apps/details?id=org.hola.prem&referrer=utm_source%3Dshare"
+}
