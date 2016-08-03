@@ -126,29 +126,5 @@
     "When verifying an ad, the Luminati residential IP looks like a real user - so the malicious advertiser will provide the real ad, not a fake landing page": "验证广告时，Luminati的IP地址完全来自真实用户 - 广告商因此会提供真实广告内容而非虚假页面",
     "Why Luminati": "为何选择Luminati",
     "Yes": "有",
-    "You pay only for the traffic you pass through the<br> network. You can use all of our IPs": "仅支付实际使用流量，<br> 享受全部可用IP",
-    "Put Luminati to the ultimate test during the 7 days free trial.<br>Route automated http/s requests to 13.5 Million IPs world wide.":
-    "七天免费试用，对Luminati进行终极考验<br>从1350万世界IP地址发送http/https请求到任意URL",
-    "Recommended": "推荐",
-    "Local proxy manager": "本地代理管理器",
-    "Highly scalable": "可扩缩性强",
-    "Automatically rotate IP every X requests": "每n个请求后自动更换IP地址",
-    "Connection pool for faster response time": "使用连接池保证更快的应答速度",
-    "Load balancing using multiple Super Proxies": "通过超级代理实现负载均衡",
-    "Easy setup for multiple configurations using a simple web interface": "快速上手，通过web界面管理多组配置",
-    "SSL sniffing (using a self-signed certificate)": "SSL捕获(使用自签名证书)",
-    "Statistics": "统计数据",
-    "Get started": "快速开始",
-    "Accurate, reliable data collection": "准确可靠的数据收集",
-    "When traditional proxy servers are used to collect data, they can be easily detected, and are blocked or deliberately fed false information. Luminati’s proxy network uses millions of residential IPs, ensuring the data you collect is 100% accurate":
-    "使用传统代理服务器进行数据收集，容易被识别并拦截，或得到伪造信息。Luminati的代理网络使用百万级代理网络，保证数据100%准确",
-    "Compare prices": "比较价格",
-    "Verify ads": "验证广告",
-    "Collect competitor’s prices, reliably": "收集竞品价格",
-    "Luminati uses millions of real IPs - so you will never be blocked or given false information":
-    "Luminati使用数百万真实IP - 永不会被拦截或得到伪造信息",
-    "Easily detect malicious ads": "轻松识别恶意广告",
-    "When verifying an ad, the Luminati residential IP looks like a real user - so the malicious advertiser will provide the real ad, not a fake landing page":
-    "验证广告时，Luminati的IP地址完全来自真实用户 - 广告商因此会提供真实广告内容而非虚假页面",
-    "Sign up": "注册"
+    "You pay only for the traffic you pass through the<br> network. You can use all of our IPs": "仅支付实际使用流量，<br> 享受全部可用IP"
 }
