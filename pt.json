@@ -51,7 +51,7 @@
     "Oops, installation failed. Please try again": "Ups, parece que a instalação falhou. Tenta novamente",
     "Operating system is unsupported": "A operação do sistema não é suportada",
     "Opt out of the community": "Optar por sair da comunidade",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Ao longo de <strong>{number} {number, plural, other{million}}</strong> utlizadores estão a navegar na web de forma segura, com a liberdade, e a desfrutar de streaming instantâneo de vídeos. E é grátis.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Ao longo de <strong>{number} {number, plural, other{million}}</strong> utlizadores estão a navegar na web de forma segura, com a liberdade, e a desfrutar de streaming instantâneo de vídeos. And it's <strong>free forever.</strong>",
     "Please update your browser": "Por favor, actualiza o teu browser",
     "Please, install supported browser:": "Por favor, instala um browser que suporte a aplicação:",
     "Policies &amp; press": "Políticas e Imprensa",

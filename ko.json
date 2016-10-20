@@ -25,7 +25,7 @@
     "Internet freedom": "인터넷 자유",
     "Learn more": "자세히 알아보기",
     "Opt out of the community": "지역 사회의 선택 해제",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "동안 <strong>{number} {number, plural, other{million}}</strong> 사용자는 자유롭게, 안전하게 웹 브라우징, 동영상의 인스턴트 스트리밍을 즐기고있다. 그리고 그것은 무료입니다.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "동안 <strong>{number} {number, plural, other{million}}</strong> 사용자는 자유롭게, 안전하게 웹 브라우징, 동영상의 인스턴트 스트리밍을 즐기고있다. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "정책 및 키를 누릅니다",
     "Press kit": "보도 자료",
     "Privacy": "은둔",

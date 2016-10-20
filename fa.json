@@ -25,7 +25,7 @@
     "Internet freedom": "آزادی اینترنت",
     "Learn more": "بیشتر بدانید",
     "Opt out of the community": "انصراف از شرکت در جامعه",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "بیش از <strong>{number} {number, plural, other{million}}</strong> کاربران در حال مشاهده وب امن، با آزادی و با بهره گیری از جریان های فوری از فیلم ها. و آن رایگان است.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "بیش از <strong>{number} {number, plural, other{million}}</strong> کاربران در حال مشاهده وب امن، با آزادی و با بهره گیری از جریان های فوری از فیلم ها. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "سیاست و مطبوعات",
     "Press kit": "کیت مطبوعات",
     "Privacy": "حریم خصوصی",

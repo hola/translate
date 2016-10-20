@@ -24,7 +24,7 @@
     "Internet freedom": "Interneto laisvė",
     "Learn more": "Sužinoti daugiau",
     "Opt out of the community": "Atsisakyti bendruomenės",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Per <strong>{number} {number, plural, other{million}}</strong> vartotojai naršyti internete saugiai, laisvę, ir mėgautis trumpąją transliacijos vaizdo įrašus. Ir ji nemokama.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Per <strong>{number} {number, plural, other{million}}</strong> vartotojai naršyti internete saugiai, laisvę, ir mėgautis trumpąją transliacijos vaizdo įrašus. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Politika ir paspauskite",
     "Press kit": "Paspauskit komplekta",
     "Privacy": "slaptumas",

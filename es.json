@@ -23,7 +23,7 @@
     "Internet freedom": "La libertad en Internet",
     "Learn more": "Obtener más información",
     "Opt out of the community": "Optar por salir de la comunidad",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Más de <strong>{number} {number, plural, other{million}}</strong> usuarios están navegando en la web de forma segura, con libertad, y están disfrutando de transmisiones de vídeo instantáneas. Y es gratis.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Más de <strong>{number} {number, plural, other{million}}</strong> usuarios están navegando en la web de forma segura, con libertad, y están disfrutando de transmisiones de vídeo instantáneas. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Políticas y prensa",
     "Press kit": "Paquete de prensa",
     "Privacy": "Privacidad",

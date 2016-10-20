@@ -53,7 +53,7 @@
     "Oops, installation failed. Please try again": "אופס, ההתקנה נכשלה. אנא נסה שנית",
     "Operating system is unsupported": "מערכת ההפעלה אינה נתמכת",
     "Opt out of the community": "יציאה מהקהילה",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "יותר מ-{number} {number, plural, other{מיליון}} משתמשים גולשים ברשת באופן בטוח, חופשי, ונהנים מניגון מיידי של סרטים. וכל זה בחינם.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "יותר מ-<strong>{number} {number, plural, other{מיליון}}</strong> משתמשים גולשים ברשת באופן בטוח, חופשי, ונהנים מניגון מיידי של סרטים. And it's <strong>free forever.</strong>",
     "Please update your browser": "אנא עדכן את הדפדפן שלך",
     "Please, install supported browser:": "אנא, התקן דפדפן נתמך:",
     "Policies &amp; press": "מדיניות והודעות לתקשורת",

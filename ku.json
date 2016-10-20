@@ -53,7 +53,7 @@
     "Oops, installation failed. Please try again": "دامەزراندن سەرکەوتوونەبوو , دواتر هەوڵ بدەرەوە",
     "Operating system is unsupported": "سیستەم ڕێگەپێنەدراوە",
     "Opt out of the community": "کشانەوە لە کۆمەڵگا",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "زیاتر لە <strong>{number} {number, plural, other{million}}</strong> بەکاربەر بەشێوەیەکی ئەمنی وێبگەر دەکەنەوە لەگەڵ ئازادی , و بۆهەتاهەتایە بەخۆڕاییە.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "زیاتر لە <strong>{number} {number, plural, other{million}}</strong> بەکاربەر بەشێوەیەکی ئەمنی وێبگەر دەکەنەوە لەگەڵ ئازادی , And it's <strong>free forever.</strong>",
     "Please update your browser": "تکایە وێبگەرەکەت نوێبکەوە",
     "Please, install supported browser:": "تکایە وێبگەرێکی ڕێگەپێدراو دابمەزرێنە:",
     "Policies &amp; press": "سیاسەت و ڕۆژنامەگەری",

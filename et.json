@@ -25,7 +25,7 @@
     "Internet freedom": "Internet vabaduse",
     "Learn more": "Loe veel",
     "Opt out of the community": "Loobuge kogukond",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Üle <strong>{number} {number, plural, other{million}}</strong> kasutajad veebisirvimise kindlalt, vabaduse ja nautida instant streaming videos. Ja see on tasuta.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Üle <strong>{number} {number, plural, other{million}}</strong> kasutajad veebisirvimise kindlalt, vabaduse ja nautida instant streaming videos. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Poliitika ja press",
     "Press kit": "Pressikomplekt",
     "Privacy": "privaatsus",

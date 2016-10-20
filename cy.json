@@ -24,7 +24,7 @@
     "Internet freedom": "rhyddid rhyngrwyd",
     "Learn more": "Dysgu mwy",
     "Opt out of the community": "Eithrio o'r gymuned",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Dros <strong>{number} {number, plural, other{million}}</strong> defnyddwyr yn pori'r we yn ddiogel, gyda rhyddid, ac yn mwynhau ffrydio parod o fideos. Ac mae'n rhad ac am ddim.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Dros <strong>{number} {number, plural, other{million}}</strong> defnyddwyr yn pori'r we yn ddiogel, gyda rhyddid, ac yn mwynhau ffrydio parod o fideos. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Polisïau a wasg",
     "Press kit": "cit Wasg",
     "Privacy": "Preifatrwydd",

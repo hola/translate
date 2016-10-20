@@ -23,7 +23,7 @@
     "Internet freedom": "internet frelsi",
     "Learn more": "Læra meira",
     "Opt out of the community": "Afþakkað samfélaginu",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Yfir <strong>{number} {number, plural, other{million}}</strong> notandi vafrar um vefinn á öruggan hátt, með frelsi og njóta augnablik á af myndböndum. Og það er ókeypis.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Yfir <strong>{number} {number, plural, other{million}}</strong> notandi vafrar um vefinn á öruggan hátt, með frelsi og njóta augnablik á af myndböndum. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Reglur og ýttu",
     "Press kit": "Press Kit",
     "Publisher TOS": "Útgefandi TOS",

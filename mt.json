@@ -22,7 +22,7 @@
     "Internet freedom": "libertà tal-Internet",
     "Learn more": "Itagħllem iżjed",
     "Opt out of the community": "Opt out tal-komunità",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Matul <strong>{number} {number, plural, other{million}}</strong> utenti browsing il-web sigur, mal-libertà, u jgawdu streaming immedjat ta 'videos. U huwa b'xejn.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Matul <strong>{number} {number, plural, other{million}}</strong> utenti browsing il-web sigur, mal-libertà, u jgawdu streaming immedjat ta 'videos. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Politiki &amp; istampa",
     "Press kit": "kit istampa",
     "Privacy": "privatezza",

@@ -24,7 +24,7 @@
     "Internet freedom": "saoirse Idirlíon",
     "Learn more": "Foghlaim níos mó",
     "Opt out of the community": "Bosca rogha an diúltaithe amach as an phobail",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Thar <strong>{number} {number, plural, other{million}}</strong> úsáideoirí brabhsáil ar an idirlíon go daingean, le saoirse, agus taitneamh a bhaint as sruthú toirt na físeáin. Agus tá sé saor in aisce.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Thar <strong>{number} {number, plural, other{million}}</strong> úsáideoirí brabhsáil ar an idirlíon go daingean, le saoirse, agus taitneamh a bhaint as sruthú toirt na físeáin. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Polasaithe &amp; brúigh",
     "Press kit": "Pacáiste preasa",
     "Privacy": "Príobháideacht",

@@ -24,7 +24,7 @@
     "Internet freedom": "interneta brīvība",
     "Learn more": "Uzzināt vairāk",
     "Opt out of the community": "Atteikties no sabiedrības",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Over <strong>{number} {number, plural, other{million}}</strong> lietotāji pārlūkojot tīmekli droši, ar brīvību, un bauda tūlītēju straumēšanu video. Un tā ir bezmaksas.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Over <strong>{number} {number, plural, other{million}}</strong> lietotāji pārlūkojot tīmekli droši, ar brīvību, un bauda tūlītēju straumēšanu video. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Politika un nospiediet",
     "Publisher TOS": "izdevējs TOS",
     "Publishers": "izdevēji",

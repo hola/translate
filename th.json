@@ -25,7 +25,7 @@
     "Internet freedom": "อิสรภาพทางอินเทอร์เน็ต",
     "Learn more": "เรียนรู้เพิ่มเติม",
     "Opt out of the community": "เลือกเพื่อออกจากชุมชน",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "มีผู้ใช้กว่า {number} {number, plural, other{ล้าน}} รายที่ท่องเว็บอย่างปลอดภัยอย่างมีอิสรภาพและเพลิดเพลินกับการสตรีมมิ่งวิดีโอได้ทันที และฟรี",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "มีผู้ใช้กว่า <strong>{number} {number, plural, other{ล้าน}}</strong> รายที่ท่องเว็บอย่างปลอดภัยอย่างมีอิสรภาพและเพลิดเพลินกับการสตรีมมิ่งวิดีโอได้ทันที And it's <strong>free forever.</strong>",
     "Policies &amp; press": "นโยบายและสื่อ",
     "Press kit": "ชุดสำหรับสื่อ",
     "Privacy": "ความเป็นส่วนตัว",

@@ -49,7 +49,7 @@
     "Oops, Seems like we have a problem, Please retry": "Упс, похоже у нас проблемы, пожалуйста, повторите",
     "Oops, installation failed. Please try again": "Упс, ошибка во время установки. Пожалуйста, повторите установку",
     "Opt out of the community": "Отказ от участия в сообществе",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Около {number} {number, plural, one{миллиона} few{миллионов} many{миллионов} other{миллиона}} пользователей просматривают веб безопасно, со свободой, и наслаждаются мгновенным проигрыванием видео. И это бесплатно.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Около <strong>{number} {number, plural, one{миллиона} few{миллионов} many{миллионов} other{миллиона}}</strong> пользователей просматривают веб безопасно, со свободой, и наслаждаются мгновенным проигрыванием видео. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Политики и пресса",
     "Press kit": "Для прессы",
     "Privacy": "Конфиденциальность",

@@ -23,7 +23,7 @@
     "Internet freedom": "Internet je sloboda",
     "Learn more": "Uči više",
     "Opt out of the community": "Isključiti iz zajednice",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Više od <strong>{number} {number, plural, other{million}}</strong> korisnik pregledavanja weba sigurno, uz slobodu i uživanje trenutak streaming videa. I to besplatno.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Više od <strong>{number} {number, plural, other{million}}</strong> korisnik pregledavanja weba sigurno, uz slobodu i uživanje trenutak streaming videa. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Pravila i pritisnite",
     "Privacy": "Privatnost",
     "Publisher TOS": "TOS izdavača",

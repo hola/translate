@@ -25,7 +25,7 @@
     "Internet freedom": "حرية الإنترنت",
     "Learn more": "أعرف أكثر",
     "Opt out of the community": "الانسحاب من المجتمع",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "أكثر من <strong>{number} {number, plural, other{million}}</strong> مستخدم  يتصفحون شبكة الإنترنت بشكل آمن، وحر، ويتمتعون بمشغل متعدد وسائط فوري. كل هذا مجاناً.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "أكثر من <strong>{number} {number, plural, other{million}}</strong> مستخدم  يتصفحون شبكة الإنترنت بشكل آمن، وحر، ويتمتعون بمشغل متعدد وسائط فوري. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "السياسات والصحافة",
     "Press kit": "الملف الصحفي",
     "Privacy": "خصوصية",

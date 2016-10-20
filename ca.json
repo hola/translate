@@ -24,7 +24,7 @@
     "Internet freedom": "la llibertat a Internet",
     "Learn more": "Aprèn més",
     "Opt out of the community": "Optar per sortir de la comunitat",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Durant <strong>{number} {number, plural, other{million}}</strong> usuaris estan navegant per la web de forma segura, amb llibertat, i gaudir de streaming de vídeos a l'instant. I és gratis.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Durant <strong>{number} {number, plural, other{million}}</strong> usuaris estan navegant per la web de forma segura, amb llibertat, i gaudir de streaming de vídeos a l'instant. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Polítiques i premi",
     "Press kit": "Dossier de premsa",
     "Privacy": "intimitat",

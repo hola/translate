@@ -23,7 +23,7 @@
     "Internet freedom": "Internet askatasuna",
     "Learn more": "Gehiago ikasi",
     "Opt out of the community": "Opt komunitateari kanpo",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Over <strong>{number} {number, plural, other{million}}</strong> erabiltzaile web arakatzen segurtasunez, askatasunarekin, eta berehalako bideo streaming gozatuz. Eta doakoa da.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Over <strong>{number} {number, plural, other{million}}</strong> erabiltzaile web arakatzen segurtasunez, askatasunarekin, eta berehalako bideo streaming gozatuz. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Gidalerroak eta prentsa",
     "Press kit": "Prentsa kit",
     "Privacy": "Pribatutasuna",

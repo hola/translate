@@ -25,7 +25,7 @@
     "Internet freedom": "互聯網自由",
     "Learn more": "學到更多",
     "Opt out of the community": "退出社區",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "在<strong>{number} {number, plural, other{million}}</strong>用戶安全瀏覽網頁，與自由，享受視頻流瞬間。而且它是免費的。",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "在<strong>{number} {number, plural, other{million}}</strong>用戶安全瀏覽網頁，與自由，享受視頻流瞬間。And it's <strong>free forever.</strong>",
     "Policies &amp; press": "政策及新聞",
     "Press kit": "新聞資料袋",
     "Privacy": "隱私",

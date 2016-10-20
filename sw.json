@@ -24,7 +24,7 @@
     "Internet freedom": "uhuru internet",
     "Learn more": "Jifunze zaidi",
     "Opt out of the community": "Kuchagua nje ya jamii",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Zaidi ya <strong>{number} {number, plural, other{million}}</strong> watumiaji ni kuvinjari mtandao salama, pamoja na uhuru, na kufurahia papo Streaming ya video. Na ni bure.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Zaidi ya <strong>{number} {number, plural, other{million}}</strong> watumiaji ni kuvinjari mtandao salama, pamoja na uhuru, na kufurahia papo Streaming ya video. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Sera na waandishi wa habari",
     "Press kit": "Vyombo vya habari kit",
     "Privacy": "faragha",

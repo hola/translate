@@ -23,7 +23,7 @@
     "Internet freedom": "Internet frihed",
     "Learn more": "Lær mere",
     "Opt out of the community": "Fravælg af fællesskabet",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Over <strong>{number} {number, plural, other{million}}</strong> brugerne surfe på internettet sikkert, med frihed, og nyder øjeblikkelig streaming af videoer. Og det er gratis.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Over <strong>{number} {number, plural, other{million}}</strong> brugerne surfe på internettet sikkert, med frihed, og nyder øjeblikkelig streaming af videoer. And it's <strong>free forever.</strong>",
     "Policies &amp; press": "Politikker og tryk",
     "Press kit": "Pressekit",
     "Privacy": "Privatliv",

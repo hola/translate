@@ -52,7 +52,7 @@
     "Oops, installation failed. Please try again": "Opss, installazione fallita. Si prega di provare nuovamente",
     "Operating system is unsupported": "Sistema operativo non è supportato",
     "Opt out of the community": "Abbandona la  comunità",
-    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Oltre <strong>{number} {number, plural, other{million}}</strong> di utenti stanno navigando nel web in modo sicuro e in libertà. Sarà libero per sempre.",
+    "Over <strong>{number} {number, plural, other{million}}</strong> users are browsing the web securely, with freedom. And it's <strong>free forever.</strong>": "Oltre <strong>{number} {number, plural, other{million}}</strong> di utenti stanno navigando nel web in modo sicuro e in libertà. And it's <strong>free forever.</strong>",
     "Please update your browser": "Aggiorna il tuo browser per favore",
     "Please, install supported browser:": "Prego installare un browser supportato:",
     "Policies &amp; press": "Norme e stampa",
