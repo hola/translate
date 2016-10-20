@@ -93,7 +93,6 @@
     "Login": "로그인",
     "Logout": "로그 아웃",
     "Love It": "사랑해요",
-    "more": "추가",
     "Magazine Article": "잡지 기사",
     "More options": "추가 옵션",
     "My Account": "내 계정",
@@ -191,5 +190,6 @@
     "YouTube": "유튜브",
     "cancel": "취소",
     "failed": "실패",
-    "from": "-"
+    "from": "-",
+    "more": "추가"
 }

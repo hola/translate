@@ -42,7 +42,6 @@
     "Debug": "Hibakeresés",
     "Disliked It": "Nem tetszett",
     "Don't ask again": "Ne kérdezze meg újra",
-    "Email": "Email",
     "Enter site to access": "Írja be a weboldal címét az eléréshez",
     "Error showing VPN Service dialog": "A VPN szolgáltatás párbeszédablaka nem jeleníthető meg",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "A VPN szolgáltatás párbeszédablaka nem jeleníthető meg. Ez önmagában nem probléma, de amennyiben Android 4.0+ verziót használ, előfordulhat, hogy az ön készüléke nem támogatja a VPN automatikus konfigurálását.",
@@ -90,7 +89,6 @@
     "Login": "Bejelentkezés",
     "Logout": "Kijelentkezés",
     "Love It": "Imádom",
-    "more": "TÖBB",
     "Magazine Article": "Magazine cikke",
     "More options": "További lehetőségek",
     "My Account": "Saját fiók",
@@ -185,5 +183,6 @@
     "You may need to restart the app for the new country to take effect": "Lehet, hogy újra kell indítania az alkalmazást az új ország alkalmazásahoz",
     "cancel": "mégsem",
     "failed": "sikertelen",
-    "from": "tőle:"
+    "from": "tőle:",
+    "more": "TÖBB"
 }

@@ -86,7 +86,6 @@
     "Login": "Logg inn",
     "Logout": "Logg ut",
     "Love It": "Elsker det",
-    "more": "MER",
     "Magazine Article": "Magazine Artikkel",
     "More options": "Flere alternativer",
     "My Account": "Min konto",
@@ -177,5 +176,6 @@
     "You may need to restart the app for the new country to take effect": "Du må kanskje starte app for det nye landet skal tre i kraft",
     "cancel": "avbryt",
     "failed": "mislyktes",
-    "from": "fra"
+    "from": "fra",
+    "more": "MER"
 }

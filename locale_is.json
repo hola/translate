@@ -87,7 +87,6 @@
     "Login": "Skrá inn",
     "Logout": "Útskrá",
     "Love It": "Elska það",
-    "more": "MEIRA",
     "Magazine Article": "Magazine grein",
     "More options": "Fleiri valkostir",
     "My Account": "Aðgangurinn minn",
@@ -180,5 +179,6 @@
     "You may need to restart the app for the new country to take effect": "Þú gætir þurft að endurræsa forritið til nýtt land til að taka gildi",
     "cancel": "hætta",
     "failed": "mistókst",
-    "from": "frá"
+    "from": "frá",
+    "more": "MEIRA"
 }

@@ -42,7 +42,6 @@
     "Debug": "Odpluskwić",
     "Disliked It": "Nie podobało It",
     "Don't ask again": "Nie pytaj ponownie",
-    "Email": "Email",
     "Enter site to access": "Wprowadź miejsce dostępu",
     "Error showing VPN Service dialog": "Błąd pokazując okno Usługi VPN",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Błąd próbuje pokazać Android 4.0 + Service okno VPN. To nie powinno się zdarzyć tak, że jest to standardowa funkcja systemu Android 4.0 +, ale urządzenie Android nie obsługuje VPN auto-konfiguracji.",
@@ -90,7 +89,6 @@
     "Login": "Zaloguj się",
     "Logout": "Wyloguj",
     "Love It": "Kocham to",
-    "more": "WIĘCEJ",
     "Magazine Article": "Magazyn Artykuł",
     "More options": "Więcej opcji",
     "My Account": "Moje konto",
@@ -185,5 +183,6 @@
     "You may need to restart the app for the new country to take effect": "Być może trzeba ponownie uruchomić aplikację do nowego kraju odniosły skutek",
     "cancel": "anulować",
     "failed": "nie",
-    "from": "z"
+    "from": "z",
+    "more": "WIĘCEJ"
 }

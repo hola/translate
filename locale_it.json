@@ -45,7 +45,6 @@
     "Debug": "",
     "Disliked It": "Non mi piace",
     "Don't ask again": "Non chiedermelo più",
-    "Email": "Email",
     "Enter site to access": "Vai al sito per accedere",
     "Error showing VPN Service dialog": "Errore nel mostrare la finestra di dialogo del servizio VPN",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Errore nel tentativo di mostrare la finestra del servizio VPN su Android 4.0+. Questo non dovrebbe accadere in quanto è una funzione standard di Android 4.0+, ma il tuo dispositivo Android potrebbe non supportare la configurazione VPN automatica.",
@@ -97,7 +96,6 @@
     "Login": "Accedi",
     "Logout": "Disconnetti",
     "Love It": "Lo adoro",
-    "more": "DI PIÙ",
     "Magazine Article": "Articolo su rivista",
     "More options": "Altre opzioni",
     "My Account": "Il mio account",
@@ -198,5 +196,6 @@
     "YouTube": "",
     "cancel": "annulla",
     "failed": "fallito",
-    "from": "da"
+    "from": "da",
+    "more": "DI PIÙ"
 }

@@ -86,7 +86,6 @@
     "Liked It": "Te renmen Li",
     "Loading...": "Loading ...",
     "Love It": "Renmen Li",
-    "more": "PLIS",
     "Magazine Article": "Magazin Atik",
     "More options": "Plis opsyon",
     "My Account": "Kont mwen",
@@ -177,5 +176,6 @@
     "You may need to restart the app for the new country to take effect": "Ou ka bezwen rekòmanse app a pou peyi a nouvo yo pran efè",
     "cancel": "anile",
     "failed": "echwe",
-    "from": "soti nan"
+    "from": "soti nan",
+    "more": "PLIS"
 }

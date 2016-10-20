@@ -93,7 +93,6 @@
     "Login": "लॉग इन करें",
     "Logout": "लोग आउट",
     "Love It": "इसे प्यार करना",
-    "more": "अधिक",
     "Magazine Article": "पत्रिका के लेख",
     "More options": "और विकल्प",
     "My Account": "मेरा खाता",
@@ -191,5 +190,6 @@
     "YouTube": "यू टूब",
     "cancel": "रद्द करें",
     "failed": "विफल रहा",
-    "from": "से"
+    "from": "से",
+    "more": "अधिक"
 }

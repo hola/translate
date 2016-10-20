@@ -43,7 +43,6 @@
     "Debug": "Зневадження",
     "Disliked It": "Не подобалося,",
     "Don't ask again": "Більше не питати",
-    "Email": "Email",
     "Enter site to access": "Вхід на сайт для доступу до",
     "Error showing VPN Service dialog": "Помилка при показі діалогу сервісу VPN",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Помилка при показі діалогу сервісу VPN. Таке не мало статися, бо це стандартна функція Android 4.0+. Можливо, ваш пристрій не підтримує автоконфігурацію VPN.",
@@ -90,7 +89,6 @@
     "Loading...": "Завантаження ...",
     "Login": "Ввійти",
     "Logout": "Вийти",
-    "more": "БІЛЬШЕ",
     "Magazine Article": "Стаття журналу",
     "More options": "Інші варіанти",
     "My Account": "Мій обліковий запис",
@@ -187,5 +185,6 @@
     "You may need to restart the app for the new country to take effect": "Можливо, вам доведеться перезапустити програму для ввімкнення налаштувань нової країни",
     "cancel": "скасувати",
     "failed": "не вдалося",
-    "from": "з"
+    "from": "з",
+    "more": "БІЛЬШЕ"
 }

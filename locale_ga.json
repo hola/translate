@@ -91,7 +91,6 @@
     "Login": "Logáil isteach",
     "Logout": "Logáil Amach",
     "Love It": "Is breá sé",
-    "more": "NÍOS MÓ",
     "Magazine Article": "Magazine Airteagal",
     "More options": "Tuilleadh roghanna",
     "My Account": "Mo chuntas",
@@ -186,5 +185,6 @@
     "You may need to restart the app for the new country to take effect": "Seans go mbeidh ort a atosú ar an app don tír nua chun éifeacht a ghlacadh",
     "cancel": "chur ar ceal",
     "failed": "Theip ar",
-    "from": "ó"
+    "from": "ó",
+    "more": "NÍOS MÓ"
 }

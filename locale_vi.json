@@ -40,7 +40,6 @@
     "Debug": "Gỡ lỗi",
     "Disliked It": "Nó không thích",
     "Don't ask again": "Đừng hỏi lại",
-    "Email": "Email",
     "Enter site to access": "Nhập trang web để truy cập",
     "Error showing VPN Service dialog": "Lỗi hiển thị hộp thoại VPN Dịch vụ",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Lỗi khi cố gắng để hiển thị các Android 4.0 + thoại Dịch vụ VPN. Điều này không nên xảy ra vì nó là một tính năng tiêu chuẩn của Android 4.0 +, nhưng thiết bị Android của bạn có thể không hỗ trợ VPN cấu hình tự động.",
@@ -89,7 +88,6 @@
     "Login": "Đăng nhập",
     "Logout": "Đăng xuất",
     "Love It": "Yêu nó",
-    "more": "THÊM",
     "Magazine Article": "Tạp chí Điều",
     "More options": "Nhiều tùy chọn",
     "My Account": "Tài khoản của tôi",
@@ -183,5 +181,6 @@
     "You may need to restart the app for the new country to take effect": "Bạn có thể cần phải khởi động lại ứng dụng cho các quốc gia mới có hiệu lực",
     "cancel": "hủy bỏ",
     "failed": "không",
-    "from": "từ"
+    "from": "từ",
+    "more": "THÊM"
 }

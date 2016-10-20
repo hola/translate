@@ -92,7 +92,6 @@
     "Login": "เข้าสู่ระบบ",
     "Logout": "ออกจากระบบ",
     "Love It": "รักมัน",
-    "more": "เพิ่มเติม",
     "Magazine Article": "บทความในนิตยสาร",
     "More options": "ตัวเลือกเพิ่มเติม",
     "My Account": "บัญชีของฉัน",
@@ -188,5 +187,6 @@
     "You may need to restart the app for the new country to take effect": "คุณอาจต้องรีสตาร์ท app สำหรับประเทศใหม่ที่จะมีผลบังคับใช้",
     "cancel": "ยกเลิก",
     "failed": "ล้มเหลว",
-    "from": "จาก"
+    "from": "จาก",
+    "more": "เพิ่มเติม"
 }

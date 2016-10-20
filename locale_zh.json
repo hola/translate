@@ -99,7 +99,6 @@
     "Login": "登录",
     "Logout": "登出",
     "Love It": "爱它",
-    "more": "更多",
     "Magazine Article": "杂志文章",
     "More options": "更多选项",
     "My Account": "我的账户",
@@ -202,5 +201,6 @@
     "YouTube": "YouTube的",
     "cancel": "取消",
     "failed": "失败",
-    "from": "从"
+    "from": "从",
+    "more": "更多"
 }

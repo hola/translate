@@ -93,7 +93,6 @@
     "Login": "Լոգին",
     "Logout": "Ելք",
     "Love It": "Սեր It",
-    "more": "ԱՎԵԼԻՆ",
     "Magazine Article": "Magazine Հոդված",
     "More options": "Լրացուցիչ ընտրանքներ",
     "My Account": "Իմ հաշիվը",
@@ -191,5 +190,6 @@
     "YouTube": "Յութուբ",
     "cancel": "վերացնել",
     "failed": "տապալվեց",
-    "from": "- ից"
+    "from": "- ից",
+    "more": "ԱՎԵԼԻՆ"
 }

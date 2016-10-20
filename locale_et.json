@@ -90,7 +90,6 @@
     "Login": "Logi sisse",
     "Logout": "Logi välja",
     "Love It": "Armastan seda",
-    "more": "ROHKEM",
     "Magazine Article": "Magazine artikli",
     "More options": "Rohkem valikuid",
     "My Account": "Minu konto",
@@ -184,5 +183,6 @@
     "You may need to restart the app for the new country to take effect": "Teil võib tekkida vajadus uuesti app uue riigi jõustuma",
     "cancel": "tühistama",
     "failed": "ebaõnnestus",
-    "from": "pärit"
+    "from": "pärit",
+    "more": "ROHKEM"
 }

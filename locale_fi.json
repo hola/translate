@@ -90,7 +90,6 @@
     "Login": "Kirjaudu sisään",
     "Logout": "Kirjautua ulos",
     "Love It": "Rakasta sitä",
-    "more": "LISÄÄ",
     "Magazine Article": "Lehden artikkeli",
     "More options": "Lisää vaihtoehtoja",
     "My Account": "Tilini",
@@ -187,5 +186,6 @@
     "You may need to restart the app for the new country to take effect": "Saatat joutua käynnistämään sovellusksen uudelleen saadaksesi uuden maan voimaan",
     "cancel": "peruuta",
     "failed": "epäonnistui",
-    "from": "kohteesta"
+    "from": "kohteesta",
+    "more": "LISÄÄ"
 }

@@ -86,7 +86,6 @@
     "Login": "Prihlásiť sa",
     "Logout": "Odhlásiť sa",
     "Love It": "Milujem to",
-    "more": "VIAC",
     "Magazine Article": "Magazine článok",
     "More options": "Ďalšie možnosti",
     "My Account": "Môj účet",
@@ -179,5 +178,6 @@
     "You may need to restart the app for the new country to take effect": "Možno bude potrebné reštartovať aplikáciu, aby sa prejavila zmena krajiny",
     "cancel": "zrušiť",
     "failed": "zlyhal",
-    "from": "od"
+    "from": "od",
+    "more": "VIAC"
 }

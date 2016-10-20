@@ -40,7 +40,6 @@
     "Debug": "Otkloniti neispravnost",
     "Disliked It": "Nije mi se svidjelo to",
     "Don't ask again": "Ne pitaj ponovno",
-    "Email": "Email",
     "Enter site to access": "Unesite mjesto na pristup",
     "Error showing VPN Service dialog": "Pogreška pokazuje VPN usluga dijalog",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Pogreška pokušavajući pokazati Android 4.0 + VPN usluga dijalog. To se ne bi trebalo dogoditi jer je standardno obilježje Android 4.0 +, ali vaš Android uređaj ne podržava VPN auto-konfiguraciju.",
@@ -86,7 +85,6 @@
     "Login": "Prijaviti se",
     "Logout": "Odjaviti se",
     "Love It": "Volim to",
-    "more": "VIŠE",
     "Magazine Article": "Magazin Članak",
     "More options": "Više opcija",
     "My Account": "Moj račun",
@@ -183,5 +181,6 @@
     "You may need to restart the app for the new country to take effect": "Možda ćete morati ponovno pokrenuti aplikaciju za nova zemlja bi stupiti na snagu",
     "cancel": "otkazati",
     "failed": "Neuspjela",
-    "from": "iz"
+    "from": "iz",
+    "more": "VIŠE"
 }

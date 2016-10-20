@@ -93,7 +93,6 @@
     "Login": "Логирај Се",
     "Logout": "Одјава",
     "Love It": "Го сакам",
-    "more": "ПОВЕЌЕ",
     "Magazine Article": "Списание Член",
     "More options": "Повеќе опции",
     "My Account": "Моја сметка",
@@ -190,5 +189,6 @@
     "You may need to restart the app for the new country to take effect": "Можеби ќе треба да го рестартирате стан за новата држава да стапи на сила",
     "cancel": "откажете",
     "failed": "не",
-    "from": "од"
+    "from": "од",
+    "more": "ПОВЕЌЕ"
 }

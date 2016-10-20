@@ -90,7 +90,6 @@
     "Loading...": "Įkeliama ...",
     "Login": "Prisijungti",
     "Logout": "Atsijungti",
-    "more": "DAUGIAU",
     "Magazine Article": "Žurnalu straipsnis",
     "More options": "Daugiau parinkčių",
     "My Account": "Mano anketa",
@@ -186,5 +185,6 @@
     "You may need to restart the app for the new country to take effect": "Jums gali tekti iš naujo paleisti app naujai šaliai",
     "cancel": "atšaukti",
     "failed": "nepavyko",
-    "from": "nuo"
+    "from": "nuo",
+    "more": "DAUGIAU"
 }

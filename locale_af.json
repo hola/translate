@@ -87,7 +87,6 @@
     "Login": "Teken",
     "Logout": "Teken uit",
     "Love It": "Hou daarvan",
-    "more": "MEER",
     "Magazine Article": "Magazine artikel",
     "More options": "Meer opsies",
     "My Account": "My rekening",
@@ -180,5 +179,6 @@
     "You may need to restart the app for the new country to take effect": "Jy moet dalk die jeug te begin vir die nuwe land in werking te tree",
     "cancel": "kanselleer",
     "failed": "misluk",
-    "from": "uit"
+    "from": "uit",
+    "more": "MEER"
 }

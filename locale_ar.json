@@ -93,7 +93,6 @@
     "Login": "تسجيل الدخول",
     "Logout": "تسجيل خروج",
     "Love It": "أحبه",
-    "more": "أكثر",
     "Magazine Article": "مجلة المادة",
     "More options": "خيارات أكثر",
     "My Account": "حسابي",
@@ -191,5 +190,6 @@
     "YouTube": "يوتيوب",
     "cancel": "إلغاء",
     "failed": "فشل التحميل",
-    "from": "من"
+    "from": "من",
+    "more": "أكثر"
 }

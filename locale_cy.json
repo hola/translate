@@ -91,7 +91,6 @@
     "Login": "Mewngofnodi",
     "Logout": "Allgofnodi",
     "Love It": "Cariad Mae'n",
-    "more": "MWY",
     "Magazine Article": "Cylchgrawn Erthygl",
     "More options": "Mwy o ddewisiadau",
     "My Account": "Fy nghyfrif",
@@ -187,5 +186,6 @@
     "You may need to restart the app for the new country to take effect": "Efallai y bydd angen i chi ailgychwyn yr ap er mwyn pori o’r wlad honno",
     "cancel": "diddymwch",
     "failed": "methwyd",
-    "from": "o"
+    "from": "o",
+    "more": "MWY"
 }

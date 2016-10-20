@@ -37,7 +37,6 @@
     "Create Account": "Lav konto",
     "Disliked It": "Kunne ikke lide det",
     "Don't ask again": "Spørg ikke igen",
-    "Email": "Email",
     "Enter site to access": "Indtast stedet for at få adgang",
     "Error showing VPN Service dialog": "Fejl ved visning af VPN service dialog",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Fejl ved forsøget på at vise Android 4.0+ VPN service dialog. Dette bør ikke ske, da det er en standardfunktion i Android 4.0+, men din Android-enhed understøtter muligvis ikke VPN auto-konfiguration.",
@@ -84,7 +83,6 @@
     "Login": "Log på",
     "Logout": "Log ud",
     "Love It": "Elsker det",
-    "more": "MERE",
     "Magazine Article": "Tidsskriftsartikel",
     "More options": "Flere muligheder",
     "My Account": "Min konto",
@@ -174,5 +172,6 @@
     "You may need to restart the app for the new country to take effect": "Du skal muligvis genstarte app'en, for at det nye land kan træde i kraft",
     "cancel": "annullere",
     "failed": "mislykket",
-    "from": "fra"
+    "from": "fra",
+    "more": "MERE"
 }

@@ -87,7 +87,6 @@
     "Login": "Vpiši se",
     "Logout": "Izpisati",
     "Love It": "Ljubim to",
-    "more": "VEČ",
     "Magazine Article": "Magazine člen",
     "More options": "Več možnosti",
     "My Account": "Moj račun",
@@ -178,5 +177,6 @@
     "You may need to restart the app for the new country to take effect": "Morda boste morali znova zagnati aplikacijo za novo državo, da začnejo veljati",
     "cancel": "preklic",
     "failed": "ni",
-    "from": "od"
+    "from": "od",
+    "more": "VEČ"
 }

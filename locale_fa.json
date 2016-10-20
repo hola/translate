@@ -93,7 +93,6 @@
     "Login": "وارد شدن",
     "Logout": "خارج شدن",
     "Love It": "دوستش دارم",
-    "more": "بیش",
     "Magazine Article": "مجله مقاله",
     "More options": "گزینه های بیشتر",
     "My Account": "حساب من",
@@ -191,5 +190,6 @@
     "YouTube": "یوتیوب",
     "cancel": "لغو کردن",
     "failed": "ناموفق",
-    "from": "از"
+    "from": "از",
+    "more": "بیش"
 }

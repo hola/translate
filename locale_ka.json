@@ -89,7 +89,6 @@
     "Login": "შესვლა",
     "Logout": "გამოსვლა",
     "Love It": "მიყვარს ეს",
-    "more": "სხვა",
     "Magazine Article": "ჟურნალი მუხლი",
     "More options": "მეტი პარამეტრები",
     "My Account": "ჩემი ანგარიში",
@@ -183,5 +182,6 @@
     "You may need to restart the app for the new country to take effect": "თქვენ შეიძლება უნდა გადატვირთეთ app ახალი ქვეყნის ძალაში",
     "cancel": "გააუქმოს",
     "failed": "ჩაიშალა",
-    "from": "საწყისი"
+    "from": "საწყისი",
+    "more": "სხვა"
 }

@@ -86,7 +86,6 @@
     "Login": "Einloggen",
     "Logout": "Abmelden",
     "Love It": "Liebe es",
-    "more": "MEHR",
     "Magazine Article": "Magazinartikel",
     "More options": "Weitere Optionen",
     "My Account": "Mein Konto",
@@ -179,5 +178,6 @@
     "You may need to restart the app for the new country to take effect": "Möglicherweise müssen Sie die App neu starten, damit das neue Land aktiv wird",
     "cancel": "abbrechen",
     "failed": "fehlgeschlagen",
-    "from": "von"
+    "from": "von",
+    "more": "MEHR"
 }

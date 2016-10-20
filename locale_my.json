@@ -91,7 +91,6 @@
     "Login": "ဝင်မည်",
     "Logout": "ထွက်မည်",
     "Love It": "ဒါကိုအရမ်းကြိုက်တယ်",
-    "more": "ပိုမို",
     "Magazine Article": "မဂ္ဂဇင်း ဆောင်းပါး",
     "More options": "ပိုမိုရွေးချယ်မှုများ",
     "My Account": "ကျွန်ုပ်၏အကောင့်",
@@ -187,5 +186,6 @@
     "You may need to restart the app for the new country to take effect": "နိုင်ငံအသစ်မှ သက်ရောက်မှုရှိစေရန်အတွက် သင် app ကို ပြန်လည်စတင်ဖို့လို့ပါတယ်",
     "cancel": "ပယ်ဖျက်",
     "failed": "မအောင်မြင်ပါ",
-    "from": "မှတစ်ဆင့်"
+    "from": "မှတစ်ဆင့်",
+    "more": "ပိုမို"
 }

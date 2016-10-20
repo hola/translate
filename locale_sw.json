@@ -87,7 +87,6 @@
     "Loading...": "Loading ...",
     "Login": "Ingia",
     "Love It": "Naipenda",
-    "more": "ZAIDI",
     "Magazine Article": "Magazine Ibara",
     "More options": "Chaguzi zaidi",
     "My Account": "Akaunti yangu",
@@ -181,5 +180,6 @@
     "You may need to restart the app for the new country to take effect": "Unaweza haja ya kuanzisha upya programu kwa ajili ya nchi mpya kuchukua athari",
     "cancel": "kufuta",
     "failed": "wameshindwa",
-    "from": "kutoka"
+    "from": "kutoka",
+    "more": "ZAIDI"
 }

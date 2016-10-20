@@ -97,7 +97,6 @@
     "Login": "Giriş yap",
     "Logout": "Çıkış Yap",
     "Love It": "Beğendim",
-    "more": "DAHA ÇOK",
     "Magazine Article": "Dergi Makale",
     "More options": "Daha fazla seçenek",
     "My Account": "Hesabım",
@@ -198,5 +197,6 @@
     "You may need to restart the app for the new country to take effect": "Yeni ülkenin etkili olması için uygulamayı yeniden başlatmanız gerekebilir",
     "cancel": "iptal",
     "failed": "başarısız",
-    "from": "itibaren"
+    "from": "itibaren",
+    "more": "DAHA ÇOK"
 }

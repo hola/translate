@@ -90,7 +90,6 @@
     "Login": "Iniciar sesión",
     "Logout": "Cerrar sesión",
     "Love It": "Amo",
-    "more": "MÁS",
     "Magazine Article": "Artículo de revista",
     "More options": "Más opciones",
     "My Account": "Mi Cuenta",
@@ -185,5 +184,6 @@
     "You may need to restart the app for the new country to take effect": "Puede que tenga que reiniciar la aplicación para que el nuevo país entre en vigor",
     "cancel": "cancelar",
     "failed": "fallo",
-    "from": "desde"
+    "from": "desde",
+    "more": "MÁS"
 }

@@ -40,7 +40,6 @@
     "Debug": "Ladit",
     "Disliked It": "Nelíbilo se to",
     "Don't ask again": "Nepoužívejte znovu ptát",
-    "Email": "Email",
     "Enter site to access": "Zadejte webu přístup",
     "Error showing VPN Service dialog": "Chyba ukazuje dialog Služba VPN",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Chyba snaží ukázat, Android 4.0 + služby VPN dialog. To by se nemělo stát, protože je to standardní funkce Android 4.0 +, ale váš Android zařízení nemusí podporovat VPN automatické konfigurace.",
@@ -86,7 +85,6 @@
     "Login": "Přihlásit se",
     "Logout": "Odhlásit se",
     "Love It": "Miluji to",
-    "more": "VÍCE",
     "Magazine Article": "Magazine článek",
     "More options": "Další možnosti",
     "My Account": "Můj účet",
@@ -178,5 +176,6 @@
     "You may need to restart the app for the new country to take effect": "Možná bude nutné restartovat aplikaci pro nová země se projeví až po",
     "cancel": "zrušit",
     "failed": "neúspěšný",
-    "from": "od"
+    "from": "od",
+    "more": "VÍCE"
 }

@@ -93,7 +93,6 @@
     "Login": "પ્રવેશ",
     "Logout": "લૉગ આઉટ",
     "Love It": "તેને પ્રેમ",
-    "more": "વધુ",
     "Magazine Article": "મેગેઝીન લેખ",
     "More options": "વધુ વિકલ્પો",
     "My Account": "મારું ખાતું",
@@ -190,5 +189,6 @@
     "You may need to restart the app for the new country to take effect": "નવા દેશમાં અસર લેવા માટે તમે એપ્લિકેશનને ફરીથી પ્રારંભ કરવાની જરૂર પડી શકે",
     "cancel": "રદ કરવું",
     "failed": "નિષ્ફળ",
-    "from": "થી"
+    "from": "થી",
+    "more": "વધુ"
 }

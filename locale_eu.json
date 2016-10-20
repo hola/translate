@@ -83,7 +83,6 @@
     "Login": "Sartu",
     "Logout": "Saioa amaitu",
     "Love It": "Maite dut",
-    "more": "Gehiago",
     "Magazine Article": "Aldizkariko artikulua",
     "More options": "Aukera gehiago",
     "My Account": "Nire kontua",
@@ -173,5 +172,6 @@
     "You may need to restart the app for the new country to take effect": "Aplikazioa berrabiarazi behar izatea da herrialde berriak eragina izateko",
     "cancel": "bertan behera",
     "failed": "huts egin du",
-    "from": "etatik"
+    "from": "etatik",
+    "more": "Gehiago"
 }

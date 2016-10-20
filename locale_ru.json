@@ -93,7 +93,6 @@
     "Login": "Авторизоваться",
     "Logout": "Выйти",
     "Love It": "Люблю это",
-    "more": "БОЛЬШЕ",
     "Magazine Article": "Статья в журнале",
     "More options": "Дополнительные опции",
     "My Account": "Мой аккаунт",
@@ -190,5 +189,6 @@
     "You may need to restart the app for the new country to take effect": "Возможно, вам придется перезапустить приложение для того что бы изменение страны вступило в силу",
     "cancel": "отменить",
     "failed": "ошибка",
-    "from": "от"
+    "from": "от",
+    "more": "БОЛЬШЕ"
 }

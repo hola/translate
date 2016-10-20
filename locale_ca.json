@@ -89,7 +89,6 @@
     "Login": "Entrada",
     "Logout": "Tancar sessió",
     "Love It": "M'encanta",
-    "more": "MÉS",
     "Magazine Article": "Article de revista",
     "More options": "Més opcions",
     "My Account": "El meu compte",
@@ -184,5 +183,6 @@
     "You may need to restart the app for the new country to take effect": "Podria ser necessari reiniciar l'aplicació per al nou país que entrarà en vigor",
     "cancel": "cancel · lar",
     "failed": "fracassat",
-    "from": "des"
+    "from": "des",
+    "more": "MÉS"
 }

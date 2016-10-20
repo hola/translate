@@ -39,7 +39,6 @@
     "Debug": "Fouten opsporen",
     "Disliked It": "Hekel Het",
     "Don't ask again": "Vraag niet nogmaals",
-    "Email": "Email",
     "Enter site to access": "Ga site binnen om toegang te krijgen tot",
     "Error showing VPN Service dialog": "Fout met tonen VPN-service dialoog",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Fout bij het tonen van het Android 4.0+ VPN-service dialoogvenster. Omdat het een standaard functie van Android 4.0+ is zou dit niet mogen gebeuren. Mogelijk heeft uw Android toestel geen ondersteuning voor automatische VPN-configuraties.",
@@ -83,7 +82,6 @@
     "Login": "Log in",
     "Logout": "Uitloggen",
     "Love It": "Hou ervan",
-    "more": "MEER",
     "Magazine Article": "Magazine artikel",
     "More options": "Meer opties",
     "My Account": "Mijn account",
@@ -176,5 +174,6 @@
     "You may need to restart the app for the new country to take effect": "Het kan nodig zijn om de app opnieuw te starten voor het nieuwe land door te voeren",
     "cancel": "annuleren",
     "failed": "mislukt",
-    "from": "van"
+    "from": "van",
+    "more": "MEER"
 }

@@ -87,7 +87,6 @@
     "Hola is off": "Hola כבויה",
     "Hola not working?": "Hola לא עובד?",
     "Hola requires VPN access. In the next screen press 'I trust this application'. A key icon will appear to show that Hola is working.": "Hola מחייבת גישת VPN. במסך הבא - לחץ 'אני סומך על יישום זה'. סמל של מפתח יופיע כדי להראות שHola עובדת.",
-    "Hola shares the idle resources of its users to benefit everyone.": "Hola משתפת את המשאבים שלא בשימוש של המשתמשים שלה לתועלת כולם.",
     "Hola stays free by providing a paid-for, commercial version of the VPN service to businesses.": "Hola נשארת חינמית על ידי מתן אפשרות לגרסה מסחרית של שירות ה VPN לעסקים.",
     "Hola! supports the protection of intellectual property and asks the end users of its application (hola free VPN) to do the same. We will take all reasonable efforts to respond to all notices of alleged copyright infringement.": "Hola! תומך בהגנה על קניין רוחני ושואל למשתמשי הקצה של היישומים שלה (VPN החופשי Hola) לעשות את אותו הדבר. אנחנו ניקח את כל המאמצים סבירים להגיב לכל ההודעות של הפרת זכויות יוצרים לכאורה.",
     "How did you hear about us?": "איך שמעת עלינו?",
@@ -103,7 +102,6 @@
     "Login": "התחבר",
     "Logout": "יציאה",
     "Love It": "אוהב את זה",
-    "more": "נוסף",
     "Magazine Article": "מאמר במגזין",
     "More options": "אפשרויות נוספות",
     "My Account": "החשבון שלי",
@@ -209,5 +207,6 @@
     "cancel": "בטל",
     "failed": "נכשל",
     "from": "מן",
-    "here": "כאן"
+    "here": "כאן",
+    "more": "נוסף"
 }
