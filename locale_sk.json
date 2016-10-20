@@ -19,6 +19,7 @@
     "Back Key": "Tlačidlo Späť",
     "Back to": "Späť na",
     "Better Internet": "Lepší Internet",
+    "Blog": "Blog",
     "Bonus": "Prémia",
     "Browser": "Prehliadač",
     "Browsing from": "Prístup z",
@@ -178,6 +179,11 @@
     "You may need to restart the app for the new country to take effect": "Možno bude potrebné reštartovať aplikáciu, aby sa prejavila zmena krajiny",
     "cancel": "zrušiť",
     "failed": "zlyhal",
+<<<<<<< HEAD
     "from": "od",
     "more": "VIAC"
 }
+=======
+    "from": "od"
+}
+>>>>>>> weblate-android

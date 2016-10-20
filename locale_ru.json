@@ -125,7 +125,7 @@
     "Please insert SD card.": "Пожалуйста, вставьте SD карту.",
     "Please try again later": "Пожалуйста, повторите попытку позже",
     "Popular": "Популярный",
-    "Popular List": "Популярный список",
+    "Popular List": "Список популярного",
     "Popular apps": "Популярные приложения",
     "Popular in": "Популярно в",
     "Popular sites": "Популярные сайты",
@@ -189,6 +189,11 @@
     "You may need to restart the app for the new country to take effect": "Возможно, вам придется перезапустить приложение для того что бы изменение страны вступило в силу",
     "cancel": "отменить",
     "failed": "ошибка",
+<<<<<<< HEAD
     "from": "от",
     "more": "БОЛЬШЕ"
 }
+=======
+    "from": "от"
+}
+>>>>>>> weblate-android
