@@ -46,11 +46,8 @@
     "Debug": "Debug",
     "Disliked It": "Non mi piace",
     "Don't ask again": "Non chiedermelo più",
-<<<<<<< HEAD
-=======
     "Don’t want to be a peer? Download Hola premium": "Non vuoi essere un peer? Scarica Hola premium",
     "Email": "E-mail",
->>>>>>> weblate-android
     "Enter site to access": "Vai al sito per accedere",
     "Error showing VPN Service dialog": "Errore nel mostrare la finestra di dialogo del servizio VPN",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Errore nel tentativo di mostrare la finestra del servizio VPN su Android 4.0+. Questo non dovrebbe accadere in quanto è una funzione standard di Android 4.0+, ma il tuo dispositivo Android potrebbe non supportare la configurazione VPN automatica.",
@@ -196,13 +193,8 @@
     "Upgrade": "Esegui l'Upgrade",
     "Using from": "İn uso da",
     "WELCOME TO HOLA!": "BENVENUTO IN HOLA!",
-<<<<<<< HEAD
     "We don't allow @%1$s email addresses.": "Non permettiamo indirizzi email @%1$s.",
     "Web": "",
-=======
-    "We don't allow @%1$s email addresses.": "Non permettiamo indirizzi e-mail @%1$s.",
-    "Web": "Web",
->>>>>>> weblate-android
     "Website/Search Engine": "Sito Web/Motore di Ricerca",
     "Websites": "Siti web",
     "Welcome to": "Benvenuto in",
@@ -215,10 +207,5 @@
     "cancel": "annulla",
     "failed": "fallito",
     "from": "da",
-<<<<<<< HEAD
     "more": "DI PIÙ"
 }
-=======
-    "here": "qui"
-}
->>>>>>> weblate-android
