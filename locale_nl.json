@@ -43,7 +43,6 @@
     "Error showing VPN Service dialog": "Fout met tonen VPN-service dialoog",
     "Error trying to show the Android 4.0+ VPN Service dialog. This shouldn't happen as it's a standard feature of Android 4.0+, but your Android device may not support VPN auto-configuration.": "Fout bij het tonen van het Android 4.0+ VPN-service dialoogvenster. Omdat het een standaard functie van Android 4.0+ is zou dit niet mogen gebeuren. Mogelijk heeft uw Android toestel geen ondersteuning voor automatische VPN-configuraties.",
     "Error, please try again": "Fout, probeer het opnieuw",
-    "FAQ": "FAQ",
     "Failed downloading": "Gefaald downloaden",
     "Family or Friend": "Familie of vriend",
     "Feedback": "Terugkoppeling",
