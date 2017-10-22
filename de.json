@@ -6,13 +6,17 @@
     "Anytime, anyplace!": "Jederzeit und überall!",
     "Back to top": "Zurück zum Seitenanfang",
     "Careers": "Karriere",
+    "Choose your plan:": "Wähle deinen Plan",
+    "Click here": "Klick hier",
     "Community powered VPN": "Gemeinschaftlich betriebener VPN",
     "Contact us": "Kontaktiere uns",
     "DMCA policy": "DMCA-Richtlinie",
     "Detecting Hola...": "Erkenne Hola...",
+    "Download again": "Nochmal Downloaden",
     "General": "Generell",
     "Get in touch": "In Kontakt kommen",
     "Hola - Free VPN, Secure Browsing, Unrestricted Access": "Hola - Kostenloser VPN, Sicheres Surfen, uneingeschränkter Zugriff",
+    "Hola FAQ": "Hola FAQ",
     "Hola for business (Luminati)": "Hola für Geschäftskunden (Luminati)",
     "Hola gives you the freedom to browse the web without censorship and to watch videos with less buffering and faster start time": "Hola gibt dir die Freiheit das Internet ohne Zensur zu nutzen und Mediendateien direkt abzuspielen ohne auf deren Download warten zu müssen",
     "Hola is free for non-commercial use. For commercial use Hola charges a fee -- this helps keep Hola free for our users.": "Hola ist für die nicht-kommerzielle Nutzung. Für die kommerzielle Nutzung erhebt Hola eine Gebühr - das hilft Hola dabei für unsere Nutzer kostenlos zu bleiben.",
@@ -39,5 +43,6 @@
     "Tweet about Hola VPN": "Tweete über Hola VPN",
     "Used by over <b>{number} {number, plural, other{million}}</b> people around the world": "Wird von über <b>{number} {number, plural, other{million}}</b> Menschen auf der ganzen Welt benutzt",
     "What are you waiting for?": "Worauf wartest du?",
-    "Why use Hola?": "Warum du Hola verwenden solltest?"
+    "Why use Hola?": "Warum du Hola verwenden solltest?",
+    "click here to update your browser": "Klicke hier um den Browser zu updaten"
 }
